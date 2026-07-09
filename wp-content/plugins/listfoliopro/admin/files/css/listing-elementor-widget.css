@@ -1,0 +1,2382 @@
+/* Banner One CSS */
+:root{
+	--prime-color:#0882aa;	
+	--second-color:#87f1f2;  
+}
+.home-banner-one-wrapper {
+    padding-top: 190px;
+    padding-bottom: 100px;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-one-title h1 {
+    font-size: 80px;
+    font-weight: 300;
+    line-height: 110%;
+}
+
+.banner-one-title h1 strong {
+    font-weight: 600;
+}
+
+
+
+.banner-one-search-form-wrapper form#listfoliopro_search_form {
+    border-radius: 24px;
+    background: #ffffff;
+    box-shadow: 0px 20px 100px 0px rgba(0, 0, 0, 0.20);
+    padding: 25px 235px 20px 30px;
+}
+
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group {
+    margin-bottom: 0;
+}
+
+
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:last-child {
+    position: absolute;
+    right: 18px;
+    max-width: 245px;
+    top: 8px;
+}
+
+
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:not(:last-child) {
+    max-width: 40%;
+    flex: 0 0 40%;
+    margin-right: 30px;
+}
+.banner-one-search-form-wrapper .select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 0px !important;  
+}	
+
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:nth-last-child(2) {
+    margin-right: 0;
+}
+
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:before {
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 1px;
+    background-color: #cccccc;
+    right: -15px;
+}
+
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:last-child:before,
+.banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:nth-last-child(2):before {
+    display: none;
+}
+
+.banner-one-search-form-wrapper #listfoliopro_search_form button[type="submit"].btn.btn-big {
+    border-radius: 20px;
+    padding: 27px 30px 27px 35px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: var(--prime-color);
+    color: #ffffff;
+	margin-top:15px;
+}
+
+.banner-one-search-form-wrapper #listfoliopro_search_form button[type="submit"] img {
+    margin-left: 10px;
+    flex: 1;
+    height: 24px;
+}
+
+.banner-one-search-form-wrapper .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #000000;
+}
+
+.banner-one-search-form-wrapper .ms-options-wrap > button:after {
+    border-top-color: #999999 ;
+}
+
+.banner-one-search-form-wrapper .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    border-color: #999999  transparent transparent transparent;
+}
+
+
+.banner-one-search-form-wrapper .ms-options-wrap > .ms-options,
+.select2-dropdown {
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, .15) 0 0 10px 0;
+    padding: 10px;
+    border-top: none !important;
+}
+
+.banner-one-search-form-wrapper .ms-options-wrap > .ms-options > .ms-search input,
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    border-bottom: 1px solid #cccccc !important;
+}
+
+.bootstrap-wrapper.home-banner-one-wrapper .form-row > .col,
+.bootstrap-wrapper.home-banner-one-wrapper .form-row > [class*="col-"] {
+    padding: 0 5px !important;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .banner-one-title h1 {
+        font-size: 60px;
+    }
+
+    .banner-one-search-form-wrapper {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:not(:last-child) {
+        max-width: 40%;
+        flex: 0 0 40%;
+    }
+
+    .banner-one-search-form-wrapper #listfoliopro_search_form button[type="submit"].btn.btn-big {
+        padding: 27px 30px 27px 35px !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .home-banner-one-wrapper {
+        padding-top: 135px;
+        padding-bottom: 60px;
+    }
+
+    .banner-one-title h1 {
+        font-size: 34px;
+    }
+
+    .banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:not(:last-child) {
+        max-width: 100%;
+        flex: 100%;
+        margin-right: 0;
+    }
+
+    .banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:last-child {
+        position: relative;
+        right: auto;
+        max-width: 100%;
+        top: auto;
+    }
+
+    .banner-one-search-form-wrapper form#listfoliopro_search_form {
+        padding: 15px;
+    }
+
+
+    .banner-one-search-form-wrapper #listfoliopro_search_form button[type="submit"].btn.btn-big {
+        margin-top: 20px;
+    }
+
+    .banner-one-search-form-wrapper .bootstrap-wrapper.listfoliopro-search-wrapper .form-group:before {
+        display: none;
+    }
+
+}
+
+
+/* Button CSS */
+
+.listfoliopro-button {
+    display: inline-flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 15px 30px;
+    border-radius: 16px;
+    border: 1px solid;
+}
+
+a.listfoliopro-button{
+    border-color: var(--prime-color);
+    background-color: var(--prime-color);
+    color: #ffffff;
+}
+
+a.listfoliopro-button:hover {
+      border-color: #000000;
+      background-color: #000000;
+      color: #ffffff;
+  }
+
+
+.listfoliopro-button svg {
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+/* Category Widget CSS */
+.listing-category-item {
+    background-color: #ffffff;
+    border-radius: 24px;
+    text-align: center;
+}
+
+.listing-category-item a {
+    display: block;
+    text-decoration: none;
+    padding: 40px 30px 50px 30px;
+}
+
+.listing-cat-icon {
+    height: 120px;
+    width: 120px;
+    line-height: 120px;
+    display: inline-block;
+    font-size: 120px;
+    margin-bottom: 25px;
+}
+
+.listing-cat-name {
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 0 !important;
+}
+
+.slider-progress, .testimonial-slider-progress {
+    display: block;
+    width: 100%;
+    height: 2px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #b3b3b3;
+    background-image: linear-gradient(to right, black, black);
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    transition: background-size .3s ease-in-out;
+    margin-top: 30px;
+}
+.slick-slide {   
+    padding: 0 15px;
+}
+.listing-category-wrapper .slider-button-wrapper {
+    margin-top: 35px;
+    text-align: right;
+}
+
+.listing-category-wrapper .slick-arrow {
+    position: absolute;
+    bottom: -110px;
+    left: 0;
+    cursor: pointer;
+    width: 60px;
+}
+
+.listing-category-wrapper .slick-arrow.slick-next {
+    margin-left: 40px;
+}
+
+.slick-arrow.rotate-arrow {
+    transform: rotate(180deg);
+}
+
+.listing-category-item a:focus {
+    outline: none;
+}
+
+.listing-category-wrapper .slick-slide:nth-child(even) .listing-category-item {
+    background-color: #eef3e4;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .listing-cat-name {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .listing-cat-icon {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        display: inline-block;
+        font-size: 100px;
+        margin-bottom: 15px;
+    }
+
+    .listing-category-item a {
+        padding: 35px 30px 45px 30px;
+    }
+
+    .listing-cat-name {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .listing-category-wrapper.bootstrap-wrapper .container {
+        padding: 0;
+    }
+}
+
+/* Section Title CSS*/
+
+.listfoliopro-section-title-one-wrapper {
+    margin-bottom: 40px;
+}
+
+.listfoliopro-section-title-one-wrapper .section-subtitle {
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 140%;
+    margin-top: 10px;
+}
+
+.listfoliopro-section-title-one-wrapper .section-title h1,
+.listfoliopro-section-title-one-wrapper .section-title h2,
+.listfoliopro-section-title-one-wrapper .section-title h3,
+.listfoliopro-section-title-one-wrapper .section-title h4,
+.listfoliopro-section-title-one-wrapper .section-title h5,
+.listfoliopro-section-title-one-wrapper .section-title h6 {
+    font-size: 48px;
+    font-weight: 300;
+    line-height: 140%;
+    margin-bottom: 0;
+}
+
+.listfoliopro-section-title-one-wrapper .section-title h1 strong,
+.listfoliopro-section-title-one-wrapper .section-title h2 strong,
+.listfoliopro-section-title-one-wrapper .section-title h3 strong,
+.listfoliopro-section-title-one-wrapper .section-title h4 strong,
+.listfoliopro-section-title-one-wrapper .section-title h5 strong,
+.listfoliopro-section-title-one-wrapper .section-title h6 strong {
+    font-weight: 600;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .listfoliopro-section-title-one-wrapper .section-subtitle {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .bootstrap-wrapper .listfoliopro-section-title-one-wrapper .container {
+        padding: 0;
+    }
+
+    .listfoliopro-section-title-one-wrapper .section-title h1, .listfoliopro-section-title-one-wrapper .section-title h2, .listfoliopro-section-title-one-wrapper .section-title h3, .listfoliopro-section-title-one-wrapper .section-title h4, .listfoliopro-section-title-one-wrapper .section-title h5, .listfoliopro-section-title-one-wrapper .section-title h6 {
+        font-size: 32px;
+    }
+
+    .listfoliopro-section-title-one-wrapper {
+        margin-bottom: 15px;
+    }
+}
+
+
+/* Listing Widget CSS */
+.single-listing-item .listing-thumbnail-image {
+    height: 300px;
+    display: block;
+    background-position: center;
+    background-size: cover;
+    border-radius: 24px 24px 0 0;
+}
+
+.single-listing-item label.featured-text {
+    padding: 8px 17px;
+    background-color: #87f1f2;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 140%;
+    margin-right: 5px;
+}
+
+.single-listing-item .fev-btn {
+    background-color: #D3E2BB;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 8px;
+}
+
+.listing-thumb-features-fav-icon-wrapper {
+    position: relative;
+}
+
+.features-fav-info {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.single-listing-item {
+    border-radius: 24px;
+    background: #ffffff;
+    box-shadow: 0px 4px 50px -24px #E5E5E5;
+    margin-bottom: 30px;
+}
+
+.listing-content-wrapper {
+    padding: 30px;
+}
+
+.single-listing-item .listing-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+    color: #000000;
+}
+
+.single-listing-item .review-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-item .listing-review {
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-item .star-icon {
+    color: var(--prime-color);
+    font-size: 14px;
+}
+
+.single-listing-item .review-point {
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 5px;
+}
+
+.single-listing-item .total-review {
+    font-size: 14px;
+    display: none;
+}
+
+.single-listing-item .rating-price-category {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 30px;
+    margin-top: 15px;
+}
+
+.single-listing-item .listfoliopro-listing-price {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--prime-color);
+}
+
+.single-listing-item .listfoliopro-listing-price .price-icon {
+    margin-right: 5px;
+    width: 18px;
+}
+
+.single-listing-item .listfoliopro-listing-price .price-icon svg,
+.single-listing-item .list-fast-cat .cat-icon svg {
+    width: 100%;
+}
+
+.single-listing-item .listfoliopro-listing-price .listfoliopro-main-price {
+    color: #000000;
+    margin-right: 5px;
+}
+
+.single-listing-item .list-fast-cat {
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-item .cat-icon {
+    margin-right: 5px;
+    margin-top: -2px;
+    width: 18px;
+}
+
+.single-listing-item .review-count,
+.single-listing-item .price {
+    position: relative;
+    padding-right: 15px;
+    margin-right: 15px;
+}
+
+.single-listing-item .review-count:before,
+.single-listing-item .price:before {
+    position: absolute;
+    content: '';
+    height: 16px;
+    width: 1px;
+    background-color: #cccccc;
+    right: 0;
+    top: 50%;
+    margin-top: -8px;
+}
+
+.single-listing-item .listing-excerpt {
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.single-listing-item .listing-location {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-item .listing-location,
+.single-listing-item .listing-location a {
+    color: var(--prime-color);
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.list-fast-cat a, .list-fast-cat a:hover {
+    color: #000000;
+}
+
+.single-listing-item .listing-location svg {
+    margin-right: 5px;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+@media only screen and (max-width: 1280px) {
+    .single-listing-item .review-count, .single-listing-item .price {
+        padding-right: 0;
+        margin-right: 15px;
+    }
+
+    .single-listing-item .review-count:before, .single-listing-item .price:before {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 991px) {
+    .single-listing-item .rating-price-category {
+        display: block;
+        padding-bottom: 20px;
+    }
+
+    .single-listing-item .review-count, .single-listing-item .price {
+        display: inline-flex;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .bootstrap-wrapper.listing-wrapper .container {
+        padding: 0;
+    }
+
+    .listing-content-wrapper {
+        padding: 20px 20px 25px 20px;
+    }
+
+    .single-listing-item .listing-title {
+        font-size: 22px;
+    }
+}
+
+/* Testimonial One Widget */
+.testimonial-one-section-wrapper {
+    position: relative;
+}
+
+.testimonial-one-items-wrapper {
+    background-color: #ffffff;
+    padding: 60px;
+    border-radius: 32px;
+    margin-bottom: 20px;
+}
+
+.testimonial-one-items-wrapper .testimonial-text {
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 165%;
+}
+
+.testimonial-one-items-wrapper .testimonial-text .testimonial-quote {
+    font-size: 55px;
+    font-weight: 500;
+    line-height: 1;
+    color: var(--prime-color);
+    display: inline-block;
+    height: 40px;
+}
+
+.testimonial-one-items-wrapper .person-image {
+    height: 64px;
+    width: 64px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.testimonial-one-items-wrapper .testimonial-author-info {
+    position: relative;
+    padding-left: 85px;
+    margin-top: 30px;
+}
+
+.testimonial-one-items-wrapper .name {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.testimonial-slider-button-wrapper {
+    text-align: right;
+    margin-top: 40px;
+    position: relative;
+}
+
+.testimonial-one-slide-arrow {
+    position: absolute;
+    left: 0;
+    top: 17px;
+    display: flex;
+}
+
+.testimonial-one-section-wrapper .slick-arrow {
+    width: 35px;
+    cursor: pointer;
+}
+
+
+.testimonial-prev-arrow.slick-arrow {
+    transform: rotate(180deg);
+    margin-right: 10px;
+}
+
+.testimonial-prev-arrow.slick-arrow img {
+    margin-bottom: 5px;
+}
+
+.testimonial-left-list-wrapper {
+    background-color: var(--prime-color);
+    padding: 30px;
+    border-radius: 32px;
+}
+
+.testimonial-left-list-wrapper ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.testimonial-left-list-wrapper li {
+    background-color: #F5F5F5;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    padding: 16px 25px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.testimonial-left-list-wrapper li:last-child {
+    margin-bottom: 0;
+}
+
+
+.testimonial-left-list-wrapper li img {
+    height: 20px;
+    width: 20px;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .testimonial-left-list-wrapper li {
+        margin-right: 10px;
+    }
+
+    .testimonial-one-items-wrapper {
+        padding: 40px 35px;
+        margin-top: 40px;
+    }
+
+    .testimonial-two-section-wrapper .testimonial-one-items-wrapper {
+        margin-top: 0;
+    }
+
+    .testimonial-one-items-wrapper .testimonial-text {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .testimonial-one-section-wrapper.bootstrap-wrapper .container {
+        padding: 0;
+    }
+
+    .testimonial-one-items-wrapper {
+        padding: 30px 30px;
+    }
+
+    .testimonial-one-items-wrapper .testimonial-text {
+        font-size: 24px;
+    }
+}
+
+/* Recent Post CSS */
+.recent-post-wrapper a {
+    display: block;
+}
+
+.recent-post-wrapper.big-post .recent-post-thumbnail {
+    height: 500px;
+}
+
+.recent-post-wrapper.small-post .recent-post-thumbnail {
+    height: 140px;
+    width: 140px;
+}
+
+.recent-post-wrapper .recent-post-thumbnail {
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.recent-post-wrapper.big-post .recent-post-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 120%;
+    margin: 25px 0 15px;
+}
+
+.recent-post-wrapper .date-and-time {
+    display: flex;
+    align-items: center;
+}
+
+.recent-post-wrapper .date-and-time span:last-child {
+    margin-left: 10px;
+}
+
+.recent-post-wrapper .date-and-time,
+.recent-post-wrapper .date-and-time a {
+    color: #313131;
+}
+
+.recent-post-wrapper .date-and-time a:hover {
+    color: var(--prime-color);
+}
+
+.recent-post-wrapper.small-post .recent-post-thumbnail-wrapper {
+    position: absolute;
+    left: 0;
+    top: 5px;
+}
+
+.recent-post-wrapper.small-post .single-post-item {
+    position: relative;
+    min-height: 140px;
+    margin-bottom: 20px;
+    padding-left: 160px;
+    border-bottom: 1px solid #c4c4c4;
+    padding-bottom: 80px;
+}
+
+.recent-post-wrapper.small-post .single-post-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.recent-post-button {
+    margin-top: 50px;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 991px) {
+    .recent-post-wrapper.big-post {
+        margin-bottom: 35px;
+    }
+
+    .recent-post-wrapper.small-post .single-post-item {
+        padding-bottom: 80px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .bootstrap-wrapper.listfoliopro-recent-post .container {
+        padding: 0;
+    }
+
+    .recent-post-wrapper.big-post .recent-post-thumbnail {
+        height: 250px;
+    }
+
+    .recent-post-wrapper.big-post .recent-post-title,
+    .recent-post-wrapper.small-post .recent-post-title {
+        font-size: 26px;
+    }
+
+    .recent-post-wrapper.small-post .single-post-item {
+        position: relative;
+        min-height: auto;
+        margin-bottom: 35px;
+        padding-left: 0;
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+    .recent-post-wrapper.small-post .recent-post-thumbnail-wrapper {
+        position: relative;
+        left: auto;
+        top: auto;
+    }
+
+    .recent-post-wrapper.small-post .recent-post-thumbnail {
+        height: 250px;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+}
+
+
+/* Home Banner Two Widget CSS */
+.banner-two-title, .banner-two-desc {
+    text-align: center;
+}
+
+.banner-two-title {
+    margin-bottom: 30px;
+}
+
+.banner-two-title h1 {
+    font-size: 80px;
+    line-height: 120%;
+    color: #ffffff;
+}
+
+.banner-two-desc {
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 160%;
+}
+
+.home-banner-two .banner-one-search-form-wrapper #listfoliopro_search_form button[type="submit"].btn.btn-big {
+    background-color: #7D946A;
+}
+
+.home-banner-two .banner-one-search-form-wrapper {
+    margin-top: 100px;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1280px) {
+    .banner-two-title h1{
+        font-size: 72px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .banner-two-title h1 {
+        font-size: 32px;
+        line-height: 130%;
+    }
+
+    .banner-two-desc{
+        font-size: 20px;
+    }
+
+    .home-banner-two .banner-one-search-form-wrapper {
+        margin-top: 50px;
+    }
+}
+
+/* Section Title Two CSS */
+.listfoliopro-section-title-two-wrapper .section-subtitle {
+    background-color: var(--prime-color);
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 8px;
+    line-height: 160%;
+    margin-bottom: 20px;
+}
+
+.listfoliopro-section-title-two-wrapper .section-title h1,
+.listfoliopro-section-title-two-wrapper .section-title h2,
+.listfoliopro-section-title-two-wrapper .section-title h3,
+.listfoliopro-section-title-two-wrapper .section-title h4,
+.listfoliopro-section-title-two-wrapper .section-title h5,
+.listfoliopro-section-title-two-wrapper .section-title h6 {
+    font-size: 64px;
+    line-height: 110%;
+    font-weight: 700;
+}
+
+.section-title-two-border-img {
+    height: 23px;
+    width: 50%;
+    background-size: 100% 100%;
+    background-position: left bottom;
+    margin-top: 20px;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .section-title-two-border-img{
+        width: 75%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .listfoliopro-section-title-two-wrapper .section-title h1, .listfoliopro-section-title-two-wrapper .section-title h2, .listfoliopro-section-title-two-wrapper .section-title h3, .listfoliopro-section-title-two-wrapper .section-title h4, .listfoliopro-section-title-two-wrapper .section-title h5, .listfoliopro-section-title-two-wrapper .section-title h6 {
+        font-size: 32px;
+    }
+
+    .section-title-two-border-img {
+        width: 100%;
+    }
+
+    .bootstrap-wrapper .listfoliopro-section-title-two-wrapper .container {
+        padding: 0;
+    }
+}
+
+
+/* Icon Box Two */
+.single-icon-box-two-item {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.icon-box-two-icon {
+    height: 90px;
+    width: 90px;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.icon-box-two-title {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.icon-box-right-border {
+    position: relative;
+}
+
+.icon-box-right-border:before {
+    content: '';
+    position: absolute;
+    height: 75px;
+    width: 2px;
+    background: #d0dac7;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    margin-top: -30px;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .icon-box-right-border:before{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+}
+
+
+/* Team Widget CSS */
+.listfoliopro-team-one-slide {
+    margin-right: -50vh !important;
+}
+
+.listfoliopro-team-one .member-image {
+    height: 495px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    border-radius: 32px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.listfoliopro-team-one .member-image.member-number-2,
+.listfoliopro-team-one .member-image.member-number-4,
+.listfoliopro-team-one .member-image.member-number-6,
+.listfoliopro-team-one .member-image.member-number-8{
+    height: 360px;
+}
+
+.listfoliopro-team-one .member-image.member-number-3,
+.listfoliopro-team-one .member-image.member-number-7 {
+    height: 445px;
+}
+
+.listfoliopro-team-one .member-name {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.listfoliopro-team-one .member-designation {
+    font-size: 18px;
+}
+
+.arrow-top-right .slick-arrow {
+    height: 70px;
+    width: 70px;
+    border: 1px solid #000000;
+    border-radius: 16px;
+    text-align: center;
+    line-height: 70px;
+    position: absolute;
+    top: -150px;
+    right: 50vh;
+    cursor: pointer;
+}
+
+.arrow-top-right .slick-arrow img {
+    height: 12px;
+    width: 16px;
+}
+
+.arrow-top-right .slick-prev.slick-arrow {
+    margin-right: 80px;
+}
+
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1366px) {
+    .listfoliopro-team-one-slide{
+        margin-right: -15px !important;
+    }
+
+    .arrow-top-right .slick-arrow{
+        right: 15px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .listfoliopro-team-one .member-image{
+        height: 450px !important;
+    }
+
+    .listfoliopro-team-one.container{
+        padding: 0;
+    }
+}
+
+/* Testimonial Two Widget */
+.testimonial-two-section-wrapper .testimonial-one-items-wrapper {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.testimonial-two-section-wrapper .testimonial-text {
+    font-size: 64px;
+    line-height: 140%;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.testimonial-two-quote {
+    position: relative;
+}
+.testimonial-two-quote i {
+    position: absolute;
+    font-size: 100px;
+    color: #666666;
+    left: 45px;
+    bottom: -35px;
+}
+
+.testimonial-two-section-wrapper .testimonial-author-info {
+    display: inline-block;
+    text-align: left;
+}
+
+.testimonial-two-author-info-wrapper {
+    text-align: right;
+}
+
+.testimonial-two-author-info-wrapper .name{
+    color: #ffffff;
+}
+
+.testimonial-two-section-wrapper .arrow-top-right .slick-arrow{
+    right: 0;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1366px) {
+    .testimonial-two-section-wrapper .testimonial-text {
+        font-size: 58px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .testimonial-two-section-wrapper .testimonial-text {
+        font-size: 46px;
+    }
+    .testimonial-two-section-wrapper .arrow-top-right .slick-arrow{
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .testimonial-two-section-wrapper .testimonial-text {
+        font-size: 46px;
+    }
+
+    .testimonial-two-quote i{
+        font-size: 70px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .testimonial-two-section-wrapper .container{
+        padding: 0;
+    }
+    .testimonial-two-section-wrapper .testimonial-text {
+        font-size: 20px;
+    }
+
+    .testimonial-two-quote i {
+        font-size: 40px;
+        left: 30px;
+        bottom: -15px;
+    }
+
+    .testimonial-two-author-info-wrapper{
+        text-align: left;
+    }
+}
+
+/* Recent Posts Slider Widget CSS */
+
+.listfoliopro-recent-post-slider .recent-post-thumbnail-wrapper{
+    display: block;
+    border-radius: 32px;
+    overflow: hidden;
+}
+
+.listfoliopro-recent-post-slider .recent-post-thumbnail {
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.listfoliopro-recent-post-slider .recent-post-title {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 120%;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+
+
+@media only screen and (min-width: 1280px) {
+    .listfoliopro-recent-post-slider .slick-slider{
+        margin-right: -50vh !important;
+    }
+
+    .listfoliopro-recent-post-slider .post-number-2 .recent-post-thumbnail,
+    .listfoliopro-recent-post-slider .post-number-4 .recent-post-thumbnail,
+    .listfoliopro-recent-post-slider .post-number-6 .recent-post-thumbnail,
+    .listfoliopro-recent-post-slider .post-number-8 .recent-post-thumbnail {
+        height: 600px;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .listfoliopro-recent-post-slider .recent-post-title{
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .listfoliopro-recent-post-slider .recent-post-thumbnail{
+        height: 350px;
+    }
+
+    .listfoliopro-recent-post-slider .container{
+        padding: 0;
+    }
+}
+
+/* Listing Two CSS */
+
+.single-listing-two-item {
+    border: 1px solid #cccccc;
+    border-radius: 24px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.listing-image-wrapper {
+    overflow: hidden;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    height: 260px;
+}
+
+.single-listing-two-item .listing-image-wrapper a {
+    display: block;
+    height: 100%;
+}
+
+.card-img-top-listing {
+    width: 100%!important;
+    height: 100%;
+    object-fit: cover!important;
+    object-position: center;
+}
+
+.single-listing-two-item .btn-urgent-right {
+    padding: 13px 24px;
+    background-color: #87f1f2;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+    border-radius: 50px;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+}
+
+.single-listing-two-item .listingbookmark {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    padding: 10px 10px 5px 8px;
+    font-size: 16px;
+    z-index: 1;
+    background: #ffffff;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.single-listing-two-item .card-body {
+    padding: 35px 30px 25px 30px;
+}
+
+.single-listing-two-item .first-category-and-rating {
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-two-item .list-fast-cat a {
+    background-color: #D3E2BB66;
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #7D946A;
+    border-radius: 50px;
+    display: flex;
+}
+
+.single-listing-two-item .list-fast-cat a img {
+    margin-right: 5px;
+}
+
+.single-listing-two-item .review-count {
+    position: relative;
+    flex: 1;
+    text-align: right;
+}
+
+.single-listing-two-item .review-wrapper {
+    border: 1px solid #87f1f2;
+    height: 40px;
+    width: 110px;
+    position: relative;
+    padding-left: 55px;
+    display: inline-block;
+    border-radius: 50px;
+    text-align: left;
+    padding-top: 5px;
+}
+
+.single-listing-two-item .star-icon {
+    height: 40px;
+    width: 40px;
+    color: var(--prime-color);
+    background-color: #87f1f280;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.single-listing-two-item .review-point {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1;
+}
+
+.single-listing-two-item .total-review {
+    font-weight: 400;
+    font-size: 12px;
+}
+.single-listing-two-item .listing-title {
+    margin: 20px 0 15px;
+}
+.single-listing-two-item .listing-title a {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.single-listing-two-item .location-date-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-two-item .listing-location {
+    display: flex;
+    align-items: center;
+}
+
+.single-listing-two-item .listing-location svg{
+    margin-right: 5px;
+}
+
+.single-listing-two-item .listing-location, .single-listing-two-item .listing-location a, .single-listing-two-item .listing-location a:hover {
+    color: var(--prime-color);
+}
+.single-listing-two-item .location, .single-listing-two-item .listing-date {
+    font-size: 15px;
+}
+
+.single-listing-two-item .location i {
+    font-size: 16px;
+    margin-right: 5px;
+}
+.single-listing-two-item .listing-date {
+    flex: 1;
+    text-align: right;
+    color: #000000;
+}
+
+.single-listing-two-item .location-date-wrapper .listing-date i {
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+.single-listing-two-item .listing-desc {
+    font-size: 16px;
+    line-height: 160%;
+    border-top: 1px solid #e6e6e6;
+    margin-top: 25px;
+    padding-top: 25px;
+}
+
+.single-listing-two-item .listfoliopro-listing-price {
+    margin-top: 15px;
+}
+.single-listing-two-item .listfoliopro-listing-price, .single-listing-two-item .listfoliopro-discount-price {
+    color: var(--prime-color);
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.single-listing-two-item .listfoliopro-main-price {
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 150%;
+    margin-right: 15px;
+    color: #808080;
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .single-listing-two-item .listing-title a{
+        font-size: 22px;
+    }
+
+    .single-listing-two-item .card-body{
+        padding: 25px 20px;
+    }
+}
+
+
+/* Listing Location CSS */
+.ep-cover-bg {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.listfoliopro-location-wrapper .location-image {
+    height: 400px;
+    width: 100%;
+    border-radius: 40px;
+    position: relative;
+}
+
+.listfoliopro-location-wrapper .location-icon-and-name {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.listfoliopro-location-wrapper .location-icon {
+    height: 56px;
+    width: 56px;
+    background-color:var(--prime-color);
+    border-radius: 16px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.listfoliopro-location-wrapper .location-icon svg path {
+    stroke: #ffffff;
+}
+
+.listfoliopro-location-wrapper .location-icon svg {
+    height: 20px;
+    width: 20px;
+}
+
+.listfoliopro-location-wrapper .location-name-wrapper {
+    margin-left: 10px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+@media only screen and (min-width: 1280px) {
+    .listfoliopro-listing-location-wrapper .slick-slider {
+        margin: 0 -200px;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .listfoliopro-location-wrapper .location-icon-and-name{
+        left: 20px;
+        bottom: 20px;
+    }
+
+    .listfoliopro-location-wrapper .location-name-wrapper{
+        padding: 10px 25px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+}
+
+
+/* Contact info widget CSS */
+/*=====================
+Contact Info Widget
+======================*/
+
+.single-contact-info {
+    border-radius: 10px;
+    border: 1px solid #fbf3eb;
+    background: #FFF;
+    box-shadow: 7px 7px 0px 0px #fbf3eb;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact-info-icon {
+    height: 100px;
+    width: 100px;
+    background: #f7e8d9;
+    line-height: 100px;
+    border-radius: 50%;
+    color: var(--prime-color);
+    font-size: 30px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.contact-info-icon svg {
+    height: 30px;
+    width: 30px;
+}
+
+.contact-info-icon svg path{
+    fill: var(--prime-color);
+}
+
+.contact-info-title {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.contact-info-content a{
+    color: var(--prime-color);
+}
+
+.contact-info-content p{
+    margin-bottom: 0;
+}
+
+/*===================================
+Contact Form Widget CSS
+====================================*/
+
+.listfoliopro-contact-form-container {
+    border-radius: 10px;
+    background: #EDEDED;
+    padding: 100px;
+}
+
+.listfoliopro-form-title h1,
+.listfoliopro-form-title h2,
+.listfoliopro-form-title h3,
+.listfoliopro-form-title h4,
+.listfoliopro-form-title h5,
+.listfoliopro-form-title h6{
+    font-size: 48px;
+    margin-bottom: 40px;
+}
+
+.listfoliopro-contact-form-container .listfoliopro-form-title-content{
+    text-align: center;
+}
+
+.listfoliopro-section-subtitle {
+    color: var(--prime-color);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.listfoliopro-contact-form-container input[type="text"],
+.listfoliopro-contact-form-container input[type="email"]{
+    background-color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 8px;
+    padding: 15px 25px;
+}
+
+.listfoliopro-contact-form-container textarea{
+    border-radius: 10px;
+    padding: 15px 25px;
+    border-color: #ffffff;
+}
+
+.listfoliopro-contact-form-container .listihub-button img{
+    margin-left: 5px;
+    height: 23px;
+    width: 23px;
+    margin-bottom: -3px
+}
+
+.listfoliopro-contact-form-container button.listihub-button{
+    width: 100%;
+    justify-content: center;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.listfoliopro-contact-form-container input,
+.listfoliopro-contact-form-container input[type="text"],
+.listfoliopro-contact-form-container input[type="email"],
+.listfoliopro-contact-form-container textarea{
+    color: #0f2339;
+}
+
+.listfoliopro-contact-form-container p{
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 1024px) {
+    .listfoliopro-contact-form-container{
+        padding: 100px 80px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .listfoliopro-contact-form-container {
+        padding: 100px 50px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .listfoliopro-contact-form-container {
+        padding: 50px 15px;
+    }
+
+    .listfoliopro-form-title h1,
+    .listfoliopro-form-title h2,
+    .listfoliopro-form-title h3,
+    .listfoliopro-form-title h4,
+    .listfoliopro-form-title h5,
+    .listfoliopro-form-title h6{
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+}
+
+/*====================================
+# How It Works Widget Css
+====================================*/
+.hiw-item {
+    text-align: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.hiw-icon {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: #d3e2bb;
+    border-radius: 50%;
+    color: #617c4c;
+    font-size: 40px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+
+.hiw-title {
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 35px;
+}
+
+.hiw-desc {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.hiw-item:before {
+    position: absolute;
+    content: '';
+    height: 2px;
+    width: 100%;
+    background: #d3e2bb;
+    top: 50px;
+    left: 50%;
+    z-index: 1;
+}
+
+.hiw-item-column:last-child .hiw-item:before{
+    display: none;
+}
+
+.elementor .hiw-icon img {
+    max-width: 40px;
+    margin-top: -7px;
+}
+
+.hiw-icon svg path {
+    fill: #617c4c;
+}
+
+.hiw-icon svg {
+    height: 40px;
+    width: 40px;
+    margin-top: -7px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .hiw-item:before{
+        display: none;
+    }
+}
+
+/*========================
+Image One Widget
+========================*/
+
+.listfoliopro-images-one-main-container .ep-main-image {
+    height: 550px;
+    width: 484px;
+    border-radius: 15px;
+    display: inline-block;
+    position: relative;
+    margin-left: 150px;
+}
+
+.listfoliopro-images-one-main-container {
+    text-align: right;
+    position: relative;
+}
+
+.text-with-user-image {
+    position: absolute;
+    left: -150px;
+    bottom: 50px;
+    text-align: left;
+    box-shadow: 0px 6px 35px rgba(9, 22, 48, 0.08);
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 35px 25px 35px 25px;
+}
+.text-with-user-image span {
+    display: block;
+}
+
+.listfoliopro-images-one-main-container .user-count {
+    font-size: 24px;
+    font-weight: 500;
+    color: #0f2339;
+    line-height: 30px;
+}
+
+.text-with-user-image img {
+    margin-top: 20px;
+}
+
+.ep-img-one-shape {
+    position: absolute;
+    top: 40px;
+    left: -120px;
+    z-index: -1;
+}
+
+@media only screen and (max-width: 1024px) {
+    .listfoliopro-images-one-main-container{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .listfoliopro-images-one-main-container .ep-main-image{
+        width: 100%;
+    }
+
+    .text-with-user-image{
+        left: 40px;
+    }
+
+    .listfoliopro-images-one-main-container .ep-main-image{
+        margin-left: 0;
+    }
+}
+
+/* Title With Text Widget */
+.title-with-text-subtitle {
+    display: block;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    color: var(--prime-color);
+}
+
+.title-with-text-title h1, .title-with-text-title h2,
+.title-with-text-title h3, .title-with-text-title h4,
+.title-with-text-title h5, .title-with-text-title h6 {
+    font-size: 48px;
+    line-height: 130%;
+    margin-bottom: 0;
+}
+
+.title-with-text-title h2 {
+    font-size: 48px;
+}
+
+.title-with-text-desc ul li{
+    font-weight: 600;
+}
+.title-with-text-desc,
+.title-with-text-desc ul {
+    margin-top: 25px;
+}
+
+@media only screen and (max-width: 767px) {
+    .title-with-text-title h1, .title-with-text-title h2, .title-with-text-title h3, .title-with-text-title h4, .title-with-text-title h5, .title-with-text-title h6{
+        font-size: 32px;
+    }
+}
+
+/*========================
+Accordion Widget
+========================*/
+
+.ep-accordion-wrapper .accordion-button:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.ep-accordion-wrapper .accordion-item {
+    margin-bottom: 20px;
+}
+
+.ep-accordion-wrapper .accordion-collapse{
+    border:none;
+}
+
+.ep-accordion-wrapper .accordion-button,
+.ep-accordion-wrapper .accordion-body{
+    border:1px solid transparent;
+
+}
+
+.ep-accordion-wrapper .accordion-button{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 600;
+}
+.ep-accordion-wrapper .accordion-body {
+    border-top: 0;
+    background: #F5F6F8;
+    border-radius: 0 0 5px 5px;
+    padding: 30px;
+}
+
+
+.ep-accordion-wrapper .accordion-item {
+    border-top: 0;
+    border: none;
+    border-radius: 5px;
+}
+
+.ep-accordion-wrapper .accordion-item:first-of-type .accordion-button,
+.ep-accordion-wrapper .accordion-item .accordion-button{
+    border-radius: 5px;
+
+}
+
+.ep-accordion-wrapper .accordion-item:first-of-type .accordion-button:not(.collapsed),
+.ep-accordion-wrapper .accordion-item .accordion-button:not(.collapsed),
+.ep-accordion-wrapper .accordion-item .accordion-button:hover{
+    border-radius: 5px;
+    background-color: var(--prime-color);
+    color: #ffffff;
+    border-color: transparent;
+}
+
+.ep-accordion-wrapper .accordion-button.collapsed {
+    color: #161c2d;
+    background-color: #F5F6F8;
+}
+.ep-accordion-wrapper .accordion-button:hover,
+.ep-accordion-wrapper .accordion-button:not(.collapsed){
+    background: #F5F6F8;
+}
+
+.ep-accordion-wrapper .accordion-button.collapsed:after,
+.ep-accordion-wrapper .accordion-button:not(.collapsed):after{
+    background-image: none;
+    height: 10px;
+    width: 10px;
+    transform: rotate(
+            45deg
+    );
+}
+
+.ep-accordion-wrapper .accordion-button.collapsed:after {
+    border-left: 2px solid transparent;
+    border-right: 2px solid ;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid ;
+
+}
+
+.ep-accordion-wrapper .accordion-button:not(.collapsed):after {
+
+    border-left: 2px solid;
+    border-right: 2px solid transparent;
+    border-top: 2px solid;
+    border-bottom: 2px solid transparent;
+}
+
+.ep-accordion-wrapper .accordion-button:after {
+    position: absolute;
+    right: 30px;
+    top: 27px;
+}
+
+.ep-accordion-wrapper .accordion-button.collapsed:after {
+    top: 20px;
+}
+@media only screen and (max-width: 767px) {
+    .ep-accordion-title {
+        font-size: 26px;
+    }
+
+    .ep-accordion-wrapper .accordion-button {
+        padding-left: 20px;
+        padding-right: 40px;
+    }
+
+    .ep-accordion-wrapper .accordion-body{
+        padding: 20px;
+    }
+}
+
+
+/*=================================
+Video Popup Widget CSS
+==================================*/
+
+.ep-video-image {
+    height: 650px;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+.ep-video-image .ep-video-button {
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
+}
+
+.ep-video-image .ep-video-button:before, .ep-video-image .ep-video-button:after{
+    background-color: #ffffff;
+}
+
+.ep-video-image .ep-video-button i{
+    color: var(--prime-color);
+}
+
+@media only screen and (max-width: 1024px) {
+    .ep-video-image{
+        height: 500px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .ep-video-image{
+        height: 300px;
+    }
+}

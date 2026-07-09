@@ -1,0 +1,26 @@
+[Feb 5 13:38:21] 
+[Feb 5 13:38:21] ==DUPLICATOR INSTALLER BOOTSTRAP v4.5.24.1==
+[Feb 5 13:38:21] ----------------------------------------------------
+[Feb 5 13:38:21] Installer bootstrap start
+[Feb 5 13:38:21] Target dir dup folder "/home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200"
+[Feb 5 13:38:21] Manual extract found so not going to extract /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200 dir
+[Feb 5 13:38:21] EXTRACT /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200 dir
+[Feb 5 13:38:21] NOTICE: Didn't need to extract the installer.
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/addons<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/api<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/assets<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/classes<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/ctrls<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/dup_descriptors_[HASH]<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/favicon<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/libs<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/src<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/templates<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/vendor<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/vendor-prefixed<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/.user.ini<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/dup-installer-log__[HASH].txt<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/index.php<br/>
+[Feb 5 13:38:21] Set permissions of /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/main.installer.php<br/>
+[Feb 5 13:38:21] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://millyrimoveis.com.br/wp-content/backups-dup-pro/imports/dup-installer-ad2f3bb-05131200/main.installer.php

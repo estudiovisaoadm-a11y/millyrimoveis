@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Lar Um were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://millyrimoveis.com.br
+Data file = /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/themes/listihub//inc/demo-content/content.xml
+Widget file = /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/themes/listihub//inc/demo-content/widgets.wie
+Customizer file = /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/themes/listihub//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Barra lateral : 
+
+Bloco - No Title - Widget already exists
+Bloco - No Title - Widget already exists
+Listihub : Recent Posts - Recent Posts - Widget already exists
+Bloco - No Title - Widget already exists
+
+Widget de rodapé : 
+
+Listihub : About Company Widget  - No Title - Widget already exists
+Listihub : Navigation Menu - Quick Links - Widget already exists
+Listihub : Navigation Menu - Information - Widget already exists
+Listihub : Subscribe Form - Newsletter - Widget already exists
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Texto - No Title - Widget already exists
+Texto - Listing Style 1 - Widget already exists
+Texto - Listing Style 2 - Widget already exists
+Texto - Listing Detail - Widget already exists
+Texto - With Map Style 1 - Widget already exists
+Texto - With Map Style 2 - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

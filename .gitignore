@@ -1,0 +1,41 @@
+# Security
+wp-config.php
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+# WordPress Backups
+wp-content/ai1wm-backups/
+wp-content/backuply/
+wp-content/backup-migration-*/
+wp-content/backups-dup-pro/
+
+# Temp files
+wp-content/_tmp_*
+adminn.php
+asdfg.php
+comment.php
+content.php
+good.php
+wp-act.php
+default.php
+
+# Old htaccess backups
+.htaccess.bk
+.htaccess.old-*
+.htaccess_original
+
+# Archives
+*.zip
+*.gz
+*.tar
+*.rar

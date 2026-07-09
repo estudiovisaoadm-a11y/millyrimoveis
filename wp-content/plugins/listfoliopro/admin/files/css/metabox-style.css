@@ -1,0 +1,68 @@
+/*
+Meta-box Style
+*/
+
+.listfoliopro-metabox-section-wrapper {
+    background-color: #f0f0f1;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.listfoliopro-metabox-section-wrapper.faq-metabox-section textarea {
+    width: 100%;
+    padding: 15px;
+    height: auto !important;
+    border: 1px solid #e5e5e5
+
+}
+
+.listfoliopro-metabox-section-wrapper.faq-metabox-section input[type="text"] {
+    min-height: 75px !important;
+}
+
+.contact-info-metabox-section .leaflet-locationiq-expanded{
+    width: 100% !important;
+}
+
+.bootstrap-wrapper .listfoliopro-metabox-section-wrapper .btn.btn-small-ar{
+    padding: 15px 20px;
+    border-radius: 3px;
+}
+
+.bootstrap-wrapper .listfoliopro-metabox-section-wrapper .btn.btn-small-ar:hover,
+.bootstrap-wrapper .metabox-img-gallery-item .btn-sm:hover{
+    filter: brightness(100%);
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    transition: 0.2s;
+    box-shadow: none;
+    outline: none;
+}
+
+.logo-banner-metabox-section img,.contact-info-metabox-section img{
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.metabox-img-gallery-item {
+    background: #dddddd;
+    height: 120px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.metabox-img-gallery-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.bootstrap-wrapper .metabox-img-gallery-item .btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    border-radius: 0;
+    padding: 5px 10px;
+}

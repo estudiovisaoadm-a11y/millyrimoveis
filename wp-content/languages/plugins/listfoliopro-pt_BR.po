@@ -1,0 +1,992 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ListfolioPro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-02-28 23:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Codex\n"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Active Custom Fields For Top Section[ 5 Items are good fit], You can add more custom fields from -> Custom Fields section"
+msgstr "Campos personalizados ativos para a seção superior [5 itens são ideais]; você pode adicionar mais campos personalizados em -> Campos Personalizados"
+
+msgid "Active Fields"
+msgstr "Campos Ativos"
+
+msgid "Add More Field"
+msgstr "Adicionar mais campo"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Admin will Publish"
+msgstr "Admin irá publicar"
+
+msgid "Admin will hide/delete"
+msgstr "Admin irá ocultar/excluir"
+
+msgid "All "
+msgstr "Todas as "
+
+msgid "All Booking"
+msgstr "Todas as Reservas"
+
+msgid "All Listing Page Columns"
+msgstr "Colunas da Página de Todas as Imóveis"
+
+msgid "All Message"
+msgstr "Todas as Mensagens"
+
+msgid "All Reviews"
+msgstr "Todas as Avaliações"
+
+msgid "All user can publish"
+msgstr "Todos os usuários podem publicar"
+
+msgid "Archive Listings"
+msgstr "Imóveis do Arquivo"
+
+msgid "Archive/All Listing Page Style"
+msgstr "Estilo da Página de Arquivo/Todas as Imóveis"
+
+msgid "Area"
+msgstr "Área"
+
+msgid "Area Prefix Text"
+msgstr "Texto de prefixo da área"
+
+msgid "Available Fields"
+msgstr "Campos Disponíveis"
+
+msgid "Bath"
+msgstr "Banheiro"
+
+msgid "Bed"
+msgstr "Quarto"
+
+msgid "Body"
+msgstr "Carroceria"
+
+msgid "Booking"
+msgstr "Reservas"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Check/Uncheck all"
+msgstr "Marcar/Desmarcar tudo"
+
+msgid "Checkbox"
+msgstr "Caixa de seleção"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Columns On Desktop"
+msgstr "Colunas no Desktop"
+
+msgid "Columns On Tab"
+msgstr "Colunas no Tablet"
+
+msgid "Columns On iPad Pro"
+msgstr "Colunas no iPad Pro"
+
+msgid "Condition"
+msgstr "Condição"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Coupon Buton"
+msgstr "Botão de cupom"
+
+msgid "Custom Fields"
+msgstr "Campos Personalizados"
+
+msgid "Customize the search form (drag, drop & sort)"
+msgstr "Personalize o formulário de busca (arrastar, soltar e ordenar)"
+
+msgid "Cylinder"
+msgstr "Cilindros"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date Picker"
+msgstr "Seletor de data"
+
+msgid "Default All Listing Page Layout"
+msgstr "Layout Padrão da Página de Todas as Imóveis"
+
+msgid "Default Archive Page"
+msgstr "Página de arquivo padrão"
+
+msgid "Demo Data"
+msgstr "Dados de Demonstração"
+
+msgid "Display Field Value + Label , e.g : 4 Beds"
+msgstr "Exibir valor do campo + rótulo, ex.: 4 quartos"
+
+msgid "Display _MENU_ records per page"
+msgstr "Exibir _MENU_ registros por página"
+
+msgid "Door"
+msgstr "Portas"
+
+msgid "Drive Type"
+msgstr "Tipo de tração"
+
+msgid "Drop Down"
+msgstr "Lista suspensa"
+
+msgid "Dropdown"
+msgstr "Lista suspensa"
+
+msgid "Engine Size"
+msgstr "Cilindrada"
+
+msgid "Estd Since"
+msgstr "Fundado em"
+
+msgid "Floor"
+msgstr "Andar"
+
+msgid "Form Submit Action Terget:"
+msgstr "Ação do envio do formulário:"
+
+msgid "Fuel Type"
+msgstr "Tipo de combustível"
+
+msgid "Full Name"
+msgstr "Nome completo"
+
+msgid "Furnishing"
+msgstr "Mobília"
+
+msgid "Garage"
+msgstr "Garagem"
+
+msgid "Get Shortcode"
+msgstr "Obter shortcode"
+
+msgid "Hide from My Account Page"
+msgstr "Ocultar da página Minha Conta"
+
+msgid "Input Detail"
+msgstr "Detalhes do campo"
+
+msgid "Input Name"
+msgstr "Nome do campo"
+
+msgid "Kitchen"
+msgstr "Cozinha"
+
+msgid "Label"
+msgstr "Rótulo"
+
+msgid "ListfolioPro Settings"
+msgstr "Configurações do ListfolioPro"
+
+msgid "Listing"
+msgstr "Imóveis"
+
+msgid "Listing + Map"
+msgstr "Imóvel + Mapa"
+
+msgid "Listing Archive (drag, drop & sort)"
+msgstr "Arquivo de Imóveis (arrastar, soltar e ordenar)"
+
+msgid "Listing Detail Page Style"
+msgstr "Estilo da Página de Detalhes da Imóvel"
+
+msgid "Listing Detail page (drag & drop)"
+msgstr "Página de detalhes da imóvel (arrastar e soltar)"
+
+msgid "Listing Fields"
+msgstr "Campos da Imóvel"
+
+msgid "Listing Search"
+msgstr "Busca de Imóveis"
+
+msgid "Listing Settings"
+msgstr "Configurações de Imóveis"
+
+msgid "Listing Settings/Layout"
+msgstr "Configurações de Imóveis/Layout"
+
+msgid "Listing Without Map"
+msgstr "Imóvel Sem Mapa"
+
+msgid "Listing hide"
+msgstr "Ocultar imóvel"
+
+msgid "Locations"
+msgstr "Locais"
+
+msgid "Made In"
+msgstr "Fabricado em"
+
+msgid "Manage Listings"
+msgstr "Gerenciar Imóveis"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Membership"
+msgstr "Assinatura"
+
+msgid "Message"
+msgstr "Mensagens"
+
+msgid "Message board"
+msgstr "Mensagens"
+
+msgid "Mileage"
+msgstr "Quilometragem"
+
+msgid "Mobile Number"
+msgstr "Celular"
+
+msgid "Multi Checkbox"
+msgstr "Caixa de seleção múltipla"
+
+msgid "Multi Checkbox-Sub-Group"
+msgstr "Caixa de seleção múltipla (subgrupo)"
+
+msgid "My Account"
+msgstr "Minha Conta"
+
+msgid "My Account Menu "
+msgstr "Menu Minha Conta"
+
+msgid "No Search Form Option"
+msgstr "Sem opção de formulário de busca"
+
+msgid "No. of Seats"
+msgstr "Nº de assentos"
+
+msgid "Notification"
+msgstr "Notificações"
+
+msgid "OpenAI ChatGPT"
+msgstr "OpenAI ChatGPT"
+
+msgid "Phone Number"
+msgstr "Telefone"
+
+msgid "Post Type"
+msgstr "Tipo de Post"
+
+msgid "Postcode"
+msgstr "CEP"
+
+msgid "Previously generated shortcodes:"
+msgstr "Shortcodes gerados anteriormente:"
+
+msgid "Property Status"
+msgstr "Status do imóvel"
+
+msgid "Publish Listing"
+msgstr "Publicar Imóvel"
+
+msgid "Radio button"
+msgstr "Botão de opção"
+
+msgid "Registration"
+msgstr "Cadastro"
+
+msgid "Registration / User Profile Fields"
+msgstr "Campos de cadastro / perfil do usuário"
+
+msgid "Reviews"
+msgstr "Avaliações"
+
+msgid "Rounded Grid View "
+msgstr "Grade Arredondada"
+
+msgid "Rounded |style-1 "
+msgstr "Arredondado |estilo-1"
+
+msgid "Same Page"
+msgstr "Mesma página"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Saved Listing"
+msgstr "Imóvel salva"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Search Builder"
+msgstr "Construtor de Busca"
+
+msgid "Search Form on The Page"
+msgstr "Formulário de busca na página"
+
+msgid "Search Form on the page"
+msgstr "Formulário de busca na página"
+
+msgid "Separated by comma"
+msgstr "Separado por vírgula"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Settings/Layout"
+msgstr "Configurações/Layout"
+
+msgid "Single Listing"
+msgstr "Imóvel Individual"
+
+msgid "Square Grid View"
+msgstr "Grade Quadrada"
+
+msgid "Square|Style-2"
+msgstr "Quadrado|Estilo-2"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Tag line"
+msgstr "Slogan"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Team Size"
+msgstr "Tamanho da equipe"
+
+msgid "Terms CheckBox"
+msgstr "Checkbox de termos"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Text Area"
+msgstr "Área de texto"
+
+msgid "Text Field"
+msgstr "Campo de texto"
+
+msgid "Top Right Sort Items, You can add more custom fields from -> Custom Fields section"
+msgstr "Itens de ordenação no canto superior direito; você pode adicionar mais campos personalizados em -> Campos Personalizados"
+
+msgid "Transmission"
+msgstr "Transmissão"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Update"
+msgstr "Atualizar"
+
+msgid "User Profile Pic Uploader"
+msgstr "Envio da foto de perfil"
+
+msgid "User Role & Section "
+msgstr "Função do usuário e seção"
+
+msgid "Value[Dropdown,checkbox,Radio]"
+msgstr "Valores [lista suspensa, checkbox, rádio]"
+
+msgid "View Page"
+msgstr "Ver Página"
+
+msgid "Website Url"
+msgstr "URL do site"
+
+msgid "Whatsup Number"
+msgstr "WhatsApp"
+
+msgid "When User Package Expire "
+msgstr "Quando o pacote do usuário expirar"
+
+msgid "Year Built"
+msgstr "Ano de construção"
+
+msgid "listing title"
+msgstr "título da imóvel"
+
+msgid "text-field"
+msgstr "Campo de texto"
+
+msgid "Anuncio"
+msgstr "Anúncios"
+
+msgid "Anuncios"
+msgstr "Anúncios"
+
+msgid "CSV Importer"
+msgstr "Importador CSV"
+
+msgid "Payment Gateways"
+msgstr "Gateways de Pagamento"
+
+msgid "Packages"
+msgstr "Pacotes"
+
+msgid "Coupons"
+msgstr "Cupons"
+
+msgid "Color Settings "
+msgstr "Configurações de Cor"
+
+msgid "Map Settings "
+msgstr "Configurações do Mapa"
+
+msgid "My Account Menu"
+msgstr "Menu Minha Conta"
+
+msgid "1 Column"
+msgstr "1 Coluna"
+
+msgid "2 Column"
+msgstr "2 Colunas"
+
+msgid "3 Column"
+msgstr "3 Colunas"
+
+msgid "4 Column"
+msgstr "4 Colunas"
+
+msgid "Listing Detail Page"
+msgstr "Página de Detalhes da Imóvel"
+
+msgid "Plugin Own Template"
+msgstr "Modelo Próprio do Plugin"
+
+msgid "Your Custom Page. Sometime Block theme will not get header. You need to create a page & add the shortcode :  [listfoliopro_single_rounded]  or [listfoliopro_single_square]"
+msgstr "Sua página personalizada. Em alguns temas de blocos o cabeçalho pode não aparecer. Você precisa criar uma página e adicionar o shortcode: [listfoliopro_single_rounded] ou [listfoliopro_single_square]"
+
+msgid "Select Your Custom listing Detail Page which has the shortcode"
+msgstr "Selecione sua página personalizada de detalhes da imóvel que contém o shortcode"
+
+msgid "Default listing Image"
+msgstr "Imagem padrão da imóvel"
+
+msgid "Best Fit 520px X 260px"
+msgstr "Melhor tamanho 520px x 260px"
+
+msgid "Default Location Image"
+msgstr "Imagem padrão do local"
+
+msgid "Set Icon"
+msgstr "Definir ícone"
+
+msgid "Enter Menu Title"
+msgstr "Digite o título do menu"
+
+msgid "Enter Menu Link. Example http://www.google.com"
+msgstr "Digite o link do menu. Exemplo http://www.google.com"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Require"
+msgstr "Obrigatório"
+
+msgid "My Account/Profile"
+msgstr "Minha Conta/Perfil"
+
+msgid "Price: "
+msgstr "Valor: "
+
+msgid "Price"
+msgstr "Valor"
+
+msgid "Price/Discount"
+msgstr "Valor/Desconto"
+
+msgid "Amenities"
+msgstr "Comodidades"
+
+msgid "Review"
+msgstr "Avaliação"
+
+msgid "Average rating"
+msgstr "Avaliação média"
+
+msgid "Rating breakdown"
+msgstr "Detalhamento das avaliações"
+
+msgid "Rate us and Write a Review"
+msgstr "Avalie e escreva um comentário"
+
+msgid "Your Rating*"
+msgstr "Sua avaliação*"
+
+msgid "Enter review title*"
+msgstr "Digite o título da avaliação*"
+
+msgid "Enter review comments*"
+msgstr "Digite o comentário da avaliação*"
+
+msgid "Submit Now"
+msgstr "Enviar agora"
+
+msgid "Book a Visit"
+msgstr "Agendar visita"
+
+msgid "Closed Now!"
+msgstr "Fechado agora!"
+
+msgid "Location:"
+msgstr "Localização:"
+
+msgid "Email:"
+msgstr "E-mail:"
+
+msgid "Phone:"
+msgstr "Telefone:"
+
+msgid "Contact Us"
+msgstr "Fale Conosco"
+
+msgid "Contact US"
+msgstr "Fale Conosco"
+
+msgid "Contact"
+msgstr "Contato"
+
+msgid "Name*"
+msgstr "Nome*"
+
+msgid "Message*"
+msgstr "Mensagem*"
+
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "Seu endereço de e-mail não será publicado. Campos obrigatórios são marcados com *"
+
+msgid "Business Hours"
+msgstr "Horário de funcionamento"
+
+msgid "Business Hours Table"
+msgstr "Tabela de horários"
+
+msgid "Company Logo"
+msgstr "Logo da empresa"
+
+msgid "Company Name"
+msgstr "Nome da Empresa"
+
+msgid "Social Profile"
+msgstr "Redes sociais"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "Post Date"
+msgstr "Data do post"
+
+msgid "Contact Form"
+msgstr "Formulário de contato"
+
+msgid "Booking Button"
+msgstr "Botão de agendamento"
+
+msgid "Report Button"
+msgstr "Botão de denúncia"
+
+msgid "PDF Button"
+msgstr "Botão PDF"
+
+msgid "Favorite Button"
+msgstr "Botão Favorito"
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "360 Image Viewer"
+msgstr "Visualizador 360"
+
+msgid "Near to me"
+msgstr "Perto de mim"
+
+msgid "Whatsapp"
+msgstr "WhatsApp"
+
+msgid "Attachments"
+msgstr "Anexos"
+
+msgid "Similar Listing"
+msgstr "Imóveis semelhantes"
+
+msgid "Social Share"
+msgstr "Compartilhar"
+
+msgid "Min Price"
+msgstr "Valor mínimo"
+
+msgid "Max Price"
+msgstr "Valor máximo"
+
+msgid "Near"
+msgstr "Perto"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+msgid "Messages"
+msgstr "Mensagens"
+
+msgid "Booking Details"
+msgstr "Detalhes da Reserva"
+
+msgid "Listing Notifications"
+msgstr "Notificações de Imóvel"
+
+msgid "Sign out"
+msgstr "Sair"
+
+msgid "Listing Type"
+msgstr "Tipo de Imóvel"
+
+
+msgid "Select All"
+msgstr "Selecionar tudo"
+
+msgid "Unselect All"
+msgstr "Limpar"
+
+msgid "Results"
+msgstr ""
+
+
+msgid "listing Title"
+msgstr "Título da Imóvel"
+
+msgid "Enter Title Here"
+msgstr "Digite o título aqui"
+
+msgid "listing Description"
+msgstr "Descrição da Imóvel"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Pending Review"
+msgstr "Pendente de Revisão"
+
+msgid "Draft"
+msgstr "Rascunho"
+
+msgid "Price Prefix Text"
+msgstr "Texto de Prefixo do Valor"
+
+msgid "e.g. $ EUR "
+msgstr "ex.: R$ "
+
+msgid "Enter Price "
+msgstr "Digite o valor"
+
+msgid "Discount Price"
+msgstr "Valor com Desconto"
+
+msgid "Enter Discount Price"
+msgstr "Digite o valor com desconto"
+
+msgid "Contact Info"
+msgstr "Informações de Contato"
+
+msgid "Company name"
+msgstr "Nome da empresa"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Enter Phone Number"
+msgstr "Digite o telefone"
+
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgid "Enter whatsApp Number"
+msgstr "Digite o WhatsApp"
+
+msgid "Viber"
+msgstr "Viber"
+
+msgid "Enter Viber Number"
+msgstr "Digite o número do Viber"
+
+msgid "Address (Save in the listing field)"
+msgstr "Endereço (salvo no campo da imóvel)"
+
+msgid "Enter Address"
+msgstr "Digite o endereço"
+
+msgid "Enter city"
+msgstr "Digite a cidade"
+
+msgid "Enter State"
+msgstr "Digite o estado"
+
+msgid "Zipcode/Postcode"
+msgstr "CEP/Código postal"
+
+msgid "Enter Zipcode/Postcode"
+msgstr "Digite o CEP/Código postal"
+
+msgid "Enter Country"
+msgstr "Digite o país"
+
+msgid "Latitude "
+msgstr "Latitude"
+
+msgid "Enter Latitude"
+msgstr "Digite a latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Enter Longitude"
+msgstr "Digite a longitude"
+
+msgid "Email Address"
+msgstr "E-mail"
+
+msgid "Enter Email Address"
+msgstr "Informe o e-mail."
+
+msgid "Web Site"
+msgstr "Site"
+
+msgid "Enter Web Site"
+msgstr "Digite o site"
+
+msgid "Enter New Categories: Separate with commas"
+msgstr "Digite novas categorias: separe por vírgulas"
+
+msgid "Enter New Tags: Separate with commas"
+msgstr "Digite novas tags: separe por vírgulas"
+
+msgid "Enter New Locations: Separate with commas"
+msgstr "Digite novos locais: separe por vírgulas"
+
+msgid "listing information"
+msgstr "Informações da imóvel"
+
+msgid "Videos "
+msgstr "Vídeos"
+
+msgid "Youtube"
+msgstr "YouTube"
+
+msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+msgstr "Digite o ID do vídeo do YouTube, ex.: bU1QPtOZQZU"
+
+msgid "vimeo"
+msgstr "Vimeo"
+
+msgid "Enter vimeo ID, e.g : 134173961"
+msgstr "Digite o ID do Vimeo, ex.: 134173961"
+
+msgid "More Details "
+msgstr "Mais detalhes"
+
+msgid "What’s Nearby "
+msgstr "O que há por perto"
+
+msgid "Enter KM or time"
+msgstr "Digite KM ou tempo"
+
+msgid "Add More"
+msgstr "Adicionar mais"
+
+msgid "Post a listing"
+msgstr "Publicar uma imóvel"
+
+msgid "Have an account?"
+msgstr "Já tem conta?"
+
+msgid " You are already logged in as "
+msgstr " Você já está logado como "
+
+msgid " Logout "
+msgstr " Sair "
+
+msgid " Sign in "
+msgstr " Entrar "
+
+msgid " If you do not have an account you can create one below by entering your email address."
+msgstr " Se você não tem conta, pode criar abaixo informando seu e-mail."
+
+msgid "Your email"
+msgstr "Seu e-mail"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Save Post"
+msgstr "Salvar"
+
+msgid "Set Feature Image"
+msgstr "Definir imagem de destaque"
+
+msgid "Set plan Image"
+msgstr "Definir imagem do plano"
+
+msgid "Set Event Image"
+msgstr "Definir imagem do evento"
+
+msgid "Gallery Images"
+msgstr "Imagens da galeria"
+
+msgid "Please input your email & password"
+msgstr "Informe seu e-mail e senha"
+
+msgid "Successfully added. You can edit your listing here: "
+msgstr "Adicionado com sucesso. Você pode editar sua imóvel aqui: "
+
+
+msgid "Username"
+msgstr "Usuário"
+
+msgid "Login"
+msgstr "Entrar"
+
+msgid "Forgot Password?"
+msgstr "Esqueceu a senha?"
+
+msgid "Forget Password ?"
+msgstr "Esqueci a senha"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Password Sent. Please check your email."
+msgstr "Senha enviada. Verifique seu e-mail."
+
+msgid "Invalid Username & Password."
+msgstr "Usuário ou senha inválidos."
+
+msgid "Enter Username & Password."
+msgstr "Informe usuário e senha."
+
+msgid "Please Upgrade Your Account"
+msgstr "Faça upgrade da sua conta"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Current Package"
+msgstr "Plano atual"
+
+msgid "Package Name"
+msgstr "Nome do plano"
+
+msgid "Package Amount"
+msgstr "Valor do plano"
+
+msgid "Package Type"
+msgstr "Tipo de plano"
+
+msgid "Cancel Reason"
+msgstr "Motivo do cancelamento"
+
+msgid "Canceling Reason"
+msgstr "Motivo do cancelamento"
+
+msgid "Nothing to Cancel"
+msgstr "Nada para cancelar"
+
+msgid "Change Password"
+msgstr "Alterar senha"
+
+msgid "Current Password"
+msgstr "Senha atual"
+
+msgid "New Password"
+msgstr "Nova senha"
+
+msgid "Re-type New Password"
+msgstr "Confirme a nova senha"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Login or upgrade "
+msgstr "Entrar ou fazer upgrade "
+
+msgid "Package Expire After "
+msgstr "Plano expira após "
+
+msgid "Your Current Package"
+msgstr "Seu plano atual"
+
+
+msgid "Current"
+msgstr "Atual"
+
+msgid "Payment Status"
+msgstr "Status do pagamento"
+
+msgid "User Role"
+msgstr "Função do usuário"
+
+msgid "Next Payment Date"
+msgstr "Próxima data de pagamento"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Free"
+msgstr "Grátis"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+
+msgid "Schedule Visit"
+msgstr "Agendar visita"
+
+msgid "Book a Site Visit"
+msgstr "Agendar visita"
+

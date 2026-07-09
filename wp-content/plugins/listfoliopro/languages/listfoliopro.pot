@@ -1,0 +1,5076 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ListfolioPro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-13 17:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: listfoliopro"
+
+#: template/private-profile/profile-new-post-1.php:169
+#: template/private-profile/profile-edit-post-1.php:188
+#: admin/pages/metabox_full_data.php:145
+msgid " : Logo, Email, Phone, Website"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:233
+msgid " [Your Current Package]"
+msgstr ""
+
+#: admin/pages/package_all.php:155
+msgid " Edit"
+msgstr ""
+
+#: admin/pages/package_update.php:120 admin/pages/package_create.php:80
+msgid " fa-arrows-v"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:68
+msgid ""
+" If you do not have an account you can create one below by entering your "
+"email address."
+msgstr ""
+
+#: template/elementor/listing-location-widget.php:160
+msgid " Listing"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:56
+msgid " Logout "
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:172
+#: template/private-profile/profile-edit-post-1.php:191
+#: admin/pages/metabox_full_data.php:151
+msgid " New Contact Info"
+msgstr ""
+
+#: template/listing/archive-grid-top-map.php:196
+#: template/listing/archive-grid.php:131
+#: template/listing/archive-grid-no-map.php:127
+#: template/listing/archive-map.php:99
+msgid " Results"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:558
+#: admin/pages/metabox_full_data.php:434
+msgid " Set Image "
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:66
+msgid " Sign in "
+msgstr ""
+
+#: admin/pages/all_coupons.php:19
+msgid " The Coupon Create Successfully "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:121
+msgid " The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:169
+#: template/private-profile/profile-edit-post-1.php:188
+#: admin/pages/metabox_full_data.php:145
+msgid " Use The company Info ->"
+msgstr ""
+
+#: admin/pages/package_update.php:561 admin/pages/package_create.php:518
+msgid " Will Add On Featured List (show on top)"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:54
+msgid " You are already logged in as "
+msgstr ""
+
+#: admin/pages/package_update.php:660
+msgid "\"Billing Amount\" will Collect After Trial Period."
+msgstr ""
+
+#: admin/pages/package_create.php:615
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: template/signup/coupon_form_2.php:16
+msgid "(-) Discount"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:289
+#: admin/pages/registration-fields.php:270 admin/pages/directory_fields.php:229
+msgid "(filtered from _MAX_ total records)"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:49
+#: template/signup/iv_stripe_form_2.php:52 template/signup/paypal_form_2.php:36
+#: template/signup/paypal_form_2.php:39 template/signup/woocommerce.php:37
+#: template/signup/woocommerce.php:40
+#: template/private-profile/profile-level-1.php:70
+#: template/private-profile/profile-level-1.php:73
+msgid ", Auto recurring "
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:118
+#: template/private-profile/iv_stripe_form_upgrade.php:75
+msgid "01"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:119
+#: template/private-profile/iv_stripe_form_upgrade.php:76
+msgid "02"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:120
+#: template/private-profile/iv_stripe_form_upgrade.php:77
+msgid "03"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:121
+#: template/private-profile/iv_stripe_form_upgrade.php:78
+msgid "04"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:122
+#: template/private-profile/iv_stripe_form_upgrade.php:79
+msgid "05"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:123
+#: template/private-profile/iv_stripe_form_upgrade.php:80
+msgid "06"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:124
+#: template/private-profile/iv_stripe_form_upgrade.php:81
+msgid "07"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:125
+#: template/private-profile/iv_stripe_form_upgrade.php:82
+msgid "08"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:126
+#: template/private-profile/iv_stripe_form_upgrade.php:83
+msgid "09"
+msgstr ""
+
+#: admin/pages/payment-settings.php:37
+#: template/listing/single-template/reviews.php:142
+msgid "1"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:138
+#: template/elementor/icon-box-two-widget.php:153
+#: template/elementor/icon-box-two-widget.php:168
+#: template/elementor/team-member-one-widget.php:101
+#: template/elementor/team-member-one-widget.php:118
+#: template/elementor/team-member-one-widget.php:135
+#: template/elementor/listing-two-widget.php:84
+#: template/elementor/listing-two-widget.php:99
+#: template/elementor/listing-two-widget.php:114
+#: template/elementor/listing-widget.php:84
+#: template/elementor/listing-widget.php:99
+#: template/elementor/listing-widget.php:114
+#: template/elementor/listing-location-widget.php:74
+#: template/elementor/listing-location-widget.php:92
+#: template/elementor/listing-location-widget.php:109
+#: template/elementor/recent-post-slider-widget.php:119
+#: template/elementor/recent-post-slider-widget.php:136
+#: template/elementor/recent-post-slider-widget.php:153
+#: template/elementor/how-it-works-widget.php:143
+#: template/elementor/how-it-works-widget.php:158
+#: template/elementor/how-it-works-widget.php:173
+#: template/elementor/how-it-works-widget.php:188
+#: template/elementor/listing-category-widget.php:116
+#: template/elementor/listing-category-widget.php:133
+#: template/elementor/listing-category-widget.php:150
+#: template/elementor/listing-category-widget.php:167
+msgid "1 Column"
+msgstr ""
+
+#: template/listing/listing_search.php:350
+msgid "1 Star"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:127
+#: template/private-profile/iv_stripe_form_upgrade.php:84
+msgid "10"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:181
+#: template/elementor/testimonial-one-widget.php:192
+#: template/elementor/testimonial-two-widget.php:130
+msgid "10 seconds"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:40
+#: template/elementor/testimonial-one-widget.php:53
+msgid "10K+ Customers"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:128
+#: template/private-profile/iv_stripe_form_upgrade.php:85
+msgid "11"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:129
+#: template/private-profile/iv_stripe_form_upgrade.php:86
+msgid "12"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:99
+msgid "12:00 AM"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:102
+msgid "12:00 PM"
+msgstr ""
+
+#: admin/pages/payment-settings.php:48
+#: template/listing/single-template/reviews.php:125
+msgid "2"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:139
+#: template/elementor/icon-box-two-widget.php:154
+#: template/elementor/icon-box-two-widget.php:169
+#: template/elementor/team-member-one-widget.php:102
+#: template/elementor/team-member-one-widget.php:119
+#: template/elementor/team-member-one-widget.php:136
+#: template/elementor/listing-two-widget.php:85
+#: template/elementor/listing-two-widget.php:100
+#: template/elementor/listing-two-widget.php:115
+#: template/elementor/listing-widget.php:85
+#: template/elementor/listing-widget.php:100
+#: template/elementor/listing-widget.php:115
+#: template/elementor/listing-location-widget.php:75
+#: template/elementor/listing-location-widget.php:93
+#: template/elementor/listing-location-widget.php:110
+#: template/elementor/recent-post-slider-widget.php:120
+#: template/elementor/recent-post-slider-widget.php:137
+#: template/elementor/recent-post-slider-widget.php:154
+#: template/elementor/how-it-works-widget.php:144
+#: template/elementor/how-it-works-widget.php:159
+#: template/elementor/how-it-works-widget.php:174
+#: template/elementor/how-it-works-widget.php:189
+#: template/elementor/listing-category-widget.php:117
+#: template/elementor/listing-category-widget.php:134
+#: template/elementor/listing-category-widget.php:151
+#: template/elementor/listing-category-widget.php:168
+msgid "2 Column"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:173
+#: template/elementor/testimonial-one-widget.php:184
+#: template/elementor/testimonial-two-widget.php:122
+msgid "2 seconds"
+msgstr ""
+
+#: template/listing/listing_search.php:349
+msgid "2 Stars"
+msgstr ""
+
+#: admin/pages/map_setting.php:24
+msgid "20 is more Zoom, 1 is less zoom"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:85
+msgid "256"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:111
+msgid "3"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:140
+#: template/elementor/icon-box-two-widget.php:155
+#: template/elementor/icon-box-two-widget.php:170
+#: template/elementor/team-member-one-widget.php:103
+#: template/elementor/team-member-one-widget.php:120
+#: template/elementor/team-member-one-widget.php:137
+#: template/elementor/listing-two-widget.php:86
+#: template/elementor/listing-two-widget.php:101
+#: template/elementor/listing-two-widget.php:116
+#: template/elementor/listing-widget.php:86
+#: template/elementor/listing-widget.php:101
+#: template/elementor/listing-widget.php:116
+#: template/elementor/listing-location-widget.php:76
+#: template/elementor/listing-location-widget.php:94
+#: template/elementor/listing-location-widget.php:111
+#: template/elementor/recent-post-slider-widget.php:121
+#: template/elementor/recent-post-slider-widget.php:138
+#: template/elementor/recent-post-slider-widget.php:155
+#: template/elementor/how-it-works-widget.php:145
+#: template/elementor/how-it-works-widget.php:160
+#: template/elementor/how-it-works-widget.php:175
+#: template/elementor/how-it-works-widget.php:190
+#: template/elementor/listing-category-widget.php:118
+#: template/elementor/listing-category-widget.php:135
+#: template/elementor/listing-category-widget.php:152
+#: template/elementor/listing-category-widget.php:169
+msgid "3 Column"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:174
+#: template/elementor/testimonial-one-widget.php:185
+#: template/elementor/testimonial-two-widget.php:123
+msgid "3 seconds"
+msgstr ""
+
+#: template/listing/listing_search.php:348
+msgid "3 Stars"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:97
+msgid "4"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:141
+#: template/elementor/icon-box-two-widget.php:156
+#: template/elementor/icon-box-two-widget.php:171
+#: template/elementor/team-member-one-widget.php:104
+#: template/elementor/team-member-one-widget.php:121
+#: template/elementor/team-member-one-widget.php:138
+#: template/elementor/listing-two-widget.php:87
+#: template/elementor/listing-two-widget.php:102
+#: template/elementor/listing-two-widget.php:117
+#: template/elementor/listing-widget.php:87
+#: template/elementor/listing-widget.php:102
+#: template/elementor/listing-widget.php:117
+#: template/elementor/listing-location-widget.php:77
+#: template/elementor/listing-location-widget.php:95
+#: template/elementor/listing-location-widget.php:112
+#: template/elementor/recent-post-slider-widget.php:122
+#: template/elementor/recent-post-slider-widget.php:139
+#: template/elementor/recent-post-slider-widget.php:156
+#: template/elementor/how-it-works-widget.php:146
+#: template/elementor/how-it-works-widget.php:161
+#: template/elementor/how-it-works-widget.php:176
+#: template/elementor/listing-category-widget.php:119
+#: template/elementor/listing-category-widget.php:136
+#: template/elementor/listing-category-widget.php:153
+#: template/elementor/listing-category-widget.php:170
+msgid "4 Column"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:175
+#: template/elementor/testimonial-one-widget.php:186
+#: template/elementor/testimonial-two-widget.php:124
+msgid "4 seconds"
+msgstr ""
+
+#: template/listing/listing_search.php:347
+msgid "4 Stars"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:62
+#: template/listing/single-template/reviews.php:84
+msgid "5"
+msgstr ""
+
+#: template/elementor/listing-location-widget.php:78
+msgid "5 Column"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:176
+#: template/elementor/testimonial-one-widget.php:187
+#: template/elementor/testimonial-two-widget.php:125
+msgid "5 seconds"
+msgstr ""
+
+#: template/listing/listing_search.php:346
+msgid "5 Stars"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:177
+#: template/elementor/testimonial-one-widget.php:188
+#: template/elementor/testimonial-two-widget.php:126
+msgid "6 seconds"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:178
+#: template/elementor/testimonial-one-widget.php:189
+#: template/elementor/testimonial-two-widget.php:127
+msgid "7 seconds"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:179
+#: template/elementor/testimonial-one-widget.php:190
+#: template/elementor/testimonial-two-widget.php:128
+msgid "8 seconds"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:180
+#: template/elementor/testimonial-one-widget.php:191
+#: template/elementor/testimonial-two-widget.php:129
+msgid "9 seconds"
+msgstr ""
+
+#: admin/pages/package_update.php:740 admin/pages/stripe_update.php:109
+#: admin/pages/coupon_create.php:83 admin/pages/coupon_update.php:100
+#: admin/pages/user_update.php:270 admin/pages/paypal_update.php:99
+#: admin/pages/package_create.php:688
+msgid "<< Back"
+msgstr ""
+
+#: template/elementor/home-banner-one-widget.php:37
+msgid ""
+"<h1>Search, Discover, and Invest <strong>in Real Estate Today</strong></h1>"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:37
+msgid "<h1>Unlock Endless Possibilities in Real Estate</h1>"
+msgstr ""
+
+#: template/elementor/section-title-one-widget.php:48
+msgid "<h2>Browse Our Featured Property Categories</h2>"
+msgstr ""
+
+#: template/elementor/section-title-two-widget.php:48
+msgid "<h2>Claim & Get Started Today!</h2>"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:47
+msgid ""
+"<p>Haven't had a chance to explore the latest real estate offerings for a "
+"whole 5 minutes! We should catch up on the market trends and see what "
+"exciting properties are available in this listihib.</p>"
+msgstr ""
+
+#: admin/pages/user_update.php:82
+msgid "[User Current Package]"
+msgstr ""
+
+#: template/listing/listing_search.php:189
+#: template/elementor/delete/listing-filter.php:47
+msgid "A to Z (title)"
+msgstr ""
+
+#: admin/pages/package_update.php:546 admin/pages/package_create.php:505
+msgid "Access Control"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:11
+#: template/elementor/accordion-widget.php:25
+#: template/elementor/accordion-widget.php:86
+msgid "Accordion"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:45
+msgid "Accordion Content"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:55
+msgid "Accordion Lists"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:35
+msgid "Accordion Title"
+msgstr ""
+
+#: admin/pages/package_all.php:74 admin/pages/all_coupons.php:31
+#: admin/pages/payment-settings.php:32
+msgid "Action"
+msgstr ""
+
+#: admin/pages/package_all.php:146
+msgid "Active"
+msgstr ""
+
+#: admin/pages/open-ai.php:3
+msgid "Active ChatGPT Option "
+msgstr ""
+
+#: admin/pages/archive_setting.php:20 admin/pages/listing_search.php:60
+#: admin/pages/single_page_setting.php:34
+msgid "Active Fields"
+msgstr ""
+
+#: admin/pages/open-ai.php:106
+msgid "ada"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:403
+#: template/private-profile/profile-edit-post-1.php:478
+#: admin/pages/metabox_full_data.php:350
+msgid "Add Attachments"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:102
+msgid "Add Image to Post"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:102
+#: template/private-profile/profile-edit-post-1.php:125
+#: admin/pages/metabox_full_data.php:97
+msgid "Add Images"
+msgstr ""
+
+#: template/elementor/delete/listing-add-new.php:8
+msgid "Add Listing"
+msgstr ""
+
+#: template/private-profile/profile-add-edit-faq.php:45
+#: template/private-profile/listing-open-close-time.php:108
+msgid "Add More"
+msgstr ""
+
+#: admin/pages/package_update.php:533 admin/pages/package_create.php:493
+msgid "Add More Feature"
+msgstr ""
+
+#: admin/pages/registration-fields.php:250 admin/pages/directory_fields.php:154
+msgid "Add More Field"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:38
+msgid "Add New"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:305
+#: template/listing/map/google-map.php:33
+#: template/listing/map/openstreet-map.php:37
+msgid "Add to Favorites"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:178
+msgid "Add/Edit Company Logo"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:306
+msgid "Added to Favorites"
+msgstr ""
+
+#: template/listing/booking_popup.php:53
+msgid "Additional Information"
+msgstr ""
+
+#: template/listing/booking_popup.php:38
+#: template/private-profile/addlisting-form.php:86
+msgid "Address"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:200
+#: template/private-profile/profile-edit-post-1.php:245
+#: admin/pages/metabox_full_data.php:227
+msgid "Address (Save in the listing field)"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:239
+msgid "Address Autocomplete Helper"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:193
+#: admin/pages/metabox_full_data.php:219
+msgid "Address autocomplete helper"
+msgstr ""
+
+#: template/listing/single-listing.php:168
+msgid "Address:"
+msgstr ""
+
+#: admin/pages/email_template_all.php:99
+msgid "Admin Email Subject :"
+msgstr ""
+
+#: admin/pages/email_template_all.php:108
+msgid "Admin Email Tempalte :"
+msgstr ""
+
+#: admin/pages/dir_setting.php:56
+msgid "Admin will hide/delete"
+msgstr ""
+
+#: admin/pages/dir_setting.php:33
+msgid "Admin will Publish"
+msgstr ""
+
+#: admin/pages/package_create.php:647
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: admin/pages/package_update.php:695
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed.\t"
+msgstr ""
+
+#: template/elementor/delete/listing-map.php:21
+msgid "All Listing : Map Only"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all-top-map.php:29
+msgid "All Listing : Top Map"
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:1
+msgid "All listing Archive Shortcode: Left Map "
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:42
+msgid "All listing Archive Shortcode: No Map "
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:21
+msgid "All listing Archive Shortcode: Top Map "
+msgstr ""
+
+#: admin/pages/settings.php:28
+msgid "All Listing Data/Fields"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all-no-map.php:29
+msgid "All Listing No Map"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all.php:30
+msgid "All Listing: Right Map"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:35
+msgid "All listings"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all.php:12
+msgid "All Listings + Map"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all-top-map.php:11
+msgid "All Listings Top Map"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all-no-map.php:11
+msgid "All Listings: No Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:38
+msgid "All user can publish"
+msgstr ""
+
+#: admin/pages/registration-fields.php:202
+msgid "All Users"
+msgstr ""
+
+#: admin/admin.php:88 template/signup/iv_stripe_form_2.php:84
+#: template/signup/paypal_form_2.php:75 template/signup/woocommerce.php:76
+#: template/private-profile/profile-level-1.php:253
+#: template/private-profile/profile-level-1.php:328
+#: template/private-profile/iv_stripe_form_upgrade.php:54
+#: admin/pages/coupon_create.php:74 admin/pages/coupon_update.php:90
+#: admin/pages/package_create.php:573
+msgid "Amount"
+msgstr ""
+
+#: admin/pages/payment-history.php:58
+msgid "Amount  : "
+msgstr ""
+
+#: admin/pages/package_all.php:98 admin/pages/all_coupons.php:60
+msgid "Amount : "
+msgstr ""
+
+#: admin/pages/package_update.php:668 admin/pages/package_create.php:623
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: template/private-profile/profile-add-edit-faq.php:18
+#: template/private-profile/profile-add-edit-faq.php:39
+msgid "Answer"
+msgstr ""
+
+#: admin/pages/open-ai.php:76
+msgid "API key is valid"
+msgstr ""
+
+#: template/listing/single-template/footer_share.php:17
+msgid "Apply Now"
+msgstr ""
+
+#: admin/pages/metabox.php:31
+msgid "Approve"
+msgstr ""
+
+#: admin/admin.php:191 template/private-profile/profile-template-1.php:276
+msgid "Are you sure to cancel this Membership"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:393
+#: template/private-profile/profile-edit-post-1.php:451
+#: admin/pages/metabox_full_data.php:317
+msgid "Attached Doc"
+msgstr ""
+
+#: template/listing/single-template/attachments.php:7
+msgid "Attachments"
+msgstr ""
+
+#: admin/pages/stripe_update.php:74 admin/pages/paypal_update.php:64
+msgid "Australian Dollars ($)"
+msgstr ""
+
+#: template/elementor/delete/listing-filter.php:57
+msgid "Author"
+msgstr ""
+
+#: template/elementor/delete/listing-author-directory.php:8
+msgid "Author Directory"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:157
+#: template/elementor/listing-location-widget.php:58
+#: template/elementor/recent-post-slider-widget.php:82
+#: template/elementor/testimonial-one-widget.php:168
+#: template/elementor/testimonial-two-widget.php:106
+#: template/elementor/listing-category-widget.php:89
+msgid "Autoplay"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:168
+#: template/elementor/testimonial-one-widget.php:179
+#: template/elementor/testimonial-two-widget.php:117
+msgid "Autoplay Interval"
+msgstr ""
+
+#: admin/pages/archive_setting.php:83 admin/pages/listing_search.php:144
+#: admin/pages/single_page_setting.php:73
+msgid "Available Fields"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:61
+msgid "Average rating"
+msgstr ""
+
+#: admin/pages/open-ai.php:105
+msgid "babbage"
+msgstr ""
+
+#: template/private-profile/profile-login.php:62
+msgid "Back"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:169
+#: template/elementor/contact-form-7-widget.php:325
+#: template/elementor/contact-form-7-widget.php:359
+#: template/elementor/section-title-two-widget.php:91
+msgid "Background Color"
+msgstr ""
+
+#: admin/pages/new-message.php:2
+msgid "BCC to Admin all Message :"
+msgstr ""
+
+#: admin/pages/dir_setting.php:134
+msgid "Best Fit 330px X 280px"
+msgstr ""
+
+#: admin/pages/dir_setting.php:110
+msgid "Best Fit 450px X 400px"
+msgstr ""
+
+#: admin/pages/dir_setting.php:87
+msgid "Best Fit 520px X 260px"
+msgstr ""
+
+#: admin/pages/color_setting.php:7
+msgid "Big Button"
+msgstr ""
+
+#: admin/pages/package_update.php:615 admin/pages/package_create.php:571
+msgid "Billing Amount"
+msgstr ""
+
+#: admin/pages/package_update.php:640 admin/pages/package_create.php:595
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: admin/pages/package_update.php:568 admin/pages/package_create.php:522
+msgid "Billing Details"
+msgstr ""
+
+#: template/listing/single-listing.php:132 template/listing/booking_popup.php:9
+#: template/private-profile/booking.php:4
+#: template/private-profile/all-menu.php:95
+msgid "Booking"
+msgstr ""
+
+#: template/private-profile/booking.php:30
+msgid "Booking Details"
+msgstr ""
+
+#: admin/pages/color_setting.php:89
+msgid "Border"
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:113
+msgid "Box List"
+msgstr ""
+
+#: admin/pages/stripe_update.php:75 admin/pages/paypal_update.php:65
+msgid "Brazilian Real (R$)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Build Paid Service Directory listing using WordPress.No programming "
+"knowledge required."
+msgstr ""
+
+#: template/listing/single-template/business_hours.php:5
+msgid "Business Hours"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:421
+#: template/private-profile/profile-edit-post-1.php:496
+#: admin/pages/metabox_full_data.php:371
+msgid "Business Hours "
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:122
+msgid "Button Background Color"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:133
+msgid "Button Color"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:284
+msgid "Button Setting"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:102
+msgid "Button Size"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:72
+#: template/elementor/testimonial-one-widget.php:134
+#: template/elementor/listing-category-widget.php:53
+msgid "Button Text"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:82
+#: template/elementor/testimonial-one-widget.php:144
+#: template/elementor/listing-category-widget.php:63
+msgid "Button URL"
+msgstr ""
+
+#: template/price-table/price-table-1.php:135
+msgid "BUY NOW"
+msgstr ""
+
+#: admin/pages/stripe_update.php:76 admin/pages/paypal_update.php:66
+msgid "Canadian Dollars ($)"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:28
+msgid "Cancel"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:380
+#: template/private-profile/profile-level-1.php:407
+msgid "Cancel Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:375
+#: template/private-profile/profile-level-1.php:403
+msgid "Cancel Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:376
+#: template/private-profile/profile-level-1.php:404
+msgid "Canceling Reason"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:65
+msgid "Card CVV"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:108
+msgid "Card CVV "
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:102
+#: template/private-profile/iv_stripe_form_upgrade.php:59
+msgid "Card Number"
+msgstr ""
+
+#: functions/listing-functions.php:178
+#: template/elementor/recent-post-widget.php:50
+#: template/elementor/section-title-one-widget.php:37
+#: template/elementor/listing-two-widget.php:48
+#: template/elementor/listing-widget.php:48
+#: template/elementor/recent-post-slider-widget.php:50
+#: template/elementor/home-banner-two-widget.php:84
+#: template/elementor/home-banner-one-widget.php:74
+#: template/elementor/listing-category-widget.php:34
+#: template/listing/single-listing.php:534
+#: template/private-profile/profile-new-post-1.php:244
+#: template/private-profile/addlisting-form.php:127
+#: template/private-profile/profile-edit-post-1.php:288
+#: admin/pages/directory_fields.php:22 admin/pages/directory_fields.php:146
+#: template/elementor/delete/listing-post-all.php:53
+#: template/elementor/delete/listing-post-all-top-map.php:52
+#: template/elementor/delete/listing-category.php:39
+#: template/elementor/delete/listing-filter.php:70
+#: template/elementor/delete/listing-post-all-no-map.php:52
+msgid "Categories"
+msgstr ""
+
+#: functions/listing-functions.php:175
+#: template/elementor/delete/listing-category.php:9
+msgid "Category"
+msgstr ""
+
+#: template/elementor/delete/listing-category.php:21
+msgid "Category Settings"
+msgstr ""
+
+#: template/elementor/title-with-text-widget.php:244
+msgid "Center"
+msgstr ""
+
+#: admin/pages/user_update.php:174
+msgid "Change Banner [best fit: 1200 X 400]"
+msgstr ""
+
+#: admin/pages/user_update.php:138
+msgid "Change Image"
+msgstr ""
+
+#: template/private-profile/author-edit-profile.php:22
+msgid "Change Logo"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:17
+#: template/private-profile/profile-setting-1.php:52
+msgid "Change Password"
+msgstr ""
+
+#: template/listing/single-template/whatsapp_contact.php:25
+msgid "Chat via Viber"
+msgstr ""
+
+#: template/listing/single-template/whatsapp_contact.php:17
+msgid "Chat via WhatsApp"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:14
+msgid "ChatGPT Content Creator Settings"
+msgstr ""
+
+#: admin/pages/registration-fields.php:164 admin/pages/directory_fields.php:78
+#: admin/pages/directory_fields.php:175
+msgid "Checkbox"
+msgstr ""
+
+#: admin/pages/stripe_update.php:77 admin/pages/paypal_update.php:67
+msgid "Chinese Yuan"
+msgstr ""
+
+#: functions/listing-functions.php:182
+#: template/private-profile/addlisting-form.php:92
+#: admin/pages/metabox_full_data.php:235
+msgid "City"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:206
+#: template/private-profile/profile-edit-post-1.php:251
+msgid "city"
+msgstr ""
+
+#: template/listing/contact_popup.php:27
+#: template/private-profile/author_email_popup-file.php:52
+msgid "Close"
+msgstr ""
+
+#: functions/open-status-checker.php:17
+msgid "Closed Now!"
+msgstr ""
+
+#: admin/pages/archive_setting.php:51 admin/pages/archive_setting.php:108
+msgid "Collect from category"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:90
+#: template/elementor/contact-form-7-widget.php:135
+#: template/elementor/section-title-one-widget.php:78
+#: template/elementor/section-title-one-widget.php:147
+#: template/elementor/title-with-text-widget.php:91
+#: template/elementor/title-with-text-widget.php:136
+#: template/elementor/title-with-text-widget.php:181
+#: template/elementor/section-title-two-widget.php:140
+#: admin/pages/settings.php:27
+msgid "Color"
+msgstr ""
+
+#: admin/pages/settings.php:189
+msgid "Color Settings "
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:126
+#: template/elementor/team-member-one-widget.php:88
+msgid "Column"
+msgstr ""
+
+#: admin/pages/csv-import.php:16
+msgid "Column mapping"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:96
+#: template/elementor/listing-location-widget.php:69
+#: template/elementor/listing-category-widget.php:111
+msgid "Column On Desktop"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:113
+#: template/elementor/listing-location-widget.php:87
+#: template/elementor/listing-category-widget.php:128
+msgid "Column On iPad Pro"
+msgstr ""
+
+#: template/elementor/listing-category-widget.php:162
+msgid "Column On Mobile"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:130
+#: template/elementor/listing-location-widget.php:104
+#: template/elementor/listing-category-widget.php:145
+msgid "Column On Tablet"
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:131
+msgid "Column Settings"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:134
+#: template/elementor/listing-two-widget.php:80
+#: template/elementor/listing-widget.php:80
+msgid "Columns On Desktop"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:149
+#: template/elementor/listing-two-widget.php:95
+#: template/elementor/listing-widget.php:95
+msgid "Columns On iPad Pro"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:110
+#: template/elementor/listing-widget.php:110
+msgid "Columns On Tab"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:164
+msgid "Columns On Tablet"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:253
+msgid "Comments"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:86
+msgid "Company Logo[best fit 450X350]"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:178
+#: template/private-profile/addlisting-form.php:68
+#: template/private-profile/profile-edit-post-1.php:223
+#: admin/pages/metabox_full_data.php:183
+msgid "Company Name"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:179
+#: template/private-profile/addlisting-form.php:69
+#: template/private-profile/profile-edit-post-1.php:224
+#: admin/pages/metabox_full_data.php:186
+msgid "Company name"
+msgstr ""
+
+#: template/listing/single-listing.php:412
+#: template/listing/single-template/footer_share.php:32
+msgid "Contact"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:295
+msgid "Contact Button"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:28
+msgid "Contact Form"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:13
+msgid "Contact Form7"
+msgstr ""
+
+#: template/elementor/contact-info-widget.php:12
+#: template/elementor/contact-info-widget.php:31
+#: template/listing/single-listing.php:126
+#: template/private-profile/profile-new-post-1.php:159
+#: template/private-profile/addlisting-form.php:58
+#: template/private-profile/profile-edit-post-1.php:179
+#: admin/pages/metabox_full_data.php:130
+msgid "Contact Info"
+msgstr ""
+
+#: admin/pages/color_setting.php:78
+msgid "Content Font"
+msgstr ""
+
+#: functions/listing-functions.php:185
+#: template/private-profile/profile-new-post-1.php:218
+#: template/private-profile/addlisting-form.php:104
+#: template/private-profile/profile-edit-post-1.php:264
+#: admin/pages/metabox_full_data.php:256
+msgid "Country"
+msgstr ""
+
+#: admin/pages/coupon_update.php:92
+msgid "Coupon Amount [ Only Amount no Currency ]"
+msgstr ""
+
+#: admin/pages/registration-fields.php:52
+msgid "Coupon Buton"
+msgstr ""
+
+#: admin/pages/all_coupons.php:30
+msgid "Coupon Detail"
+msgstr ""
+
+#: admin/pages/coupon_create.php:17 admin/pages/coupon_update.php:28
+msgid "Coupon Name"
+msgstr ""
+
+#: admin/pages/coupon_create.php:76
+msgid "Coupon number [ no currency or comma ]"
+msgstr ""
+
+#: admin/pages/settings.php:39
+msgid "Coupons"
+msgstr ""
+
+#: admin/pages/settings.php:107
+msgid "Coupons "
+msgstr ""
+
+#: admin/pages/all_coupons.php:99
+msgid "Create A New Coupon"
+msgstr ""
+
+#: admin/pages/package_all.php:180
+msgid "Create A New Package"
+msgstr ""
+
+#: template/private-profile/profile-login.php:44
+msgid "Create an account"
+msgstr ""
+
+#: admin/pages/coupon_create.php:8
+msgid "Create New Coupon "
+msgstr ""
+
+#: admin/pages/package_create.php:15
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:101
+msgid "Create Post"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:72
+#: template/private-profile/profile-edit-post-1.php:66
+msgid "Create Post Using ChatGPT "
+msgstr ""
+
+#: template/private-profile/booking.php:60
+msgid "Create Time :"
+msgstr ""
+
+#: admin/pages/importer/upload_main_big_csv.php:47
+msgid "CSV Column Title/Name"
+msgstr ""
+
+#: admin/pages/settings.php:36
+msgid "CSV Importer"
+msgstr ""
+
+#: admin/pages/open-ai.php:104
+msgid "curie"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:22
+msgid "Current"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:49
+msgid "Current Package"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:39
+msgid "Current Password"
+msgstr ""
+
+#: admin/pages/dir_setting.php:156
+msgid "Custom Post Type"
+msgstr ""
+
+#: admin/pages/settings.php:219
+msgid "Customize the search form (drag, drop & sort)"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:68
+msgid "CVV number is not correct"
+msgstr ""
+
+#: admin/pages/package_update.php:621 admin/pages/package_create.php:577
+msgid "Cycle #"
+msgstr ""
+
+#: admin/pages/stripe_update.php:78 admin/pages/paypal_update.php:68
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/pages/stripe_update.php:79 admin/pages/paypal_update.php:69
+msgid "Danish Krone"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:106
+#: template/elementor/home-banner-one-widget.php:96
+#: admin/pages/listing_search.php:127 admin/pages/listing_search.php:189
+msgid "Date"
+msgstr ""
+
+#: admin/pages/payment-history.php:51
+msgid "Date  : "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:37
+msgid "Date : "
+msgstr ""
+
+#: template/listing/booking_popup.php:46
+msgid "Date and time"
+msgstr ""
+
+#: admin/pages/registration-fields.php:163 admin/pages/directory_fields.php:77
+#: admin/pages/directory_fields.php:174
+msgid "Date Picker"
+msgstr ""
+
+#: admin/pages/open-ai.php:102
+msgid "davinci"
+msgstr ""
+
+#: functions/open-status-checker.php:8
+msgid "Day Off!"
+msgstr ""
+
+#: admin/pages/package_update.php:594 admin/pages/package_update.php:626
+#: admin/pages/package_update.php:688 admin/pages/package_create.php:550
+#: admin/pages/package_create.php:581 admin/pages/package_create.php:640
+msgid "Day(s)"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:306
+msgid "Default"
+msgstr ""
+
+#: admin/pages/dir_setting.php:8
+msgid "Default All Listing Page Layout"
+msgstr ""
+
+#: admin/pages/listing_search.php:72
+msgid "Default Archive Page"
+msgstr ""
+
+#: admin/pages/dir_setting.php:115
+msgid "Default Category Image"
+msgstr ""
+
+#: admin/pages/map_setting.php:97
+msgid "Default Latitude"
+msgstr ""
+
+#: admin/pages/dir_setting.php:67
+msgid "Default listing Image"
+msgstr ""
+
+#: admin/pages/dir_setting.php:91
+msgid "Default Location Image"
+msgstr ""
+
+#: admin/pages/map_setting.php:111
+msgid "Default Longitude"
+msgstr ""
+
+#: admin/pages/open-ai.php:86
+msgid "Default Model :"
+msgstr ""
+
+#: admin/pages/all_coupons.php:73
+msgid "Delete"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:14
+#: template/private-profile/profile-all-post-1.php:19
+#: admin/pages/package_all.php:52 admin/pages/all_coupons.php:7
+msgid "Deleted Successfully"
+msgstr ""
+
+#: admin/pages/settings.php:25
+msgid "Demo Data"
+msgstr ""
+
+#: admin/pages/settings.php:53
+msgid "Demo Import "
+msgstr ""
+
+#: template/elementor/contact-info-widget.php:52
+#: template/elementor/title-with-text-widget.php:59
+#: template/elementor/title-with-text-widget.php:161
+#: template/elementor/how-it-works-widget.php:48
+#: template/elementor/home-banner-two-widget.php:45
+msgid "Description"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:48
+msgid "Designation"
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:139
+msgid "Desktop"
+msgstr ""
+
+#: admin/pages/payment-history.php:25
+msgid "Detail"
+msgstr ""
+
+#: template/listing/single-listing.php:395
+msgid "details"
+msgstr ""
+
+#: template/listing/map/google-map.php:34
+#: template/listing/map/openstreet-map.php:38
+msgid "Direction"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:6
+msgid "Discount Coupon"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:153
+#: template/private-profile/addlisting-form.php:53
+#: template/private-profile/profile-edit-post-1.php:173
+#: admin/pages/metabox_full_data.php:120
+msgid "Discount Price"
+msgstr ""
+
+#: admin/pages/coupon_create.php:22 admin/pages/coupon_update.php:33
+msgid "Discount Type"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:285
+msgid "Display _MENU_ "
+msgstr ""
+
+#: admin/pages/registration-fields.php:266 admin/pages/directory_fields.php:225
+msgid "Display _MENU_ records per page"
+msgstr ""
+
+#: admin/pages/header.php:38
+msgid "Documentation"
+msgstr ""
+
+#: admin/pages/csv-import.php:32 admin/pages/csv-import.php:65
+msgid "Done!"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:143
+#: template/private-profile/addlisting-form.php:43
+#: template/private-profile/profile-edit-post-1.php:162
+msgid "Draft"
+msgstr ""
+
+#: admin/pages/listing_search.php:110 admin/pages/listing_search.php:117
+#: admin/pages/listing_search.php:173 admin/pages/listing_search.php:180
+msgid "Drop Down"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:103
+#: template/elementor/home-banner-one-widget.php:93
+msgid "DropDown"
+msgstr ""
+
+#: admin/pages/registration-fields.php:161 admin/pages/directory_fields.php:75
+#: admin/pages/directory_fields.php:172
+msgid "Dropdown"
+msgstr ""
+
+#. Author of the plugin
+msgid "e-plugins"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:169
+#: template/private-profile/profile-edit-post-1.php:188
+#: admin/pages/all_coupons.php:69 admin/pages/metabox_full_data.php:147
+#: admin/pages/payment-settings.php:45 admin/pages/payment-settings.php:56
+msgid "Edit"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:9
+msgid "Edit listing"
+msgstr ""
+
+#: template/private-profile/all-menu.php:48
+msgid "Edit Profile"
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:82
+msgid "Elementor Widgets "
+msgstr ""
+
+#: template/listing/single-listing.php:732
+#: template/listing/booking_popup.php:30
+#: template/private-profile/author_email_popup-file.php:28
+#: admin/pages/manage-cpt-columns.php:11
+#: template/listing/single-template/claim.php:28
+#: admin/pages/importer/upload_main_big_csv.php:53
+msgid "Email"
+msgstr ""
+
+#: admin/pages/payment-history.php:47
+msgid "Email  : "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:43
+msgid "Email : "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:126
+#: template/private-profile/profile-new-post-1.php:231
+#: template/private-profile/addlisting-form.php:116
+#: template/private-profile/profile-edit-post-1.php:277
+#: admin/pages/user_update.php:40 admin/pages/metabox_full_data.php:212
+msgid "Email Address"
+msgstr ""
+
+#: admin/pages/email_template_all.php:6
+msgid "Email Sender :"
+msgstr ""
+
+#: admin/pages/email_template_all.php:23
+msgid "Email Subject"
+msgstr ""
+
+#: admin/pages/email_template_all.php:32
+msgid "Email Tempalte "
+msgstr ""
+
+#: admin/pages/settings.php:40
+msgid "Email Template"
+msgstr ""
+
+#: admin/pages/settings.php:199
+msgid "Email Template "
+msgstr ""
+
+#: template/listing/contact-form.php:21
+msgid "Email*"
+msgstr ""
+
+#: template/listing/single-listing.php:180
+msgid "Email:"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:98
+msgid "Enable Border"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:60
+msgid "Enable Overlay"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:59
+#: template/elementor/listing-widget.php:59
+msgid "Enable Pagination"
+msgstr ""
+
+#: admin/pages/package_update.php:608 admin/pages/package_create.php:564
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: admin/pages/package_update.php:657 admin/pages/package_create.php:612
+msgid "Enable Trial Period"
+msgstr ""
+
+#: admin/pages/all_coupons.php:54
+msgid "End Date : "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:180
+msgid "Enter"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:201
+#: template/private-profile/addlisting-form.php:84
+#: template/private-profile/profile-edit-post-1.php:246
+#: admin/pages/metabox_full_data.php:230
+msgid "Enter Address"
+msgstr ""
+
+#: admin/pages/package_create.php:622
+msgid "Enter Amount to Bill for The Trial Period"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:68
+msgid "Enter card CVC"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:111
+msgid "Enter card CVV"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:104
+msgid "Enter card number"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:207
+#: template/private-profile/addlisting-form.php:93
+#: template/private-profile/profile-edit-post-1.php:252
+#: admin/pages/metabox_full_data.php:238
+msgid "Enter city"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:219
+#: template/private-profile/addlisting-form.php:105
+#: template/private-profile/profile-edit-post-1.php:265
+#: admin/pages/metabox_full_data.php:259
+msgid "Enter Country"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:7
+msgid "Enter Coupon Cod"
+msgstr ""
+
+#: admin/pages/coupon_update.php:29
+msgid "Enter Coupon Name Or Coupon Code"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:154
+#: template/private-profile/addlisting-form.php:54
+#: template/private-profile/profile-edit-post-1.php:174
+#: admin/pages/metabox_full_data.php:123
+msgid "Enter Discount Price"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:232
+#: template/private-profile/profile-login.php:77
+#: template/private-profile/addlisting-form.php:117
+#: template/private-profile/profile-edit-post-1.php:278
+#: admin/pages/metabox_full_data.php:215
+msgid "Enter Email Address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:128
+msgid "Enter email address"
+msgstr ""
+
+#: template/private-profile/profile-social.php:8
+msgid "Enter Facebook link "
+msgstr ""
+
+#: admin/pages/package_update.php:523 admin/pages/package_create.php:483
+msgid "Enter Feature"
+msgstr ""
+
+#: admin/pages/package_create.php:526
+msgid "Enter Initial Payment"
+msgstr ""
+
+#: template/private-profile/profile-social.php:16
+msgid "Enter instagram link"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:223
+#: template/private-profile/addlisting-form.php:109
+#: template/private-profile/profile-edit-post-1.php:269
+#: admin/pages/metabox_full_data.php:266
+msgid "Enter Latitude"
+msgstr ""
+
+#: template/private-profile/profile-social.php:12
+msgid "Enter linkedin link"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:227
+#: template/private-profile/addlisting-form.php:113
+#: template/private-profile/profile-edit-post-1.php:273
+#: admin/pages/metabox_full_data.php:273
+msgid "Enter Longitude"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:17
+msgid "Enter Message"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:289
+#: template/private-profile/addlisting-form.php:166
+#: template/private-profile/profile-edit-post-1.php:337
+msgid "Enter New Categories: Separate with commas"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:365
+#: template/private-profile/addlisting-form.php:238
+#: template/private-profile/author-edit-profile.php:105
+#: template/private-profile/profile-edit-post-1.php:428
+msgid "Enter New Locations: Separate with commas"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:329
+#: template/private-profile/addlisting-form.php:203
+#: template/private-profile/profile-edit-post-1.php:384
+msgid "Enter New Tags: Separate with commas"
+msgstr ""
+
+#: admin/pages/package_update.php:552 admin/pages/package_create.php:510
+msgid "Enter only number e.g. 1"
+msgstr ""
+
+#: admin/pages/package_update.php:541 admin/pages/package_create.php:501
+msgid "Enter order number e.g. 1"
+msgstr ""
+
+#: admin/pages/package_create.php:22
+msgid "Enter Package Name"
+msgstr ""
+
+#: admin/pages/package_update.php:33 admin/pages/package_create.php:29
+msgid "Enter Package Subtitle"
+msgstr ""
+
+#: admin/pages/paypal_update.php:45
+msgid "Enter Paypal Api Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:51
+msgid "Enter Paypal Api Signature"
+msgstr ""
+
+#: admin/pages/paypal_update.php:39
+msgid "Enter Paypal Username"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:183
+#: template/private-profile/addlisting-form.php:73
+#: template/private-profile/profile-edit-post-1.php:228
+#: admin/pages/metabox_full_data.php:193
+msgid "Enter Phone Number"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:150
+#: template/private-profile/addlisting-form.php:50
+#: template/private-profile/profile-edit-post-1.php:170
+#: admin/pages/metabox_full_data.php:116
+msgid "Enter Price "
+msgstr ""
+
+#: template/listing/single-template/reviews.php:256
+msgid "Enter review comments*"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:247
+msgid "Enter review title*"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:211
+#: template/private-profile/addlisting-form.php:97
+#: template/private-profile/profile-edit-post-1.php:256
+#: admin/pages/metabox_full_data.php:245
+msgid "Enter State"
+msgstr ""
+
+#: admin/pages/stripe_update.php:61
+msgid "Enter stripe Api publishable Key"
+msgstr ""
+
+#: admin/pages/stripe_update.php:45
+msgid "Enter stripe Api publishable key"
+msgstr ""
+
+#: admin/pages/stripe_update.php:55
+msgid "Enter stripe Api Secret Key"
+msgstr ""
+
+#: admin/pages/stripe_update.php:39
+msgid "Enter stripe secret key"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:14
+msgid "Enter Subject"
+msgstr ""
+
+#: admin/pages/new-message.php:25 admin/pages/new-message.php:59
+msgid "Enter subject"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:62
+#: template/private-profile/addlisting-form.php:7
+#: template/private-profile/profile-edit-post-1.php:56
+msgid "Enter Title Here"
+msgstr ""
+
+#: template/private-profile/profile-social.php:20
+msgid "Enter twitter link"
+msgstr ""
+
+#: admin/pages/coupon_update.php:74
+msgid "Enter Usage Limit Number"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:121
+msgid "Enter User Name"
+msgstr ""
+
+#: template/private-profile/profile-login.php:76
+msgid "Enter Username & Password."
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:81
+#: template/private-profile/profile-edit-post-1.php:236
+#: admin/pages/metabox_full_data.php:208
+msgid "Enter Viber Number"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:385
+#: template/private-profile/addlisting-form.php:259
+#: template/private-profile/profile-edit-post-1.php:444
+#: admin/pages/metabox_full_data.php:308
+msgid "Enter vimeo ID, e.g : 134173961"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:236
+#: template/private-profile/addlisting-form.php:121
+#: template/private-profile/profile-edit-post-1.php:282
+#: admin/pages/metabox_full_data.php:280
+msgid "Enter Web Site"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:187
+msgid "Enter whats up Number"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:201
+msgid "Enter WhatsApp Number"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:77
+#: template/private-profile/profile-edit-post-1.php:232
+msgid "Enter whatsApp Number"
+msgstr ""
+
+#: template/private-profile/profile-login.php:54
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:381
+#: template/private-profile/addlisting-form.php:255
+#: template/private-profile/profile-edit-post-1.php:440
+#: admin/pages/metabox_full_data.php:301
+msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:215
+#: template/private-profile/addlisting-form.php:101
+#: template/private-profile/profile-edit-post-1.php:260
+#: admin/pages/metabox_full_data.php:252
+msgid "Enter Zipcode/Postcode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:72
+msgid "Euros (&euro;)"
+msgstr ""
+
+#: admin/pages/paypal_update.php:62
+msgid "Euros (€)"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:134
+#: template/elementor/listing-widget.php:134
+msgid "Excerpt"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:143
+#: template/elementor/listing-widget.php:143
+msgid "Excerpt Lenth"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:61
+#: template/elementor/recent-post-slider-widget.php:61
+msgid "Exclude Posts"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:115
+#: template/private-profile/iv_stripe_form_upgrade.php:72
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: admin/pages/coupon_create.php:68 admin/pages/coupon_update.php:84
+msgid "Expire Date"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:100
+msgid "Expiring"
+msgstr ""
+
+#: admin/pages/user_update.php:107
+msgid "Expiry Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:156
+msgid "Exprie Date"
+msgstr ""
+
+#: admin/pages/package_update.php:88 admin/pages/package_create.php:48
+msgid "fa-align-right"
+msgstr ""
+
+#: admin/pages/package_update.php:89 admin/pages/package_create.php:49
+msgid "fa-amazon"
+msgstr ""
+
+#: admin/pages/package_update.php:90 admin/pages/package_create.php:50
+msgid "fa-ambulance"
+msgstr ""
+
+#: admin/pages/package_update.php:91 admin/pages/package_create.php:51
+msgid "fa-anchor"
+msgstr ""
+
+#: admin/pages/package_update.php:92 admin/pages/package_create.php:52
+msgid "fa-android"
+msgstr ""
+
+#: admin/pages/package_update.php:93 admin/pages/package_create.php:53
+msgid "fa-angellist"
+msgstr ""
+
+#: admin/pages/package_update.php:94 admin/pages/package_create.php:54
+msgid "fa-angle-double-down"
+msgstr ""
+
+#: admin/pages/package_update.php:95 admin/pages/package_create.php:55
+msgid "fa-angle-double-left"
+msgstr ""
+
+#: admin/pages/package_update.php:96 admin/pages/package_create.php:56
+msgid "fa-angle-double-right"
+msgstr ""
+
+#: admin/pages/package_update.php:97 admin/pages/package_create.php:57
+msgid "fa-angle-double-up"
+msgstr ""
+
+#: admin/pages/package_update.php:98 admin/pages/package_create.php:58
+msgid "fa-angle-left"
+msgstr ""
+
+#: admin/pages/package_update.php:99 admin/pages/package_create.php:59
+msgid "fa-angle-right"
+msgstr ""
+
+#: admin/pages/package_update.php:100 admin/pages/package_create.php:60
+msgid "fa-angle-up"
+msgstr ""
+
+#: admin/pages/package_update.php:101 admin/pages/package_create.php:61
+msgid "fa-apple"
+msgstr ""
+
+#: admin/pages/package_update.php:102 admin/pages/package_create.php:62
+msgid "fa-archive"
+msgstr ""
+
+#: admin/pages/package_update.php:103 admin/pages/package_create.php:63
+msgid "fa-area-chart"
+msgstr ""
+
+#: admin/pages/package_update.php:104 admin/pages/package_create.php:64
+msgid "fa-arrow-circle-down"
+msgstr ""
+
+#: admin/pages/package_update.php:105 admin/pages/package_create.php:65
+msgid "fa-arrow-circle-left"
+msgstr ""
+
+#: admin/pages/package_update.php:107 admin/pages/package_create.php:67
+msgid "fa-arrow-circle-o-down"
+msgstr ""
+
+#: admin/pages/package_update.php:108 admin/pages/package_create.php:68
+msgid "fa-arrow-circle-o-left"
+msgstr ""
+
+#: admin/pages/package_update.php:109 admin/pages/package_create.php:69
+msgid "fa-arrow-circle-o-right"
+msgstr ""
+
+#: admin/pages/package_update.php:110 admin/pages/package_create.php:70
+msgid "fa-arrow-circle-o-up"
+msgstr ""
+
+#: admin/pages/package_update.php:111 admin/pages/package_create.php:71
+msgid "fa-arrow-circle-right"
+msgstr ""
+
+#: admin/pages/package_update.php:112 admin/pages/package_create.php:72
+msgid "fa-arrow-circle-up"
+msgstr ""
+
+#: admin/pages/package_update.php:113 admin/pages/package_create.php:73
+msgid "fa-arrow-down"
+msgstr ""
+
+#: admin/pages/package_update.php:114 admin/pages/package_update.php:115
+#: admin/pages/package_create.php:74 admin/pages/package_create.php:75
+msgid "fa-arrow-left"
+msgstr ""
+
+#: admin/pages/package_update.php:116 admin/pages/package_create.php:76
+msgid "fa-arrow-up"
+msgstr ""
+
+#: admin/pages/package_update.php:117 admin/pages/package_create.php:77
+msgid "fa-arrows"
+msgstr ""
+
+#: admin/pages/package_update.php:118 admin/pages/package_create.php:78
+msgid "fa-arrows-alt"
+msgstr ""
+
+#: admin/pages/package_update.php:119 admin/pages/package_create.php:79
+msgid "fa-arrows-h"
+msgstr ""
+
+#: admin/pages/package_update.php:121 admin/pages/package_create.php:81
+msgid "fa-asterisk"
+msgstr ""
+
+#: admin/pages/package_update.php:122 admin/pages/package_create.php:82
+msgid "fa-at"
+msgstr ""
+
+#: admin/pages/package_update.php:123 admin/pages/package_create.php:83
+msgid "fa-automobile"
+msgstr ""
+
+#: admin/pages/package_update.php:124 admin/pages/package_create.php:84
+msgid "fa-backward"
+msgstr ""
+
+#: admin/pages/package_update.php:125 admin/pages/package_create.php:85
+msgid "fa-balance-scale"
+msgstr ""
+
+#: admin/pages/package_update.php:126 admin/pages/package_create.php:86
+msgid "fa-ban"
+msgstr ""
+
+#: admin/pages/package_update.php:127 admin/pages/package_create.php:87
+msgid "fa-bank"
+msgstr ""
+
+#: admin/pages/package_update.php:128 admin/pages/package_create.php:88
+msgid "fa-bar-chart"
+msgstr ""
+
+#: admin/pages/package_update.php:129 admin/pages/package_create.php:89
+msgid "fa-bar-chart-o"
+msgstr ""
+
+#: admin/pages/package_update.php:130 admin/pages/package_create.php:90
+msgid "fa-battery-full"
+msgstr ""
+
+#: admin/pages/package_update.php:131 admin/pages/package_create.php:91
+msgid "fa-beer"
+msgstr ""
+
+#: admin/pages/package_update.php:132 admin/pages/package_create.php:92
+msgid "fa-behance"
+msgstr ""
+
+#: admin/pages/package_update.php:133 admin/pages/package_create.php:93
+msgid "fa-behance-square"
+msgstr ""
+
+#: admin/pages/package_update.php:134 admin/pages/package_create.php:94
+msgid "fa-bell"
+msgstr ""
+
+#: admin/pages/package_update.php:135 admin/pages/package_create.php:95
+msgid "fa-bell-o"
+msgstr ""
+
+#: admin/pages/package_update.php:136 admin/pages/package_create.php:96
+msgid "fa-bell-slash"
+msgstr ""
+
+#: admin/pages/package_update.php:137 admin/pages/package_create.php:97
+msgid "fa-bell-slash-o"
+msgstr ""
+
+#: admin/pages/package_update.php:138 admin/pages/package_create.php:98
+msgid "fa-bicycle"
+msgstr ""
+
+#: admin/pages/package_update.php:139 admin/pages/package_create.php:99
+msgid "fa-binoculars"
+msgstr ""
+
+#: admin/pages/package_update.php:140 admin/pages/package_create.php:100
+msgid "fa-birthday-cake"
+msgstr ""
+
+#: admin/pages/package_update.php:141 admin/pages/package_create.php:101
+msgid "fa-bitbucket"
+msgstr ""
+
+#: admin/pages/package_update.php:142 admin/pages/package_create.php:102
+msgid "fa-bitbucket-square"
+msgstr ""
+
+#: admin/pages/package_update.php:143 admin/pages/package_create.php:103
+msgid "fa-bitcoin"
+msgstr ""
+
+#: admin/pages/package_update.php:144 admin/pages/package_create.php:104
+msgid "fa-black-tie"
+msgstr ""
+
+#: admin/pages/package_update.php:145 admin/pages/package_create.php:105
+msgid "fa-bold"
+msgstr ""
+
+#: admin/pages/package_update.php:146 admin/pages/package_create.php:106
+msgid "fa-bolt"
+msgstr ""
+
+#: admin/pages/package_update.php:147 admin/pages/package_create.php:107
+msgid "fa-bomb"
+msgstr ""
+
+#: admin/pages/package_update.php:148 admin/pages/package_create.php:108
+msgid "fa-book"
+msgstr ""
+
+#: admin/pages/package_update.php:149 admin/pages/package_create.php:109
+msgid "fa-bookmark"
+msgstr ""
+
+#: admin/pages/package_update.php:150 admin/pages/package_create.php:110
+msgid "fa-bookmark-o"
+msgstr ""
+
+#: admin/pages/package_update.php:151 admin/pages/package_create.php:111
+msgid "fa-briefcase"
+msgstr ""
+
+#: admin/pages/package_update.php:152 admin/pages/package_create.php:112
+msgid "fa-btc"
+msgstr ""
+
+#: admin/pages/package_update.php:153 admin/pages/package_create.php:113
+msgid "fa-bug"
+msgstr ""
+
+#: admin/pages/package_update.php:154 admin/pages/package_create.php:114
+msgid "fa-building"
+msgstr ""
+
+#: admin/pages/package_update.php:155 admin/pages/package_create.php:115
+msgid "fa-building-o"
+msgstr ""
+
+#: admin/pages/package_update.php:82 admin/pages/package_create.php:42
+msgid "fa-calendar-check-o"
+msgstr ""
+
+#: admin/pages/package_update.php:86 admin/pages/package_create.php:46
+msgid "fa-envira"
+msgstr ""
+
+#: admin/pages/package_update.php:83 admin/pages/package_create.php:43
+msgid "fa-file-video-o"
+msgstr ""
+
+#: admin/pages/package_update.php:84 admin/pages/package_create.php:44
+msgid "fa-newspaper-o"
+msgstr ""
+
+#: admin/pages/package_update.php:85 admin/pages/package_create.php:45
+msgid "fa-user-o"
+msgstr ""
+
+#: template/private-profile/profile-social.php:7
+msgid "Facebook"
+msgstr ""
+
+#: template/private-profile/profile-add-edit-faq.php:15
+#: template/private-profile/profile-add-edit-faq.php:36
+#: admin/pages/header.php:45
+msgid "FAQ"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:89
+msgid "FAQ #"
+msgstr ""
+
+#: template/listing/single-listing.php:406
+msgid "Faq's"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:432
+#: template/private-profile/addlisting-form.php:275
+#: template/private-profile/profile-edit-post-1.php:506
+#: admin/pages/metabox_full_data.php:384
+msgid "FAQs "
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:78
+msgid "Feature Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:86
+#: admin/pages/metabox_full_data.php:55
+msgid "Feature Image / Company Logo"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:243
+#: template/elementor/listing-widget.php:217
+#: template/listing/single-template/archive-grid-block.php:40
+msgid "Featured"
+msgstr ""
+
+#: admin/pages/metabox.php:45
+msgid "Featured (display on top)"
+msgstr ""
+
+#: template/elementor/delete/listing-featured.php:8
+msgid "Featured Listings"
+msgstr ""
+
+#: admin/pages/registration-fields.php:110
+msgid "Female,Male,Other"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:214
+msgid "Field Background Color"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:227
+msgid "Field Border Color"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:240
+msgid "Field Border Color On Focus"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:72
+#: template/elementor/home-banner-one-widget.php:62
+msgid "Field Label"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:206
+msgid "Field Style"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:255
+msgid "Field Text Color"
+msgstr ""
+
+#: template/elementor/delete/listing-filter.php:22
+msgid "Filter Settings"
+msgstr ""
+
+#: template/listing/archive-grid-top-map.php:208
+#: template/listing/archive-grid.php:142
+#: template/listing/archive-grid-no-map.php:140
+#: template/listing/archive-map.php:112
+msgid "Filters"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:290
+#: admin/pages/registration-fields.php:271 admin/pages/directory_fields.php:230
+msgid "First"
+msgstr ""
+
+#: admin/pages/coupon_create.php:25 admin/pages/coupon_update.php:39
+msgid "Fixed Amount"
+msgstr ""
+
+#: admin/pages/color_setting.php:18
+msgid "Font: Big Button"
+msgstr ""
+
+#: admin/pages/color_setting.php:41
+msgid "Font: Small Button"
+msgstr ""
+
+#: admin/pages/map_setting.php:84
+msgid "Force Default Location"
+msgstr ""
+
+#: template/private-profile/profile-login.php:51
+msgid "Forget Password ?"
+msgstr ""
+
+#: admin/pages/email_template_all.php:47
+msgid "Forget Subject"
+msgstr ""
+
+#: admin/pages/email_template_all.php:56
+msgid "Forget Tempalte :"
+msgstr ""
+
+#: template/private-profile/profile-login.php:36
+msgid "Forgot Password?"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:98
+#: template/elementor/home-banner-one-widget.php:88
+msgid "Form Field Type"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:115
+#: template/elementor/home-banner-one-widget.php:105
+msgid "Form Fields"
+msgstr ""
+
+#: admin/pages/listing_search.php:66
+msgid "Form Submit Action Terget:"
+msgstr ""
+
+#: template/price-table/price-table-1.php:108
+msgid "Free"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:93
+msgid "Fri"
+msgstr ""
+
+#: admin/admin.php:190 template/private-profile/profile-new-post-1.php:483
+#: template/private-profile/add-listing-without-user.php:131
+#: template/private-profile/profile-template-1.php:275
+#: template/private-profile/profile-edit-post-1.php:559
+#: admin/pages/metabox_full_data.php:435
+msgid "Gallery Images"
+msgstr ""
+
+#: admin/pages/stripe_update.php:28 admin/pages/paypal_update.php:28
+msgid "Gateway Mode"
+msgstr ""
+
+#: admin/pages/payment-settings.php:29
+msgid "Gateways Name"
+msgstr ""
+
+#: admin/pages/header.php:18
+msgid "Get Help"
+msgstr ""
+
+#: admin/pages/listing_search.php:209
+msgid "Get Shortcode"
+msgstr ""
+
+#: admin/pages/header.php:32
+msgid "Get Support"
+msgstr ""
+
+#: admin/pages/mailchimp.php:21 admin/pages/open-ai.php:27
+msgid "Get your API key here"
+msgstr ""
+
+#: admin/pages/map_setting.php:13
+msgid "Get your Google Maps API Key here."
+msgstr ""
+
+#: admin/pages/map_setting.php:37
+msgid "Google Map"
+msgstr ""
+
+#: admin/pages/map_setting.php:7
+msgid "Google Map & Places API Key"
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:96
+msgid "Gutenberg Widgets "
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:94 template/signup/paypal_form_2.php:85
+msgid "Have a coupon?"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:47
+msgid "Have an account?"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:274
+msgid "Have Coupon"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:81
+msgid "Height"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:51
+msgid "Here"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:303
+msgid "Hide Contact Button"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:273
+msgid "Hide Coupon"
+msgstr ""
+
+#: admin/pages/profile-fields.php:28 admin/pages/profile-fields.php:46
+#: admin/pages/profile-fields.php:64 admin/pages/profile-fields.php:82
+#: admin/pages/profile-fields.php:100 admin/pages/profile-fields.php:118
+#: admin/pages/profile-fields.php:136
+msgid "Hide from My Account Page"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:27
+#: template/elementor/home-banner-one-widget.php:27
+msgid "Home Banner"
+msgstr ""
+
+#: template/elementor/home-banner-one-widget.php:11
+msgid "Home Banner One"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:11
+msgid "Home Banner Two"
+msgstr ""
+
+#: admin/admin.php:1202
+msgid "Home page added"
+msgstr ""
+
+#: admin/pages/stripe_update.php:80 admin/pages/paypal_update.php:70
+msgid "Hong Kong Dollar ($)"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:340
+msgid "Hover"
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:11
+#: template/elementor/how-it-works-widget.php:28
+msgid "How It Works"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://e-plugins.com/"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:84
+#: template/elementor/testimonial-one-widget.php:146
+#: template/elementor/listing-category-widget.php:65
+msgid "https://your-link.com"
+msgstr ""
+
+#: admin/pages/stripe_update.php:81 admin/pages/paypal_update.php:71
+msgid "Hungarian Forint"
+msgstr ""
+
+#: template/listing/single-template/whatsapp_contact.php:17
+#: template/listing/single-template/whatsapp_contact.php:25
+msgid "I'm interested in services"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:124
+msgid ""
+"I've been using this website for a while now, and it's become my go-to "
+"resource for finding investment properties. The user-friendly interface and "
+"comprehensive property listings make my job so much easier."
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:110
+msgid ""
+"I've been using this website for a while now, and it's become my go-to "
+"resource for finding investment properties. The user-friendly interface and "
+"comprehensive property listings make my job so much easier.\""
+msgstr ""
+
+#: template/elementor/testimonial-two-widget.php:73
+#: template/elementor/testimonial-two-widget.php:87
+msgid ""
+"I've been using this website for a while now, and it's become one of my go-"
+"to resource for finding investment on the properties."
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:52
+#: template/elementor/contact-info-widget.php:67
+#: template/elementor/how-it-works-widget.php:63
+#: admin/pages/archive_setting.php:41 admin/pages/archive_setting.php:98
+#: admin/pages/color_setting.php:55 admin/pages/single_page_setting.php:52
+#: admin/pages/single_page_setting.php:84
+msgid "Icon"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:109
+msgid "Icon Box List"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:11
+msgid "Icon Box Two"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:81
+msgid "Icon Image"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:47
+#: template/elementor/contact-info-widget.php:62
+#: template/elementor/how-it-works-widget.php:58
+msgid "Icon Type"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:34
+msgid "ID : "
+msgstr ""
+
+#: admin/pages/csv-import.php:45
+msgid "If CSV ID filed value match your listing ID then it will update/merge"
+msgstr ""
+
+#: admin/pages/package_update.php:601
+msgid ""
+"If select none then user  package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: admin/pages/package_create.php:557
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:56
+#: template/elementor/contact-info-widget.php:71
+#: template/elementor/contact-info-widget.php:100
+#: template/elementor/how-it-works-widget.php:67
+#: template/elementor/how-it-works-widget.php:96
+#: template/elementor/section-title-two-widget.php:57
+#: template/elementor/video-popup-widget.php:38
+msgid "Image"
+msgstr ""
+
+#: admin/pages/metaboxes/location-meta.php:26
+msgid "Image [Best: 250px X 380px]"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:64
+msgid "Image [Best: 300px X 200px]"
+msgstr ""
+
+#: admin/pages/metaboxes/tag-meta.php:26
+msgid "Image [Best: 30px X 30px]"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:91
+#: template/private-profile/profile-edit-post-1.php:93
+#: admin/pages/metabox_full_data.php:63
+msgid "Image Gallery"
+msgstr ""
+
+#: admin/pages/metaboxes/tag-meta.php:12
+#: admin/pages/metaboxes/location-meta.php:12
+msgid "Image[Best: 250px X 380px]"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:28
+msgid "Image[Best: 300 X 200px]"
+msgstr ""
+
+#: template/elementor/image-one-widget.php:28
+msgid "Images"
+msgstr ""
+
+#: template/elementor/image-one-widget.php:11
+msgid "Images One"
+msgstr ""
+
+#: admin/pages/csv-import.php:24
+msgid "Import"
+msgstr ""
+
+#: admin/pages/dir-demo.php:23
+msgid "Import Demo Listing"
+msgstr ""
+
+#: admin/pages/settings.php:65
+msgid "Importing CSV Data "
+msgstr ""
+
+#: admin/pages/package_all.php:148
+msgid "Inactive"
+msgstr ""
+
+#: admin/pages/stripe_update.php:82 admin/pages/paypal_update.php:72
+msgid "Indian Rupee"
+msgstr ""
+
+#: template/private-profile/author-edit-profile.php:29
+#: template/listing/single-template/top-over-view.php:37
+msgid "Industry"
+msgstr ""
+
+#: template/elementor/contact-info-widget.php:118
+msgid "Info List"
+msgstr ""
+
+#: admin/pages/package_update.php:570 admin/pages/package_create.php:524
+msgid "Initial Payment"
+msgstr ""
+
+#: admin/pages/registration-fields.php:15 admin/pages/directory_fields.php:21
+#: admin/pages/directory_fields.php:145
+msgid "Input Detail"
+msgstr ""
+
+#: admin/pages/registration-fields.php:134 admin/pages/directory_fields.php:47
+#: admin/pages/directory_fields.php:219
+msgid "Input Name"
+msgstr ""
+
+#: template/private-profile/profile-social.php:15
+msgid "Instagram"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:104
+msgid "Invalid Card Number"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:111
+msgid "Invalid CVV Number"
+msgstr ""
+
+#: template/private-profile/profile-login.php:75
+msgid "Invalid Username & Password."
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:169
+msgid "iPad"
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:154
+msgid "iPad Pro"
+msgstr ""
+
+#: admin/pages/package_update.php:37 admin/pages/package_create.php:33
+msgid "Is it Feature Package ?"
+msgstr ""
+
+#: admin/pages/stripe_update.php:83 admin/pages/paypal_update.php:73
+msgid "Israeli Sheqel"
+msgstr ""
+
+#: template/elementor/recent-post-slider-widget.php:114
+msgid "Item Show On Desktop"
+msgstr ""
+
+#: template/elementor/recent-post-slider-widget.php:131
+msgid "Item Show On iPad Pro"
+msgstr ""
+
+#: template/elementor/recent-post-slider-widget.php:148
+msgid "Item Show On Tablet"
+msgstr ""
+
+#: admin/pages/stripe_update.php:84 admin/pages/paypal_update.php:74
+msgid "Japanese Yen (¥)"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:84
+msgid "jhon@yourdomain.com"
+msgstr ""
+
+#: admin/pages/map_setting.php:54
+msgid "Km"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:69
+#: template/elementor/home-banner-one-widget.php:59
+#: admin/pages/registration-fields.php:144 admin/pages/directory_fields.php:57
+#: admin/pages/directory_fields.php:220
+msgid "Label"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:291
+#: admin/pages/registration-fields.php:272 admin/pages/directory_fields.php:231
+msgid "Last"
+msgstr ""
+
+#: template/listing/listing_search.php:191
+msgid "Latest listings"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:222
+#: template/private-profile/addlisting-form.php:108
+#: template/private-profile/profile-edit-post-1.php:268
+#: admin/pages/metabox_full_data.php:263
+msgid "Latitude "
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:72
+#: template/elementor/listing-widget.php:72
+msgid "Layout"
+msgstr ""
+
+#: template/elementor/title-with-text-widget.php:239
+msgid "Left"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:28
+msgid "Left List"
+msgstr ""
+
+#: admin/pages/map_setting.php:180
+msgid "Link to Detail page "
+msgstr ""
+
+#: template/private-profile/profile-social.php:11
+msgid "Linkedin"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:38
+msgid "List Item"
+msgstr ""
+
+#. Name of the plugin
+msgid "ListfolioPro"
+msgstr ""
+
+#: admin/pages/tinymce_shortcode_button.php:21
+msgid "listfoliopro"
+msgstr ""
+
+#: template/elementor/custom-elementor-widgets.php:162
+msgid "listfoliopro Elements"
+msgstr ""
+
+#: template/elementor/listing-widget.php:11
+msgid "Listing"
+msgstr ""
+
+#: admin/pages/dir_setting.php:11
+msgid "Listing + Left Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:16
+msgid "Listing + Top Map"
+msgstr ""
+
+#: admin/pages/settings.php:167
+msgid "Listing Archive (drag, drop & sort)"
+msgstr ""
+
+#: template/elementor/listing-category-widget.php:11
+msgid "Listing Categories"
+msgstr ""
+
+#: admin/pages/settings.php:35
+msgid "Listing Custom Fields"
+msgstr ""
+
+#: template/pdf/pdf_post.php:87
+#: template/private-profile/profile-new-post-1.php:110
+#: template/private-profile/addlisting-form.php:12
+#: template/private-profile/profile-edit-post-1.php:131
+msgid "listing Description"
+msgstr ""
+
+#: admin/pages/settings.php:178
+msgid "Listing Detail page (drag & drop)"
+msgstr ""
+
+#: admin/pages/settings.php:271
+msgid "Listing Fields"
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:63
+msgid "Listing Filter "
+msgstr ""
+
+#: admin/pages/dir_setting.php:47
+msgid "Listing hide"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:243
+msgid "listing information"
+msgstr ""
+
+#: admin/pages/package_update.php:549 admin/pages/package_create.php:507
+msgid "Listing Limit (Max listing post for the package)"
+msgstr ""
+
+#: template/private-profile/messageboard.php:53
+msgid "listing Listing"
+msgstr ""
+
+#: template/elementor/listing-location-widget.php:11
+msgid "Listing Locations"
+msgstr ""
+
+#: template/private-profile/listing-notifications.php:4
+#: template/private-profile/all-menu.php:111
+msgid "Listing Notifications"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:28
+#: template/elementor/listing-widget.php:28
+msgid "Listing Options"
+msgstr ""
+
+#: admin/pages/package_update.php:558 admin/pages/package_create.php:515
+msgid "listing post will be feature. It will appear on top "
+msgstr ""
+
+#: template/private-profile/all-menu.php:15 admin/pages/profile-fields.php:18
+msgid "Listing Search"
+msgstr ""
+
+#: admin/pages/settings.php:229
+msgid "Listing Settings"
+msgstr ""
+
+#: admin/pages/settings.php:23
+msgid "Listing Settings/Layout"
+msgstr ""
+
+#: template/pdf/pdf_post.php:83
+msgid "listing Summary"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:5
+msgid "listing Title"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:11
+msgid "Listing Two"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:90
+#: template/elementor/home-banner-one-widget.php:80
+msgid "Listing Type"
+msgstr ""
+
+#: admin/pages/dir_setting.php:21
+msgid "Listing Without Map"
+msgstr ""
+
+#: template/elementor/delete/listing-filter.php:10
+msgid "Listings Filter"
+msgstr ""
+
+#: template/elementor/delete/listing-map.php:8
+msgid "Listings Map Only"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:48
+msgid "Lists"
+msgstr ""
+
+#: admin/pages/stripe_update.php:32 admin/pages/paypal_update.php:32
+msgid "Live Mode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:43
+msgid "Live Publishable"
+msgstr ""
+
+#: admin/pages/stripe_update.php:37
+msgid "Live Secret"
+msgstr ""
+
+#: admin/pages/dir_setting.php:145
+msgid "Load Per Page"
+msgstr ""
+
+#: functions/listing-functions.php:176 template/listing/single-listing.php:511
+#: template/private-profile/author-edit-profile.php:68
+msgid "Location"
+msgstr ""
+
+#: functions/listing-functions.php:180
+#: template/elementor/listing-location-widget.php:36
+#: template/elementor/home-banner-two-widget.php:86
+#: template/elementor/home-banner-one-widget.php:76
+#: template/private-profile/profile-new-post-1.php:333
+#: template/private-profile/addlisting-form.php:207
+#: template/private-profile/profile-edit-post-1.php:388
+#: template/elementor/delete/listing-post-all.php:63
+#: template/elementor/delete/listing-post-all-top-map.php:62
+#: template/elementor/delete/listing-location.php:8
+#: template/elementor/delete/listing-location.php:38
+#: template/elementor/delete/listing-filter.php:80
+#: template/elementor/delete/listing-post-all-no-map.php:62
+msgid "Locations"
+msgstr ""
+
+#: template/elementor/delete/listing-location.php:20
+msgid "Locations Settings"
+msgstr ""
+
+#: admin/pages/open-ai.php:29
+msgid ""
+"Log into your OpenAI account. Click on your username in the top right corner,"
+" then \"View API keys\". You should see all your API keys listed there."
+msgstr ""
+
+#: template/private-profile/profile-login.php:30
+msgid "Login"
+msgstr ""
+
+#: template/elementor/delete/listing-login.php:8
+msgid "Login Form"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:43
+msgid "Login or upgrade "
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:80
+msgid "Login Page:"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:36
+msgid "Logo / Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:213
+msgid "Logo Upload"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:226
+#: template/private-profile/addlisting-form.php:112
+#: template/private-profile/profile-edit-post-1.php:272
+#: admin/pages/metabox_full_data.php:270
+msgid "Longitude"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:204
+#: template/elementor/testimonial-two-widget.php:142
+msgid "Loop"
+msgstr ""
+
+#: admin/pages/settings.php:42
+msgid "Mailchimp"
+msgstr ""
+
+#: admin/pages/settings.php:117
+msgid "Mailchimp "
+msgstr ""
+
+#: admin/pages/mailchimp.php:10
+msgid "MailChimp API Key :"
+msgstr ""
+
+#: admin/pages/mailchimp.php:30
+msgid "Mailchimp List "
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:297
+msgid "Make Reject"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:294
+msgid "Make Shortlisted"
+msgstr ""
+
+#: admin/pages/stripe_update.php:85 admin/pages/paypal_update.php:75
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: template/private-profile/all-menu.php:65 admin/pages/profile-fields.php:54
+msgid "Manage Listings"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:99
+#: template/elementor/testimonial-one-widget.php:123
+#: template/elementor/testimonial-two-widget.php:62
+#: template/elementor/testimonial-two-widget.php:86
+msgid "Managing Director"
+msgstr ""
+
+#: template/listing/archive-map.php:104 admin/pages/settings.php:30
+msgid "Map"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:23
+#: admin/pages/metaboxes/category-meta.php:53
+msgid "Map Marker"
+msgstr ""
+
+#: admin/pages/map_setting.php:124
+msgid "Map Popup/ Infobox settings"
+msgstr ""
+
+#: admin/pages/map_setting.php:167
+msgid "Map Popup/Infobox Direction "
+msgstr ""
+
+#: admin/pages/map_setting.php:128
+msgid "Map Popup/Infobox Image "
+msgstr ""
+
+#: admin/pages/map_setting.php:154
+msgid "Map Popup/Infobox Location "
+msgstr ""
+
+#: admin/pages/map_setting.php:141
+msgid "Map Popup/Infobox Title "
+msgstr ""
+
+#: admin/pages/map_setting.php:47
+msgid "Map Radius"
+msgstr ""
+
+#: admin/pages/settings.php:209
+msgid "Map Settings "
+msgstr ""
+
+#: admin/pages/map_setting.php:30
+msgid "Map Type"
+msgstr ""
+
+#: admin/pages/map_setting.php:17
+msgid "Map Zoom"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:101
+#: template/elementor/contact-form-7-widget.php:146
+#: template/elementor/section-title-one-widget.php:89
+#: template/elementor/section-title-one-widget.php:162
+#: template/elementor/title-with-text-widget.php:102
+#: template/elementor/title-with-text-widget.php:147
+#: template/elementor/title-with-text-widget.php:192
+#: template/elementor/title-with-text-widget.php:266
+#: template/elementor/section-title-two-widget.php:102
+#: template/elementor/section-title-two-widget.php:155
+#: template/elementor/video-popup-widget.php:158
+msgid "Margin"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:84
+msgid "Max Tokens #[Word or characters]"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:58
+msgid "Member Image"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:70
+msgid "Member List"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:38
+msgid "Member Name"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:17
+#: template/private-profile/all-menu.php:30 admin/pages/profile-fields.php:36
+msgid "Membership"
+msgstr ""
+
+#: template/private-profile/all-menu.php:80
+#: template/private-profile/messageboard.php:4
+#: template/private-profile/messageboard.php:30
+#: template/private-profile/author_email_popup-file.php:13
+#: template/private-profile/author_email_popup-file.php:36
+#: admin/pages/manage-cpt-columns.php:10
+#: template/listing/single-template/claim.php:33
+msgid "Message"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:8
+msgid "Message Board"
+msgstr ""
+
+#: admin/pages/profile-fields.php:72
+msgid "Message board"
+msgstr ""
+
+#: template/listing/contact-form.php:30
+msgid "Message*"
+msgstr ""
+
+#: admin/pages/stripe_update.php:86 admin/pages/paypal_update.php:76
+msgid "Mexican Peso ($)"
+msgstr ""
+
+#: admin/pages/map_setting.php:55
+msgid "Mile"
+msgstr ""
+
+#: template/elementor/how-it-works-widget.php:184
+msgid "Mobile"
+msgstr ""
+
+#: admin/pages/payment-settings.php:30
+msgid "Mode"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:89
+msgid "Mon"
+msgstr ""
+
+#: admin/pages/package_create.php:552
+msgid "Month(s"
+msgstr ""
+
+#: admin/pages/package_update.php:596 admin/pages/package_update.php:628
+#: admin/pages/package_update.php:690 admin/pages/package_create.php:583
+#: admin/pages/package_create.php:642
+msgid "Month(s)"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:411
+#: template/private-profile/addlisting-form.php:265
+#: template/private-profile/profile-edit-post-1.php:485
+msgid "More Details "
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:104
+#: template/elementor/home-banner-one-widget.php:94
+#: admin/pages/listing_search.php:105 admin/pages/listing_search.php:118
+#: admin/pages/listing_search.php:168 admin/pages/listing_search.php:181
+msgid "Multi Checkbox"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:105
+#: template/elementor/home-banner-one-widget.php:95
+msgid "Multi Checkbox Group"
+msgstr ""
+
+#: admin/pages/listing_search.php:121 admin/pages/listing_search.php:184
+msgid "Multi Checkbox-Sub-Group"
+msgstr ""
+
+#: template/elementor/delete/listing-my-account.php:8
+msgid "My Account"
+msgstr ""
+
+#: admin/pages/settings.php:33
+msgid "My Account Menu"
+msgstr ""
+
+#: admin/pages/settings.php:97
+msgid "My Account Menu "
+msgstr ""
+
+#: admin/pages/registration-fields.php:225
+msgid "My Account/Profile"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:30
+msgid "My Listings"
+msgstr ""
+
+#: template/listing/booking_popup.php:27
+#: template/listing/single-template/claim.php:24
+msgid "Name"
+msgstr ""
+
+#: admin/pages/all_coupons.php:48
+msgid "Name : "
+msgstr ""
+
+#: template/listing/contact-form.php:17
+msgid "Name*"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:193
+#: template/elementor/testimonial-one-widget.php:215
+#: template/elementor/testimonial-two-widget.php:153
+#: template/elementor/listing-category-widget.php:100
+msgid "Navigation Arrow"
+msgstr ""
+
+#: template/listing/listing_search.php:98
+msgid "Near"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:88
+#: template/elementor/home-banner-one-widget.php:78
+msgid "Near To Me"
+msgstr ""
+
+#: admin/pages/package_update.php:643 admin/pages/package_create.php:598
+msgid "Never"
+msgstr ""
+
+#: inc/add-listing-notification.php:9
+msgid "New listing added"
+msgstr ""
+
+#: inc/add-listing-notification.php:10
+msgid ""
+"New listing added to your site. You can publish or delete from your site "
+"dashboard"
+msgstr ""
+
+#: admin/pages/email_template_all.php:129
+msgid "New Message Email"
+msgstr ""
+
+#: admin/pages/new-message.php:18
+msgid "New Message Subject : "
+msgstr ""
+
+#: admin/pages/new-message.php:30
+msgid "New Message Template :"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:43
+msgid "New Password"
+msgstr ""
+
+#: admin/pages/stripe_update.php:87 admin/pages/paypal_update.php:77
+msgid "New Zealand Dollar ($)"
+msgstr ""
+
+#: template/elementor/delete/listing-filter.php:45
+msgid "Newest Listing"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:292
+#: admin/pages/registration-fields.php:273 admin/pages/directory_fields.php:232
+msgid "Next"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:175
+msgid "Next Payment Date"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:101
+#: template/elementor/listing-two-widget.php:62
+#: template/elementor/listing-widget.php:62
+#: template/elementor/recent-post-slider-widget.php:85
+#: template/elementor/video-popup-widget.php:63
+msgid "No"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:288
+#: admin/pages/registration-fields.php:269 admin/pages/directory_fields.php:228
+msgid "No records available"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all.php:45
+#: template/elementor/delete/listing-post-all-top-map.php:44
+#: template/elementor/delete/listing-map.php:36
+#: template/elementor/delete/listing-post-all-no-map.php:44
+msgid "No Search Form"
+msgstr ""
+
+#: admin/pages/archive_setting.php:58 admin/pages/archive_setting.php:115
+msgid "No Search Form Option"
+msgstr ""
+
+#: admin/pages/dir_setting.php:162
+msgid "No special characters, no upper case, no space"
+msgstr ""
+
+#: admin/pages/package_update.php:593 admin/pages/package_create.php:549
+msgid "None"
+msgstr ""
+
+#: admin/pages/stripe_update.php:88 admin/pages/paypal_update.php:78
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/pages/metabox.php:47
+msgid "Not Featured"
+msgstr ""
+
+#: admin/pages/all_coupons.php:92
+msgid ""
+"Note : Coupon will work on \"One Time Payment\" only. Coupon will not work "
+"on recurring payment and it will not support 100% discount.\t"
+msgstr ""
+
+#: admin/pages/coupon_create.php:90 admin/pages/coupon_update.php:107
+msgid ""
+"Note : Coupon will work on \"One Time Payment\" only. Coupon will not work "
+"on recurring payment and it will not support 100% discount.\t\t"
+msgstr ""
+
+#: admin/pages/package_all.php:201
+msgid ""
+"Note: You can use other available pricing table. The package link URL will "
+"go on \"Sign UP \" button. "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:360
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:286
+#: admin/pages/registration-fields.php:267 admin/pages/directory_fields.php:226
+msgid "Nothing found - sorry"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:387
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: admin/pages/profile-fields.php:90
+msgid "Notification"
+msgstr ""
+
+#: admin/pages/new-message.php:49
+msgid "Notification Email"
+msgstr ""
+
+#: admin/pages/new-message.php:52
+msgid "Notification Subject : "
+msgstr ""
+
+#: admin/pages/new-message.php:64
+msgid "Notification Template :"
+msgstr ""
+
+#: template/listing/single-template/price.php:23
+msgid "Now"
+msgstr ""
+
+#: template/elementor/delete/listing-category.php:28
+msgid "Number Of Category To Show"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:88
+msgid "Number Of FAQ"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:36
+#: template/elementor/listing-widget.php:36
+msgid "Number Of Listing To Show"
+msgstr ""
+
+#: template/elementor/delete/listing-location.php:27
+msgid "Number Of Locations To Show"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:38
+#: template/elementor/recent-post-slider-widget.php:38
+#: template/elementor/delete/listing-filter.php:29
+msgid "Number Of Post To Show"
+msgstr ""
+
+#: template/elementor/delete/listing-filter.php:46
+msgid "Oldest Listing"
+msgstr ""
+
+#: template/listing/listing_search.php:192
+msgid "Oldest listings"
+msgstr ""
+
+#: admin/pages/settings.php:259
+msgid "Open AI -ChatGPT"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:70
+msgid "Open By Default"
+msgstr ""
+
+#: template/private-profile/author-bookmarks.php:61
+#: template/private-profile/profile-template-1.php:105
+msgid "Open listings"
+msgstr ""
+
+#: functions/open-status-checker.php:28
+msgid "Open Now"
+msgstr ""
+
+#: admin/pages/open-ai.php:16
+msgid "OpenAI API Key :"
+msgstr ""
+
+#: admin/pages/settings.php:31
+msgid "OpenAI ChatGPT"
+msgstr ""
+
+#: admin/pages/map_setting.php:38
+msgid "OpenSteet Map"
+msgstr ""
+
+#: admin/pages/package_update.php:538 admin/pages/package_create.php:498
+msgid "Order"
+msgstr ""
+
+#: admin/pages/email_template_all.php:72
+msgid "Order Email"
+msgstr ""
+
+#: admin/pages/importer/csv_save_database.php:13
+msgid "Other Link"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:144
+msgid "Overlay Color"
+msgstr ""
+
+#: admin/pages/payment-history.php:55
+msgid "Package  : "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:91
+msgid "Package Amount"
+msgstr ""
+
+#: admin/pages/package_all.php:73
+msgid "Package Detail"
+msgstr ""
+
+#: admin/pages/package_update.php:576 admin/pages/package_create.php:531
+msgid "Package Expire After"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:56 template/signup/paypal_form_2.php:43
+#: template/signup/woocommerce.php:44
+#: template/private-profile/profile-level-1.php:77
+msgid "Package Expire After "
+msgstr ""
+
+#: admin/pages/package_update.php:43 admin/pages/package_create.php:39
+msgid "Package Feature List"
+msgstr ""
+
+#: admin/pages/package_all.php:169
+msgid "Package List is Empty"
+msgstr ""
+
+#: admin/admin.php:85 template/signup/iv_stripe_form_2.php:21
+#: template/signup/paypal_form_2.php:5 template/signup/woocommerce.php:5
+#: template/private-profile/profile-level-1.php:200
+#: template/private-profile/profile-level-1.php:275
+#: template/private-profile/iv_stripe_form_upgrade.php:21
+#: admin/pages/package_update.php:23 admin/pages/package_create.php:20
+msgid "Package Name"
+msgstr ""
+
+#: admin/pages/package_all.php:95
+msgid "Package Name : "
+msgstr ""
+
+#: admin/pages/coupon_create.php:31
+msgid "Package Only"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:119
+msgid "Package Type"
+msgstr ""
+
+#: admin/pages/settings.php:38
+msgid "Packages"
+msgstr ""
+
+#: admin/pages/settings.php:157
+msgid "Packages "
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:10 admin/pages/shortcodes-sample.php:30
+#: admin/pages/shortcodes-sample.php:51 admin/pages/shortcodes-sample.php:72
+msgid "Parameter "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:134
+#: template/private-profile/profile-login.php:25
+#: template/private-profile/add-listing-without-user.php:88
+#: template/private-profile/add-listing-without-user.php:91
+msgid "Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:74
+msgid "Password Sent. Please check your email."
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:21
+msgid "Payment"
+msgstr ""
+
+#: admin/pages/settings.php:37
+msgid "Payment Gateways"
+msgstr ""
+
+#: admin/pages/settings.php:147
+msgid "Payment Gateways "
+msgstr ""
+
+#: admin/pages/settings.php:45 admin/pages/settings.php:87
+msgid "Payment History"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:234
+msgid "Payment Info"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:129
+#: admin/pages/user_update.php:94
+msgid "Payment Status"
+msgstr ""
+
+#: admin/pages/payment-settings.php:40
+msgid "Paypal"
+msgstr ""
+
+#: admin/pages/paypal_update.php:55
+msgid "PayPal API Currency Code"
+msgstr ""
+
+#: admin/pages/paypal_update.php:43
+msgid "PayPal API Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:18
+msgid "Paypal Api Settings [Express Checkout]"
+msgstr ""
+
+#: admin/pages/paypal_update.php:49
+msgid "PayPal API Signature"
+msgstr ""
+
+#: admin/pages/paypal_update.php:37
+msgid "PayPal API Username"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:142
+#: template/private-profile/addlisting-form.php:42
+#: template/private-profile/profile-edit-post-1.php:161
+msgid "Pending Review"
+msgstr ""
+
+#: admin/pages/user_update.php:101
+msgid "Pendinge"
+msgstr ""
+
+#: admin/pages/package_update.php:619 admin/pages/package_create.php:575
+msgid "Per"
+msgstr ""
+
+#: admin/pages/coupon_create.php:26 admin/pages/coupon_update.php:40
+msgid "Percentage"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:97
+#: template/elementor/testimonial-two-widget.php:60
+msgid "Person Designation"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:75
+#: template/elementor/testimonial-two-widget.php:38
+msgid "Person Image"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:87
+#: template/elementor/testimonial-two-widget.php:50
+msgid "Person Name"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:14
+msgid "Personal Info"
+msgstr ""
+
+#: admin/pages/stripe_update.php:89 admin/pages/paypal_update.php:79
+msgid "Philippine Pesos"
+msgstr ""
+
+#: template/pdf/pdf_post.php:79 template/listing/single-listing.php:727
+#: template/private-profile/booking.php:63
+#: template/private-profile/messageboard.php:49
+#: template/private-profile/profile-new-post-1.php:182
+#: template/private-profile/addlisting-form.php:72
+#: template/private-profile/profile-edit-post-1.php:227
+#: admin/pages/manage-cpt-columns.php:12 admin/pages/metabox_full_data.php:190
+msgid "Phone"
+msgstr ""
+
+#: template/listing/booking_popup.php:35
+#: template/private-profile/author_email_popup-file.php:32
+msgid "Phone#"
+msgstr ""
+
+#: template/listing/contact-form.php:25
+msgid "Phone*"
+msgstr ""
+
+#: template/listing/single-listing.php:174
+msgid "Phone:"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:42
+msgid "Please "
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:109
+msgid "Please add your active OpenAI API key in plugin settings"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:272
+msgid "Please complete the form"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:128
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:18
+msgid "Please Enter Message"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:132
+msgid "Please input your email & password"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:434
+#: template/elementor/listing-widget.php:391
+#: template/listing/archive-grid-top-map.php:334
+#: template/listing/archive-grid.php:286
+#: template/listing/archive-grid-no-map.php:266
+#: template/listing/single-listing.php:754 template/listing/archive-map.php:240
+#: template/listing/listing_featured.php:125
+#: template/listing/listing-filter.php:227
+#: template/private-profile/profile-template-1.php:304
+#: template/listing/map/google-map.php:32
+#: template/listing/map/openstreet-map.php:36
+msgid "Please login"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:437
+#: template/elementor/listing-widget.php:394
+#: template/listing/archive-grid-top-map.php:337
+#: template/listing/archive-grid.php:289
+#: template/listing/archive-grid-no-map.php:269
+#: template/listing/single-listing.php:757
+msgid "Please put your detail"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:307
+msgid "Please put your name,email & Cover letter"
+msgstr ""
+
+#: template/listing/archive-grid-top-map.php:325
+#: template/listing/archive-grid.php:276
+#: template/listing/archive-grid-no-map.php:257
+#: template/listing/archive-map.php:231
+#: template/listing/listing_featured.php:116
+#: template/listing/listing-filter.php:218
+#: template/private-profile/profile-template-1.php:317
+msgid "Please put your name,email & message"
+msgstr ""
+
+#: template/listing/archive-map.php:243
+#: template/listing/listing_featured.php:128
+#: template/listing/listing-filter.php:230
+msgid "Please put your name,email Cover letter & attached file"
+msgstr ""
+
+#: admin/pages/map_setting.php:8
+msgid ""
+"Please set your own google map API key for your site( default key is for "
+"only demo)\n"
+"\t\t\t"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:50
+msgid "Please Upgrade Your Account"
+msgstr ""
+
+#: admin/pages/settings.php:41 admin/pages/settings.php:239
+msgid "Plugin Pages"
+msgstr ""
+
+#: admin/pages/stripe_update.php:90 admin/pages/paypal_update.php:80
+msgid "Polish Zloty"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all.php:43
+#: template/elementor/delete/listing-post-all-top-map.php:42
+#: template/elementor/delete/listing-map.php:34
+#: template/elementor/delete/listing-post-all-no-map.php:42
+msgid "Popup/Modal Search"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:39
+msgid "Post a listing"
+msgstr ""
+
+#: functions/listing-functions.php:183
+msgid "Post code"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:99
+msgid "Post Column & Layout"
+msgstr ""
+
+#: functions/listing-functions.php:187
+#: template/elementor/home-banner-two-widget.php:89
+#: template/elementor/home-banner-one-widget.php:79
+msgid "Post Date"
+msgstr ""
+
+#. %s: post date.
+#: template/elementor/custom-elementor-widgets.php:76
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: admin/pages/importer/upload_main_big_csv.php:46
+msgid "Post Field/Map to field"
+msgstr ""
+
+#: template/elementor/recent-post-slider-widget.php:74
+msgid "Post Layout & Slide Options"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:30
+#: template/elementor/recent-post-slider-widget.php:30
+msgid "Post Settings"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:90
+msgid "Posted"
+msgstr ""
+
+#: admin/pages/stripe_update.php:73 admin/pages/paypal_update.php:63
+msgid "Pounds Sterling (£)"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:293
+#: admin/pages/registration-fields.php:274 admin/pages/directory_fields.php:233
+msgid "Previous"
+msgstr ""
+
+#: admin/pages/listing_search.php:211
+msgid "Previously generated shortcodes:"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:149
+#: template/private-profile/addlisting-form.php:49
+#: template/private-profile/profile-edit-post-1.php:169
+#: admin/pages/metabox_full_data.php:113
+msgid "Price"
+msgstr ""
+
+#: template/elementor/delete/listing-pricing-table.php:8
+msgid "Price Table"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:107
+msgid "Pricing"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:20
+msgid "Pricing Table:"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:283
+#: admin/pages/registration-fields.php:264 admin/pages/directory_fields.php:218
+#: admin/pages/directory_fields.php:223
+msgid "Processing"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:8
+#: admin/pages/user_update.php:23
+msgid "Profile"
+msgstr ""
+
+#: admin/pages/user_update.php:146
+msgid "Profile Baner Image"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:148 admin/pages/user_update.php:117
+msgid "Profile Image"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:131
+#: template/private-profile/profile-new-post-1.php:137
+#: template/private-profile/addlisting-form.php:31
+#: template/private-profile/addlisting-form.php:37
+#: template/private-profile/profile-edit-post-1.php:150
+#: template/private-profile/profile-edit-post-1.php:156
+msgid "Publish"
+msgstr ""
+
+#: admin/pages/dir_setting.php:30
+msgid "Publish Listing"
+msgstr ""
+
+#: template/pdf/pdf_post.php:84
+msgid "Published"
+msgstr ""
+
+#: admin/pages/registration-fields.php:162 admin/pages/directory_fields.php:76
+#: admin/pages/directory_fields.php:173
+msgid "Radio button"
+msgstr ""
+
+#: template/elementor/delete/listing-filter.php:49
+msgid "Random"
+msgstr ""
+
+#: template/listing/listing_search.php:193
+msgid "Random listings"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:219
+msgid "Rate us and Write a Review"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:80
+msgid "Rating breakdown"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:47
+msgid "Re-type New Password"
+msgstr ""
+
+#: template/listing/single-template/similar-listings.php:15
+msgid "Recent listing"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:12
+msgid "Recent Posts"
+msgstr ""
+
+#: template/elementor/recent-post-slider-widget.php:12
+msgid "Recent Posts Slider"
+msgstr ""
+
+#: admin/pages/package_update.php:605 admin/pages/package_create.php:561
+msgid "Recurring Subscription"
+msgstr ""
+
+#: admin/pages/registration-fields.php:30
+#: admin/pages/registration-fields.php:45
+#: admin/pages/registration-fields.php:59
+#: admin/pages/registration-fields.php:218
+#: template/elementor/delete/listing-registration.php:8
+msgid "Registration"
+msgstr ""
+
+#: admin/pages/registration-fields.php:10 admin/pages/settings.php:249
+msgid "Registration / User Profile Fields"
+msgstr ""
+
+#: admin/pages/package_all.php:136
+msgid "Registration Link"
+msgstr ""
+
+#: admin/pages/settings.php:34
+msgid "Registration/Profile"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:296
+msgid "Rejected"
+msgstr ""
+
+#: admin/pages/email_template_all.php:123
+msgid "Reminder Email"
+msgstr ""
+
+#: admin/pages/reminder_email.php:3
+msgid "Reminder Email Subject :"
+msgstr ""
+
+#: admin/pages/reminder_email.php:13
+msgid "Reminder Email Tempalte :"
+msgstr ""
+
+#: template/listing/single-listing.php:138
+#: template/listing/single-template/claim.php:8
+#: template/listing/single-template/footer_share.php:38
+msgid "Report"
+msgstr ""
+
+#: admin/pages/header.php:51
+msgid "Request a Feature  "
+msgstr ""
+
+#: admin/pages/registration-fields.php:231
+msgid "Require"
+msgstr ""
+
+#: template/listing/archive-grid-top-map.php:227
+#: template/listing/archive-grid.php:169
+#: template/listing/archive-grid-no-map.php:159
+#: template/listing/archive-map.php:130
+msgid "Reset Search"
+msgstr ""
+
+#: functions/listing-functions.php:186 template/listing/single-listing.php:352
+msgid "Review"
+msgstr ""
+
+#: template/listing/single-listing.php:354
+msgid "Reviews"
+msgstr ""
+
+#: template/listing/single-listing.php:400
+msgid "reviews"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:5
+msgid "Reviews for"
+msgstr ""
+
+#: template/elementor/title-with-text-widget.php:249
+msgid "Right"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:46
+msgid "Role  : "
+msgstr ""
+
+#: admin/pages/csv-import.php:52
+msgid "Run The importer"
+msgstr ""
+
+#: admin/pages/stripe_update.php:96 admin/pages/paypal_update.php:86
+msgid "Russian Ruble"
+msgstr ""
+
+#: admin/pages/listing_search.php:70
+msgid "Same Page"
+msgstr ""
+
+#: admin/pages/csv-import.php:46
+msgid "Sample CSV File"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:89
+#: template/elementor/testimonial-one-widget.php:122
+#: template/elementor/testimonial-two-widget.php:52
+#: template/elementor/testimonial-two-widget.php:85
+msgid "Sarah Johnson"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:94
+msgid "Sat"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:435
+#: template/elementor/listing-widget.php:392
+#: template/listing/archive-grid-top-map.php:335
+#: template/listing/archive-grid.php:287
+#: template/listing/archive-grid-no-map.php:267
+#: template/listing/single-listing.php:755 template/listing/archive-map.php:241
+#: template/listing/listing_featured.php:126
+#: template/listing/listing-filter.php:228
+#: template/private-profile/listing-notifications.php:53
+#: admin/pages/archive_setting.php:139 admin/pages/listing_search.php:208
+#: admin/pages/single_page_setting.php:104
+msgid "Save"
+msgstr ""
+
+#: template/listing/single-template/price.php:23
+msgid "Save "
+msgstr ""
+
+#: admin/pages/dir_setting.php:172
+msgid "Save & Update"
+msgstr ""
+
+#: template/private-profile/author-edit-profile.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: admin/pages/coupon_create.php:82
+msgid "Save Coupon"
+msgstr ""
+
+#: admin/pages/package_update.php:739 admin/pages/package_create.php:687
+msgid "Save Package"
+msgstr ""
+
+#: admin/pages/payment-settings.php:78
+msgid "Save Payment Gateway"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:457
+#: template/private-profile/add-listing-without-user.php:107
+msgid "Save Post"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:436
+#: template/elementor/listing-widget.php:393
+#: template/listing/archive-grid-top-map.php:336
+#: template/listing/archive-grid.php:288
+#: template/listing/archive-grid-no-map.php:268
+#: template/listing/single-listing.php:756 template/listing/archive-map.php:242
+#: template/listing/listing_featured.php:127
+#: template/listing/listing-filter.php:229
+msgid "Saved"
+msgstr ""
+
+#: template/private-profile/author-bookmarks.php:4
+#: template/private-profile/all-menu.php:127 admin/pages/profile-fields.php:108
+msgid "Saved Author"
+msgstr ""
+
+#: template/private-profile/all-menu.php:142 admin/pages/profile-fields.php:126
+msgid "Saved Listing"
+msgstr ""
+
+#: template/private-profile/listing_bookmark-file.php:6
+msgid "Saved listings"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:284
+#: admin/pages/registration-fields.php:265 admin/pages/directory_fields.php:224
+msgid "Search"
+msgstr ""
+
+#: template/listing/listing_search.php:536
+msgid "Search "
+msgstr ""
+
+#: admin/pages/map_setting.php:66
+msgid "Search Box Near to Me"
+msgstr ""
+
+#: template/elementor/delete/listing-search.php:8
+msgid "Search Form"
+msgstr ""
+
+#: admin/pages/settings.php:26
+msgid "Search Form Builder"
+msgstr ""
+
+#: admin/pages/archive_setting.php:114
+#: template/elementor/delete/listing-post-all.php:44
+#: template/elementor/delete/listing-post-all-top-map.php:43
+#: template/elementor/delete/listing-map.php:35
+#: template/elementor/delete/listing-post-all-no-map.php:43
+msgid "Search Form on The Page"
+msgstr ""
+
+#: admin/pages/archive_setting.php:57
+msgid "Search Form on the page"
+msgstr ""
+
+#: template/elementor/delete/listing-post-all.php:38
+#: template/elementor/delete/listing-post-all-top-map.php:37
+#: template/elementor/delete/listing-map.php:29
+#: template/elementor/delete/listing-post-all-no-map.php:37
+msgid "Search Form Type"
+msgstr ""
+
+#: template/listing/listing_search.php:501
+msgid "Search Now"
+msgstr ""
+
+#: template/elementor/section-title-one-widget.php:28
+#: template/elementor/section-title-two-widget.php:28
+msgid "Section Title"
+msgstr ""
+
+#: template/elementor/section-title-one-widget.php:11
+msgid "Section Title One"
+msgstr ""
+
+#: template/elementor/section-title-two-widget.php:11
+msgid "Section Title Two"
+msgstr ""
+
+#: template/listing/listing_search.php:126
+#: template/listing/listing_search.php:256
+#: template/listing/listing_search.php:535
+msgid "Select "
+msgstr ""
+
+#: template/listing/listing_search.php:537
+msgid "Select All "
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:57
+msgid "Select Contact Form"
+msgstr ""
+
+#: admin/pages/coupon_create.php:64 admin/pages/coupon_create.php:70
+#: admin/pages/coupon_update.php:80 admin/pages/coupon_update.php:86
+msgid "Select Date"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:79
+#: template/elementor/home-banner-one-widget.php:69
+msgid "Select Form Field"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:68
+#: template/elementor/contact-info-widget.php:83
+#: template/elementor/how-it-works-widget.php:79
+#: admin/pages/metaboxes/category-meta.php:16
+#: admin/pages/metaboxes/category-meta.php:18
+#: admin/pages/metaboxes/category-meta.php:44
+#: admin/pages/metaboxes/category-meta.php:47
+msgid "Select Icon"
+msgstr ""
+
+#: template/elementor/listing-location-widget.php:28
+msgid "Select Locations"
+msgstr ""
+
+#: admin/pages/coupon_update.php:45 admin/pages/user_update.php:77
+msgid "Select Package"
+msgstr ""
+
+#: template/listing/listing_search.php:208
+#: template/listing/listing_search.php:364
+msgid "Select Title"
+msgstr ""
+
+#: template/listing/contact_popup.php:28
+#: template/private-profile/author_email_popup-file.php:53
+msgid "Send"
+msgstr ""
+
+#: admin/pages/reminder_email.php:29
+msgid "Send Email Before # Days :"
+msgstr ""
+
+#: template/listing/contact-form.php:34 template/listing/booking_popup.php:60
+#: template/listing/single-template/claim.php:39
+msgid "Send Message"
+msgstr ""
+
+#: admin/pages/registration-fields.php:175 admin/pages/directory_fields.php:89
+msgid "Separated by comma"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:27
+msgid "Service Box"
+msgstr ""
+
+#: template/private-profile/booking.php:51
+msgid "Service Time :"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:484
+#: template/private-profile/profile-edit-post-1.php:560
+msgid "Set Doc"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:482
+#: template/private-profile/add-listing-without-user.php:130
+msgid "Set Event Image"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:480
+#: template/private-profile/add-listing-without-user.php:128
+#: template/private-profile/profile-edit-post-1.php:556
+#: admin/pages/metabox_full_data.php:432
+msgid "Set Feature Image"
+msgstr ""
+
+#: admin/admin.php:189 template/private-profile/profile-template-1.php:274
+#: admin/pages/dir_setting.php:86 admin/pages/dir_setting.php:109
+#: admin/pages/dir_setting.php:133
+msgid "Set Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:557
+#: admin/pages/metabox_full_data.php:433
+msgid "Set Image "
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:481
+#: template/private-profile/add-listing-without-user.php:129
+msgid "Set plan Image"
+msgstr ""
+
+#: admin/pages/settings.php:10
+msgid "Settings"
+msgstr ""
+
+#: template/listing/single-template/footer_share.php:49
+msgid "Share this"
+msgstr ""
+
+#: template/listing/single-listing.php:587
+msgid "Share:"
+msgstr ""
+
+#: admin/pages/package_all.php:192
+msgid "Short Code :"
+msgstr ""
+
+#: admin/pages/reminder_email.php:38
+msgid "Short Code:"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:87
+#: template/elementor/home-banner-one-widget.php:77
+msgid "Short Listing"
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:5 admin/pages/shortcodes-sample.php:25
+#: admin/pages/shortcodes-sample.php:46 admin/pages/shortcodes-sample.php:67
+msgid "Shortcode "
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:298
+msgid "Show Contact Button"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:119
+#: template/elementor/recent-post-slider-widget.php:105
+msgid "Show Date"
+msgstr ""
+
+#: template/elementor/listing-two-widget.php:125
+#: template/elementor/listing-widget.php:125
+msgid "Show First Category Name"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:287
+#: admin/pages/registration-fields.php:268 admin/pages/directory_fields.php:227
+msgid "Showing page _PAGE_ of _PAGES_"
+msgstr ""
+
+#: template/private-profile/profile-login.php:15
+msgid "Sign In"
+msgstr ""
+
+#: template/private-profile/all-menu.php:154
+msgid "Sign out"
+msgstr ""
+
+#: admin/pages/email_template_all.php:20
+msgid "Signup / Forget password Email"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:61
+msgid "Signup Thanks"
+msgstr ""
+
+#: admin/pages/mailchimp.php:61
+msgid "Signup user email address will go to the mailchimp list."
+msgstr ""
+
+#: admin/pages/stripe_update.php:91
+msgid "Singapore Dollar ($"
+msgstr ""
+
+#: admin/pages/paypal_update.php:81
+msgid "Singapore Dollar ($)"
+msgstr ""
+
+#: admin/pages/settings.php:29
+msgid "Single Listing Fields"
+msgstr ""
+
+#: template/elementor/team-member-one-widget.php:149
+#: template/elementor/listing-location-widget.php:50
+#: template/elementor/testimonial-one-widget.php:161
+#: template/elementor/testimonial-two-widget.php:99
+#: template/elementor/listing-category-widget.php:81
+msgid "Slider Options"
+msgstr ""
+
+#: admin/pages/color_setting.php:30
+msgid "Small Button"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:443
+#: template/private-profile/profile-edit-post-1.php:517
+#: admin/pages/metabox_full_data.php:401
+msgid "Social Profile "
+msgstr ""
+
+#: functions/listing-functions.php:177
+msgid "Social Share"
+msgstr ""
+
+#: template/listing/archive-grid-top-map.php:291
+#: template/listing/archive-grid.php:240
+#: template/listing/archive-grid-no-map.php:225
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template/listing/listing_search.php:187
+#: template/elementor/delete/listing-filter.php:40
+msgid "Sort"
+msgstr ""
+
+#: admin/pages/stripe_update.php:92 admin/pages/paypal_update.php:82
+msgid "South African Rand"
+msgstr ""
+
+#: admin/pages/stripe_update.php:93 admin/pages/paypal_update.php:83
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/pages/coupon_create.php:62 admin/pages/coupon_update.php:78
+msgid "Start Date"
+msgstr ""
+
+#: admin/pages/all_coupons.php:51
+msgid "Start Date : "
+msgstr ""
+
+#: functions/listing-functions.php:184
+#: template/private-profile/profile-new-post-1.php:210
+#: template/private-profile/addlisting-form.php:96
+#: template/private-profile/profile-edit-post-1.php:255
+#: admin/pages/metabox_full_data.php:242
+msgid "State"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:125
+#: template/private-profile/addlisting-form.php:25
+#: template/private-profile/profile-edit-post-1.php:144
+#: admin/pages/payment-settings.php:31
+msgid "Status"
+msgstr ""
+
+#: admin/pages/csv-import.php:4
+msgid "Step 1"
+msgstr ""
+
+#: admin/pages/csv-import.php:12
+msgid "Step 2"
+msgstr ""
+
+#: admin/pages/csv-import.php:20
+msgid "Step 3"
+msgstr ""
+
+#: admin/pages/csv-import.php:28
+msgid "Step 4"
+msgstr ""
+
+#: admin/pages/payment-settings.php:52
+msgid "Stripe"
+msgstr ""
+
+#: admin/pages/stripe_update.php:65
+msgid "Stripe API Currency Code"
+msgstr ""
+
+#: admin/pages/stripe_update.php:18
+msgid "Stripe Api Settings"
+msgstr ""
+
+#: admin/pages/stripe_update.php:116
+msgid ""
+"Stripe Test to Live mode: When turned from Test to Live did not have any of "
+"the plans you have created on Stripe.\n"
+"\t\t\t\t\t\tWhen you will switch from Stripe to Paypal and PayPal to Stripe "
+"again, the connection between  the plugin and Stripe was corrected and thus "
+"the plans were re-created in the Stripe account."
+msgstr ""
+
+#: admin/pages/package_update.php:30 admin/pages/package_create.php:26
+msgid "Sub Title"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:13
+#: template/private-profile/author_email_popup-file.php:24
+#: template/listing/single-template/reviews.php:244
+msgid "Subject"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:172
+#: template/signup/iv_stripe_form_2.php:177
+#: template/signup/paypal_form_2.php:132 template/signup/paypal_form_2.php:138
+#: template/signup/wizard-style-2.php:207
+#: template/signup/wizard-style-2.php:213 template/signup/woocommerce.php:114
+#: template/signup/woocommerce.php:119
+#: template/private-profile/contact_popup.php:23
+#: template/private-profile/iv_stripe_form_upgrade.php:125
+#: template/private-profile/profile-login.php:63
+msgid "Submit"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:294
+msgid "Submit Button"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:265
+msgid "Submit Now"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:36
+#: template/elementor/contact-form-7-widget.php:70
+#: template/elementor/section-title-one-widget.php:36
+#: template/elementor/section-title-one-widget.php:59
+#: template/elementor/title-with-text-widget.php:38
+#: template/elementor/title-with-text-widget.php:71
+#: template/elementor/section-title-two-widget.php:36
+#: template/elementor/section-title-two-widget.php:71
+msgid "Subtitle"
+msgstr ""
+
+#: admin/pages/user_update.php:100
+msgid "Success"
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:133
+msgid "Successfully added. You can edit your listing here: "
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:95
+msgid "Sun"
+msgstr ""
+
+#: admin/pages/stripe_update.php:94 admin/pages/paypal_update.php:84
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/pages/stripe_update.php:95 admin/pages/paypal_update.php:85
+msgid "Swiss Franc"
+msgstr ""
+
+#: functions/listing-functions.php:179
+#: template/elementor/home-banner-two-widget.php:85
+#: template/elementor/home-banner-one-widget.php:75
+#: template/private-profile/profile-new-post-1.php:296
+#: template/private-profile/addlisting-form.php:171
+#: template/private-profile/profile-edit-post-1.php:342
+#: template/elementor/delete/listing-post-all.php:73
+#: template/elementor/delete/listing-post-all-top-map.php:72
+#: template/elementor/delete/listing-filter.php:90
+#: template/elementor/delete/listing-post-all-no-map.php:72
+msgid "Tags"
+msgstr ""
+
+#: admin/pages/stripe_update.php:97 admin/pages/paypal_update.php:87
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: admin/pages/registration-fields.php:37
+msgid "Terms CheckBox"
+msgstr ""
+
+#: admin/pages/stripe_update.php:31 admin/pages/paypal_update.php:31
+msgid "Test Mode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:59
+msgid "Test Publishable"
+msgstr ""
+
+#: admin/pages/stripe_update.php:53
+msgid "Test Secret"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:11
+msgid "Testimonial One"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:108
+#: template/elementor/testimonial-two-widget.php:71
+msgid "Testimonial Text"
+msgstr ""
+
+#: template/elementor/testimonial-two-widget.php:11
+msgid "Testimonial Two"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:65
+#: template/elementor/testimonial-two-widget.php:28
+msgid "Testimonials"
+msgstr ""
+
+#: template/elementor/testimonial-one-widget.php:117
+#: template/elementor/testimonial-two-widget.php:80
+msgid "Testimonials List"
+msgstr ""
+
+#: template/elementor/home-banner-two-widget.php:102
+#: template/elementor/home-banner-one-widget.php:92
+#: admin/pages/registration-fields.php:159 admin/pages/directory_fields.php:73
+#: admin/pages/directory_fields.php:170
+msgid "Text"
+msgstr ""
+
+#: template/elementor/title-with-text-widget.php:233
+msgid "Text Align"
+msgstr ""
+
+#: admin/pages/registration-fields.php:160 admin/pages/directory_fields.php:74
+#: admin/pages/directory_fields.php:171
+msgid "Text Area"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:313
+#: template/elementor/contact-form-7-widget.php:347
+msgid "Text Color"
+msgstr ""
+
+#: admin/pages/listing_search.php:116 admin/pages/listing_search.php:179
+msgid "Text Field"
+msgstr ""
+
+#: admin/pages/open-ai.php:98
+msgid "text-ada-001"
+msgstr ""
+
+#: admin/pages/open-ai.php:97
+msgid "text-babbage-001"
+msgstr ""
+
+#: admin/pages/open-ai.php:96
+msgid "text-curie-001"
+msgstr ""
+
+#: admin/pages/open-ai.php:93
+msgid "text-davinci-001"
+msgstr ""
+
+#: admin/pages/open-ai.php:94
+msgid "text-davinci-002"
+msgstr ""
+
+#: admin/pages/open-ai.php:95
+msgid "text-davinci-003"
+msgstr ""
+
+#: admin/pages/open-ai.php:101
+msgid "text-davinci-edit-001"
+msgstr ""
+
+#: admin/pages/open-ai.php:107
+msgid "text-davinci-edit-001 "
+msgstr ""
+
+#: admin/pages/open-ai.php:100
+msgid "text-davinci-insert-001"
+msgstr ""
+
+#: admin/pages/open-ai.php:99
+msgid "text-davinci-insert-002"
+msgstr ""
+
+#: admin/pages/listing_search.php:100 admin/pages/listing_search.php:162
+msgid "text-field"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:272
+msgid "Textarea Height"
+msgstr ""
+
+#: admin/pages/stripe_update.php:98 admin/pages/paypal_update.php:88
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/pages/package_update.php:633 admin/pages/package_create.php:588
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: admin/pages/package_update.php:572
+msgid "The Initial Amount Collected at User Registration."
+msgstr ""
+
+#: admin/pages/package_create.php:527
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: template/signup/wizard-style-2.php:137
+msgid "The password is not strong enough"
+msgstr ""
+
+#: admin/pages/csv-import.php:44
+msgid ""
+"This tool allows you to import (or merge) listing listing data to your site "
+"from a CSV file."
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:92
+msgid "Thu"
+msgstr ""
+
+#: functions/listing-functions.php:181
+#: template/elementor/icon-box-two-widget.php:37
+#: template/elementor/contact-form-7-widget.php:46
+#: template/elementor/contact-form-7-widget.php:115
+#: template/elementor/section-title-one-widget.php:46
+#: template/elementor/section-title-one-widget.php:122
+#: template/elementor/contact-info-widget.php:41
+#: template/elementor/title-with-text-widget.php:48
+#: template/elementor/title-with-text-widget.php:116
+#: template/elementor/how-it-works-widget.php:38
+#: template/elementor/section-title-two-widget.php:46
+#: template/elementor/section-title-two-widget.php:116
+#: template/elementor/home-banner-two-widget.php:35
+#: template/elementor/home-banner-two-widget.php:83
+#: template/elementor/home-banner-one-widget.php:35
+#: template/elementor/home-banner-one-widget.php:73
+#: template/private-profile/author-bookmarks.php:23
+#: template/private-profile/chatgtp_settings_popup.php:71
+#: template/private-profile/listing_bookmark-file.php:21
+#: template/private-profile/profile-new-post-1.php:60
+#: template/private-profile/profile-edit-post-1.php:54
+#: template/private-profile/profile-all-post-1.php:74
+#: admin/pages/color_setting.php:67
+msgid "Title"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:115
+msgid "Title Active Color"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:104
+msgid "Title Color"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:70
+msgid "Title for GPT"
+msgstr ""
+
+#: template/elementor/accordion-widget.php:96
+msgid "Title Typography"
+msgstr ""
+
+#: template/elementor/title-with-text-widget.php:12
+#: template/elementor/title-with-text-widget.php:30
+msgid "Title With Text"
+msgstr ""
+
+#: template/elementor/recent-post-widget.php:107
+#: template/elementor/recent-post-slider-widget.php:93
+msgid "Title Word Count"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:52
+msgid "To Add More Post."
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:44
+msgid "To Edit The Post."
+msgstr ""
+
+#: template/listing/single-template/top-over-view.php:5
+msgid "Top Information"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:24
+msgid "Total"
+msgstr ""
+
+#: admin/pages/package_update.php:654 admin/pages/package_create.php:609
+msgid "Trial"
+msgstr ""
+
+#: admin/pages/package_update.php:665 admin/pages/package_create.php:620
+msgid "Trial Amount"
+msgstr ""
+
+#: admin/pages/package_update.php:672 admin/pages/package_create.php:627
+msgid "Trial Period"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:90
+msgid "Tue"
+msgstr ""
+
+#: admin/pages/stripe_update.php:99 admin/pages/paypal_update.php:89
+msgid "Turkish Lira"
+msgstr ""
+
+#: template/private-profile/profile-social.php:19
+msgid "Twitter"
+msgstr ""
+
+#: admin/pages/registration-fields.php:153 admin/pages/directory_fields.php:67
+#: admin/pages/directory_fields.php:221
+msgid "Type"
+msgstr ""
+
+#: admin/pages/package_all.php:125
+msgid "Type : "
+msgstr ""
+
+#: template/elementor/accordion-widget.php:39
+msgid "Type Accordion Title Here"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:82
+#: template/elementor/contact-form-7-widget.php:127
+#: template/elementor/section-title-one-widget.php:70
+#: template/elementor/section-title-one-widget.php:134
+#: template/elementor/title-with-text-widget.php:83
+#: template/elementor/title-with-text-widget.php:128
+#: template/elementor/title-with-text-widget.php:173
+#: template/elementor/section-title-two-widget.php:83
+#: template/elementor/section-title-two-widget.php:127
+msgid "Typography"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:295
+msgid "Undo Shortlisted"
+msgstr ""
+
+#: template/listing/listing_search.php:538
+msgid "Unselect All "
+msgstr ""
+
+#: admin/pages/directory_fields.php:160 admin/pages/setting-pages-all.php:125
+#: admin/pages/map_setting.php:198 admin/pages/color_setting.php:101
+#: admin/pages/profile-fields.php:146
+msgid "Update"
+msgstr ""
+
+#: admin/pages/coupon_update.php:19 admin/pages/coupon_update.php:99
+msgid "Update Coupon"
+msgstr ""
+
+#: admin/pages/email_template_all.php:139
+msgid "Update Email Setting"
+msgstr ""
+
+#: admin/pages/registration-fields.php:249
+msgid "Update Fields"
+msgstr ""
+
+#: admin/pages/mailchimp.php:5 admin/pages/mailchimp.php:68
+msgid "Update MailChimp Setting"
+msgstr ""
+
+#: admin/pages/open-ai.php:118
+msgid "Update OpenAI Setting"
+msgstr ""
+
+#: admin/pages/package_update.php:17
+msgid "Update Package / Membership Level"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:534
+msgid "Update Post"
+msgstr ""
+
+#: admin/pages/stripe_update.php:108 admin/pages/paypal_update.php:98
+msgid "Update Settings"
+msgstr ""
+
+#: admin/pages/package_all.php:55
+msgid "Update Successfully"
+msgstr ""
+
+#: admin/pages/user_update.php:269
+msgid "Update User"
+msgstr ""
+
+#: template/listing/single-template/top-over-view.php:52
+msgid "Updated"
+msgstr ""
+
+#: admin/admin.php:454 admin/admin.php:512 admin/admin.php:625
+#: admin/admin.php:694 admin/admin.php:1063 admin/admin.php:1091
+#: admin/admin.php:1115 admin/admin.php:1146 admin/admin.php:1178
+#: admin/admin.php:1218 admin/admin.php:1357 admin/admin.php:1405
+#: admin/admin.php:1481 admin/admin.php:1502 admin/admin.php:1521
+#: admin/admin.php:1582
+msgid "Updated Successfully"
+msgstr ""
+
+#: admin/admin.php:1322
+msgid "Updated Successfully: Your current gateway is "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:25
+#: template/private-profile/profile-level-1.php:264
+#: template/private-profile/profile-level-1.php:338
+msgid "Upgrade"
+msgstr ""
+
+#: admin/pages/csv-import.php:8 admin/pages/csv-import.php:38
+msgid "Upload CSV File"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:19
+msgid "Upload Icon"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:48
+msgid "Upload Icon Edit"
+msgstr ""
+
+#: admin/pages/metaboxes/tag-meta.php:13 admin/pages/metaboxes/tag-meta.php:28
+#: admin/pages/metaboxes/location-meta.php:13
+#: admin/pages/metaboxes/location-meta.php:28
+#: admin/pages/metaboxes/category-meta.php:29
+#: admin/pages/metaboxes/category-meta.php:66
+msgid "Upload Image"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:55
+msgid "Upload Map Marker"
+msgstr ""
+
+#: admin/pages/metaboxes/category-meta.php:24
+msgid "Upload Marker"
+msgstr ""
+
+#: admin/pages/registration-fields.php:165 admin/pages/directory_fields.php:79
+#: admin/pages/directory_fields.php:176
+msgid "URL"
+msgstr ""
+
+#: admin/pages/stripe_update.php:71 admin/pages/paypal_update.php:61
+msgid "US Dollars ($)"
+msgstr ""
+
+#: admin/pages/coupon_create.php:56 admin/pages/coupon_update.php:72
+msgid "Usage Limit"
+msgstr ""
+
+#: admin/pages/shortcodes-sample.php:15 admin/pages/shortcodes-sample.php:35
+#: admin/pages/shortcodes-sample.php:56 admin/pages/shortcodes-sample.php:77
+msgid "Use "
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:50
+#: template/elementor/section-title-one-widget.php:50
+#: template/elementor/title-with-text-widget.php:52
+#: template/elementor/section-title-two-widget.php:50
+msgid "Use H1 - H6 for title."
+msgstr ""
+
+#: admin/pages/settings.php:47
+msgid "Useful Shortcode"
+msgstr ""
+
+#: admin/pages/settings.php:127
+msgid "Useful shortcode/ Widgets "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:20
+msgid "User Detail"
+msgstr ""
+
+#: admin/pages/email_template_all.php:75
+msgid "User Email Subject :"
+msgstr ""
+
+#: admin/pages/email_template_all.php:84
+msgid "User Email Tempalte :"
+msgstr ""
+
+#: admin/admin.php:87 admin/pages/payment-history.php:24
+msgid "User ID"
+msgstr ""
+
+#: admin/pages/metabox.php:14
+msgid "User ID :"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:99
+msgid "User Info"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:101
+msgid "User My Account"
+msgstr ""
+
+#: admin/admin.php:86 template/signup/wizard-style-2.php:118
+#: admin/pages/user_update.php:34
+msgid "User Name"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:40
+msgid "User Name : "
+msgstr ""
+
+#: admin/pages/user_update.php:68
+msgid "User Package"
+msgstr ""
+
+#: admin/pages/registration-fields.php:22
+msgid "User Profile Pic Uploader"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:139
+#: admin/pages/user_update.php:46
+msgid "User Role"
+msgstr ""
+
+#: admin/pages/package_all.php:188
+msgid ""
+"User role \"Basic\" is created on the plugin activation. Paid exprired or "
+"unsuccessful payment user will set on the \"Basic\" user role."
+msgstr ""
+
+#: admin/pages/registration-fields.php:16
+msgid "User Role & Section "
+msgstr ""
+
+#: admin/pages/package_all.php:133
+msgid "User Role : "
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:41
+msgid "User Sign Up:"
+msgstr ""
+
+#: admin/pages/user_update.php:13
+msgid "User Update: "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:106
+msgid "User_or_Email_Exists"
+msgstr ""
+
+#: template/private-profile/profile-login.php:21
+msgid "Username"
+msgstr ""
+
+#: admin/pages/settings.php:44
+msgid "Users"
+msgstr ""
+
+#: admin/pages/settings.php:77
+msgid "Users Settings"
+msgstr ""
+
+#: admin/pages/all_coupons.php:57
+msgid "Uses Limit : "
+msgstr ""
+
+#: admin/pages/directory_fields.php:222
+msgid "Value"
+msgstr ""
+
+#: admin/pages/registration-fields.php:171 admin/pages/directory_fields.php:85
+msgid "Value[Dropdown,checkbox,Radio]"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:80
+#: template/private-profile/profile-edit-post-1.php:235
+#: admin/pages/metabox_full_data.php:205
+msgid "Viber"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:12
+#: template/elementor/video-popup-widget.php:30
+#: template/elementor/video-popup-widget.php:73
+msgid "Video Popup"
+msgstr ""
+
+#: admin/pages/header.php:25
+msgid "Video Tutorial"
+msgstr ""
+
+#: template/elementor/video-popup-widget.php:50
+msgid "Video URL"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:433
+#: admin/pages/settings.php:133
+msgid "Videos"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:373
+#: template/private-profile/addlisting-form.php:249
+#: admin/pages/metabox_full_data.php:290
+msgid "Videos "
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:37 admin/pages/setting-pages-all.php:58
+#: admin/pages/setting-pages-all.php:77 admin/pages/setting-pages-all.php:98
+#: admin/pages/setting-pages-all.php:116
+msgid "View"
+msgstr ""
+
+#: admin/pages/dir-demo.php:17
+msgid "View All Listing"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:137
+msgid "View Count"
+msgstr ""
+
+#: admin/pages/settings.php:229 admin/pages/package_all.php:196
+msgid "View Page"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:384
+#: template/private-profile/addlisting-form.php:258
+#: template/private-profile/profile-edit-post-1.php:443
+#: admin/pages/metabox_full_data.php:305
+msgid "vimeo"
+msgstr ""
+
+#: template/pdf/pdf_post.php:79
+msgid "Web"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:235
+#: template/private-profile/addlisting-form.php:120
+#: template/private-profile/profile-edit-post-1.php:281
+#: admin/pages/metabox_full_data.php:277
+msgid "Web Site"
+msgstr ""
+
+#: template/listing/single-listing.php:186
+msgid "Website:"
+msgstr ""
+
+#: template/private-profile/listing-open-close-time.php:91
+msgid "Wed"
+msgstr ""
+
+#: admin/pages/package_update.php:595 admin/pages/package_update.php:627
+#: admin/pages/package_update.php:689 admin/pages/package_create.php:551
+#: admin/pages/package_create.php:582 admin/pages/package_create.php:641
+msgid "Week(s)"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:186
+msgid "Whats Up"
+msgstr ""
+
+#: template/private-profile/addlisting-form.php:76
+#: template/private-profile/profile-edit-post-1.php:231
+#: admin/pages/metabox_full_data.php:198
+msgid "WhatsApp"
+msgstr ""
+
+#: admin/pages/dir_setting.php:50
+msgid "When User Package Expire "
+msgstr ""
+
+#: template/elementor/accordion-widget.php:77
+msgid "Which accordion you want to open by default."
+msgstr ""
+
+#: template/elementor/section-title-one-widget.php:101
+#: template/elementor/section-title-one-widget.php:178
+#: template/elementor/section-title-two-widget.php:171
+msgid "Width"
+msgstr ""
+
+#: template/elementor/title-with-text-widget.php:214
+msgid "Width (%)"
+msgstr ""
+
+#: admin/pages/package_update.php:709 admin/pages/package_create.php:660
+msgid "Woocommerce Product"
+msgstr ""
+
+#: admin/pages/payment-settings.php:64
+msgid ""
+"WooCommerce[You need to select the payment gateway from woocommerce settings]"
+msgstr ""
+
+#: template/elementor/section-title-two-widget.php:37
+msgid "Work Flow"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:161
+#: template/elementor/title-with-text-widget.php:206
+msgid "Wrapper"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:180
+msgid "Wrapper Margin"
+msgstr ""
+
+#: template/elementor/contact-form-7-widget.php:192
+msgid "Wrapper Padding"
+msgstr ""
+
+#: template/private-profile/chatgtp_settings_popup.php:71
+msgid "Write a detailed description of : "
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:116
+#: template/private-profile/profile-edit-post-1.php:469
+#: admin/pages/package_update.php:61 admin/pages/package_all.php:158
+#: admin/pages/metabox_full_data.php:86 admin/pages/metabox_full_data.php:338
+msgid "X"
+msgstr ""
+
+#: admin/pages/package_update.php:597 admin/pages/package_update.php:629
+#: admin/pages/package_update.php:691 admin/pages/package_create.php:553
+#: admin/pages/package_create.php:584 admin/pages/package_create.php:643
+msgid "Year(s)"
+msgstr ""
+
+#: template/elementor/icon-box-two-widget.php:100
+#: template/elementor/listing-two-widget.php:61
+#: template/elementor/listing-widget.php:61
+#: template/elementor/recent-post-slider-widget.php:84
+#: template/elementor/video-popup-widget.php:62
+msgid "Yes"
+msgstr ""
+
+#: admin/pages/new-message.php:13
+msgid "Yes, Admin will  get all message."
+msgstr ""
+
+#: admin/pages/map_setting.php:106
+msgid "You can find latitude here"
+msgstr ""
+
+#: admin/pages/map_setting.php:119
+msgid "You can find longitude here"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:151
+#: template/signup/paypal_form_2.php:112
+#: template/private-profile/iv_stripe_form_upgrade.php:109
+msgid "You have to agree to our terms"
+msgstr ""
+
+#: template/listing/listing_search.php:542
+msgid "Your Current Location "
+msgstr ""
+
+#: template/private-profile/add-listing-without-user.php:80
+msgid "Your email"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:220
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: template/listing/single-template/reviews.php:225
+msgid "Your Rating*"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:380
+#: template/private-profile/addlisting-form.php:254
+#: template/private-profile/profile-edit-post-1.php:439
+#: admin/pages/metabox_full_data.php:298
+msgid "Youtube"
+msgstr ""
+
+#: template/listing/listing_search.php:190
+#: template/elementor/delete/listing-filter.php:48
+msgid "Z to A (title)"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:214
+#: template/private-profile/addlisting-form.php:100
+#: template/private-profile/profile-edit-post-1.php:259
+#: admin/pages/metabox_full_data.php:249
+msgid "Zipcode/Postcode"
+msgstr ""

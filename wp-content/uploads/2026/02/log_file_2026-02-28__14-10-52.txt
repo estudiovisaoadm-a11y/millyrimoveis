@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: Home One were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://millyrimoveis.com.br
+Data file = /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/themes/listihub//inc/demo-content/content.xml
+Widget file = /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/themes/listihub//inc/demo-content/widgets.wie
+Customizer file = /home/u363334714/domains/millyrimoveis.com.br/public_html/wp-content/themes/listihub//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Bloco - No Title - Widget already exists
+Bloco - No Title - Imported
+Listihub : Recent Posts - Recent Posts - Imported
+Bloco - No Title - Imported
+
+Footer Widget : 
+
+Listihub : About Company Widget  - No Title - Imported
+Listihub : Navigation Menu - Quick Links - Imported
+Listihub : Navigation Menu - Information - Imported
+Listihub : Subscribe Form - Newsletter - Imported
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Texto - No Title - Imported to Inactive
+Texto - Listing Style 1 - Imported to Inactive
+Texto - Listing Style 2 - Imported to Inactive
+Texto - Listing Detail - Imported to Inactive
+Texto - With Map Style 1 - Imported to Inactive
+Texto - With Map Style 2 - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

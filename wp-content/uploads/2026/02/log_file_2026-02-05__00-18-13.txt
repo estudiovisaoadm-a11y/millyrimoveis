@@ -1,0 +1,374 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://guilherme.pagetest.com.br
+Data file = /home/u829017774/domains/pagetest.com.br/public_html/guilherme/wp-content/themes/entox/install-resource/demo-import/demo-content.xml
+Widget file = /home/u829017774/domains/pagetest.com.br/public_html/guilherme/wp-content/themes/entox/install-resource/demo-import/widgets.wie
+Customizer file = /home/u829017774/domains/pagetest.com.br/public_html/guilherme/wp-content/themes/entox/install-resource/demo-import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_weight 0.5 Ton
+[WARNING] Failed to import brw_weight 1 - 3 Ton
+[WARNING] Failed to import brw_bed 1 bed
+[WARNING] Failed to import brw_bed 2 bed
+[WARNING] Failed to import brw_model 2.0 AT
+[WARNING] Failed to import brw_model 2.4 MT
+[WARNING] Failed to import brw_area 20 m2
+[WARNING] Failed to import brw_year 2017
+[WARNING] Failed to import brw_year 2018
+[WARNING] Failed to import brw_year 2019
+[WARNING] Failed to import brw_year 2020
+[WARNING] Failed to import brw_year 2021
+[WARNING] Failed to import brw_bed 3 bed
+[WARNING] Failed to import brw_engine_size 3.0L
+[WARNING] Failed to import brw_area 30 m2
+[WARNING] Failed to import brw_bed 4 bed
+[WARNING] Failed to import brw_doors 4 door
+[WARNING] Failed to import brw_weight 4 Ton
+[WARNING] Failed to import brw_engine_size 4.0L
+[WARNING] Failed to import brw_area 40 m2
+[WARNING] Failed to import brw_cylinders 5
+[WARNING] Failed to import brw_doors 5 door
+[WARNING] Failed to import brw_weight 5 Ton
+[WARNING] Failed to import brw_cylinders 6
+[WARNING] Failed to import wcfm_knowledgebase_category Analytics
+[WARNING] Failed to import wcfm_knowledgebase_category Announcement
+[WARNING] Failed to import wcfm_knowledgebase_category Article
+[WARNING] Failed to import brw_color Black
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import brw_view City
+[WARNING] Failed to import brw_type Coupe
+[WARNING] Failed to import wcfm_knowledgebase_category Coupon
+[WARNING] Failed to import wcfm_knowledgebase_category Customer
+[WARNING] Failed to import brw_machines_model EZ17
+[WARNING] Failed to import wcfm_knowledgebase_category Followers
+[WARNING] Failed to import product_cat Ford
+[WARNING] Failed to import wcfm_knowledgebase_category General
+[WARNING] Failed to import product_cat House
+[WARNING] Failed to import wcfm_knowledgebase_category Inquiry
+[WARNING] Failed to import wcfm_knowledgebase_category Invoice
+[WARNING] Failed to import brw_size Large
+[WARNING] Failed to import brw_location Los Angeles
+[WARNING] Failed to import product_cat Machines
+[WARNING] Failed to import brw_brand Manitex Inc.
+[WARNING] Failed to import wcfm_knowledgebase_category Marketing
+[WARNING] Failed to import brw_size Medium
+[WARNING] Failed to import wcfm_knowledgebase_category Membership
+[WARNING] Failed to import product_cat Mercedes
+[WARNING] Failed to import brw_machines_model Mid DF87
+[WARNING] Failed to import brw_machines_model Mini MD45
+[WARNING] Failed to import brw_view Mountain
+[WARNING] Failed to import brw_location New York
+[WARNING] Failed to import wcfm_knowledgebase_category Notification
+[WARNING] Failed to import brw_fuel_type Oil
+[WARNING] Failed to import wcfm_knowledgebase_category Order
+[WARNING] Failed to import product_type ovabrw_car_rental
+[WARNING] Failed to import wcfm_knowledgebase_category Payment
+[WARNING] Failed to import brw_fuel_type Petrol
+[WARNING] Failed to import wcfm_knowledgebase_category Policy
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import wcfm_knowledgebase_category Product
+[WARNING] Failed to import wcfm_knowledgebase_category Profile
+[WARNING] Failed to import wcfm_knowledgebase_category Refund
+[WARNING] Failed to import wcfm_knowledgebase_category Report
+[WARNING] Failed to import wcfm_knowledgebase_category Review
+[WARNING] Failed to import brw_view River
+[WARNING] Failed to import brw_location San Diego
+[WARNING] Failed to import brw_type Sedan
+[WARNING] Failed to import wcfm_knowledgebase_category SEO
+[WARNING] Failed to import wcfm_knowledgebase_category Settings
+[WARNING] Failed to import wcfm_knowledgebase_category Shipping
+[WARNING] Failed to import brw_color Silver
+[WARNING] Failed to import brw_size Small
+[WARNING] Failed to import wcfm_knowledgebase_category Support Ticket
+[WARNING] Failed to import brw_type SUV
+[WARNING] Failed to import product_cat Toyota
+[WARNING] Failed to import product_cat Transportation
+[WARNING] Failed to import wcfm_knowledgebase_category Vacation
+[WARNING] Failed to import wcfm_knowledgebase_category Verification
+[WARNING] Failed to import brw_brand Wacker Neuson
+[WARNING] Failed to import wcfm_knowledgebase_category Withdrawal
+[WARNING] Failed to import brw_color Yellow
+[WARNING] Failed to import product_cat 1 Ton
+[WARNING] Failed to import product_cat 2 Tons
+[WARNING] Failed to import product_cat 5 Tons
+[WARNING] Failed to import product_cat Aerial Work
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[WARNING] Failed to import product_cat Boom Truck
+[WARNING] Failed to import product_cat Concrete Pump
+[WARNING] Failed to import product_cat Excavator
+[WARNING] Failed to import product_cat Forklift
+[WARNING] Failed to import product_cat Home Stay
+[WARNING] Failed to import product_cat Hotel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_weight 0.5 Ton
+[WARNING] Failed to import brw_weight 1 - 3 Ton
+[WARNING] Failed to import brw_bed 1 bed
+[WARNING] Failed to import brw_bed 2 bed
+[WARNING] Failed to import brw_model 2.0 AT
+[WARNING] Failed to import brw_model 2.4 MT
+[WARNING] Failed to import brw_area 20 m2
+[WARNING] Failed to import brw_year 2017
+[WARNING] Failed to import brw_year 2018
+[WARNING] Failed to import brw_year 2019
+[WARNING] Failed to import brw_year 2020
+[WARNING] Failed to import brw_year 2021
+[WARNING] Failed to import brw_bed 3 bed
+[WARNING] Failed to import brw_engine_size 3.0L
+[WARNING] Failed to import brw_area 30 m2
+[WARNING] Failed to import brw_bed 4 bed
+[WARNING] Failed to import brw_doors 4 door
+[WARNING] Failed to import brw_weight 4 Ton
+[WARNING] Failed to import brw_engine_size 4.0L
+[WARNING] Failed to import brw_area 40 m2
+[WARNING] Failed to import brw_cylinders 5
+[WARNING] Failed to import brw_doors 5 door
+[WARNING] Failed to import brw_weight 5 Ton
+[WARNING] Failed to import brw_cylinders 6
+[WARNING] Failed to import wcfm_knowledgebase_category Analytics
+[WARNING] Failed to import wcfm_knowledgebase_category Announcement
+[WARNING] Failed to import wcfm_knowledgebase_category Article
+[WARNING] Failed to import brw_color Black
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import brw_view City
+[WARNING] Failed to import brw_type Coupe
+[WARNING] Failed to import wcfm_knowledgebase_category Coupon
+[WARNING] Failed to import wcfm_knowledgebase_category Customer
+[WARNING] Failed to import brw_machines_model EZ17
+[WARNING] Failed to import wcfm_knowledgebase_category Followers
+[WARNING] Failed to import product_cat Ford
+[WARNING] Failed to import wcfm_knowledgebase_category General
+[WARNING] Failed to import product_cat House
+[WARNING] Failed to import wcfm_knowledgebase_category Inquiry
+[WARNING] Failed to import wcfm_knowledgebase_category Invoice
+[WARNING] Failed to import brw_size Large
+[WARNING] Failed to import brw_location Los Angeles
+[WARNING] Failed to import product_cat Machines
+[WARNING] Failed to import brw_brand Manitex Inc.
+[WARNING] Failed to import wcfm_knowledgebase_category Marketing
+[WARNING] Failed to import brw_size Medium
+[WARNING] Failed to import wcfm_knowledgebase_category Membership
+[WARNING] Failed to import product_cat Mercedes
+[WARNING] Failed to import brw_machines_model Mid DF87
+[WARNING] Failed to import brw_machines_model Mini MD45
+[WARNING] Failed to import brw_view Mountain
+[WARNING] Failed to import brw_location New York
+[WARNING] Failed to import wcfm_knowledgebase_category Notification
+[WARNING] Failed to import brw_fuel_type Oil
+[WARNING] Failed to import wcfm_knowledgebase_category Order
+[WARNING] Failed to import product_type ovabrw_car_rental
+[WARNING] Failed to import wcfm_knowledgebase_category Payment
+[WARNING] Failed to import brw_fuel_type Petrol
+[WARNING] Failed to import wcfm_knowledgebase_category Policy
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import wcfm_knowledgebase_category Product
+[WARNING] Failed to import wcfm_knowledgebase_category Profile
+[WARNING] Failed to import wcfm_knowledgebase_category Refund
+[WARNING] Failed to import wcfm_knowledgebase_category Report
+[WARNING] Failed to import wcfm_knowledgebase_category Review
+[WARNING] Failed to import brw_view River
+[WARNING] Failed to import brw_location San Diego
+[WARNING] Failed to import brw_type Sedan
+[WARNING] Failed to import wcfm_knowledgebase_category SEO
+[WARNING] Failed to import wcfm_knowledgebase_category Settings
+[WARNING] Failed to import wcfm_knowledgebase_category Shipping
+[WARNING] Failed to import brw_color Silver
+[WARNING] Failed to import brw_size Small
+[WARNING] Failed to import wcfm_knowledgebase_category Support Ticket
+[WARNING] Failed to import brw_type SUV
+[WARNING] Failed to import product_cat Toyota
+[WARNING] Failed to import product_cat Transportation
+[WARNING] Failed to import wcfm_knowledgebase_category Vacation
+[WARNING] Failed to import wcfm_knowledgebase_category Verification
+[WARNING] Failed to import brw_brand Wacker Neuson
+[WARNING] Failed to import wcfm_knowledgebase_category Withdrawal
+[WARNING] Failed to import brw_color Yellow
+[WARNING] Failed to import product_cat 1 Ton
+[WARNING] Failed to import product_cat 2 Tons
+[WARNING] Failed to import product_cat 5 Tons
+[WARNING] Failed to import product_cat Aerial Work
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[WARNING] Failed to import product_cat Boom Truck
+[WARNING] Failed to import product_cat Concrete Pump
+[WARNING] Failed to import product_cat Excavator
+[WARNING] Failed to import product_cat Forklift
+[WARNING] Failed to import product_cat Home Stay
+[WARNING] Failed to import product_cat Hotel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_weight 0.5 Ton
+[WARNING] Failed to import brw_weight 1 - 3 Ton
+[WARNING] Failed to import brw_bed 1 bed
+[WARNING] Failed to import brw_bed 2 bed
+[WARNING] Failed to import brw_model 2.0 AT
+[WARNING] Failed to import brw_model 2.4 MT
+[WARNING] Failed to import brw_area 20 m2
+[WARNING] Failed to import brw_year 2017
+[WARNING] Failed to import brw_year 2018
+[WARNING] Failed to import brw_year 2019
+[WARNING] Failed to import brw_year 2020
+[WARNING] Failed to import brw_year 2021
+[WARNING] Failed to import brw_bed 3 bed
+[WARNING] Failed to import brw_engine_size 3.0L
+[WARNING] Failed to import brw_area 30 m2
+[WARNING] Failed to import brw_bed 4 bed
+[WARNING] Failed to import brw_doors 4 door
+[WARNING] Failed to import brw_weight 4 Ton
+[WARNING] Failed to import brw_engine_size 4.0L
+[WARNING] Failed to import brw_area 40 m2
+[WARNING] Failed to import brw_cylinders 5
+[WARNING] Failed to import brw_doors 5 door
+[WARNING] Failed to import brw_weight 5 Ton
+[WARNING] Failed to import brw_cylinders 6
+[WARNING] Failed to import wcfm_knowledgebase_category Analytics
+[WARNING] Failed to import wcfm_knowledgebase_category Announcement
+[WARNING] Failed to import wcfm_knowledgebase_category Article
+[WARNING] Failed to import brw_color Black
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import brw_view City
+[WARNING] Failed to import brw_type Coupe
+[WARNING] Failed to import wcfm_knowledgebase_category Coupon
+[WARNING] Failed to import wcfm_knowledgebase_category Customer
+[WARNING] Failed to import brw_machines_model EZ17
+[WARNING] Failed to import wcfm_knowledgebase_category Followers
+[WARNING] Failed to import product_cat Ford
+[WARNING] Failed to import wcfm_knowledgebase_category General
+[WARNING] Failed to import product_cat House
+[WARNING] Failed to import wcfm_knowledgebase_category Inquiry
+[WARNING] Failed to import wcfm_knowledgebase_category Invoice
+[WARNING] Failed to import brw_size Large
+[WARNING] Failed to import brw_location Los Angeles
+[WARNING] Failed to import product_cat Machines
+[WARNING] Failed to import brw_brand Manitex Inc.
+[WARNING] Failed to import wcfm_knowledgebase_category Marketing
+[WARNING] Failed to import brw_size Medium
+[WARNING] Failed to import wcfm_knowledgebase_category Membership
+[WARNING] Failed to import product_cat Mercedes
+[WARNING] Failed to import brw_machines_model Mid DF87
+[WARNING] Failed to import brw_machines_model Mini MD45
+[WARNING] Failed to import brw_view Mountain
+[WARNING] Failed to import brw_location New York
+[WARNING] Failed to import wcfm_knowledgebase_category Notification
+[WARNING] Failed to import brw_fuel_type Oil
+[WARNING] Failed to import wcfm_knowledgebase_category Order
+[WARNING] Failed to import product_type ovabrw_car_rental
+[WARNING] Failed to import wcfm_knowledgebase_category Payment
+[WARNING] Failed to import brw_fuel_type Petrol
+[WARNING] Failed to import wcfm_knowledgebase_category Policy
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import wcfm_knowledgebase_category Product
+[WARNING] Failed to import wcfm_knowledgebase_category Profile
+[WARNING] Failed to import wcfm_knowledgebase_category Refund
+[WARNING] Failed to import wcfm_knowledgebase_category Report
+[WARNING] Failed to import wcfm_knowledgebase_category Review
+[WARNING] Failed to import brw_view River
+[WARNING] Failed to import brw_location San Diego
+[WARNING] Failed to import brw_type Sedan
+[WARNING] Failed to import wcfm_knowledgebase_category SEO
+[WARNING] Failed to import wcfm_knowledgebase_category Settings
+[WARNING] Failed to import wcfm_knowledgebase_category Shipping
+[WARNING] Failed to import brw_color Silver
+[WARNING] Failed to import brw_size Small
+[WARNING] Failed to import wcfm_knowledgebase_category Support Ticket
+[WARNING] Failed to import brw_type SUV
+[WARNING] Failed to import product_cat Toyota
+[WARNING] Failed to import product_cat Transportation
+[WARNING] Failed to import wcfm_knowledgebase_category Vacation
+[WARNING] Failed to import wcfm_knowledgebase_category Verification
+[WARNING] Failed to import brw_brand Wacker Neuson
+[WARNING] Failed to import wcfm_knowledgebase_category Withdrawal
+[WARNING] Failed to import brw_color Yellow
+[WARNING] Failed to import product_cat 1 Ton
+[WARNING] Failed to import product_cat 2 Tons
+[WARNING] Failed to import product_cat 5 Tons
+[WARNING] Failed to import product_cat Aerial Work
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[WARNING] Failed to import product_cat Boom Truck
+[WARNING] Failed to import product_cat Concrete Pump
+[WARNING] Failed to import product_cat Excavator
+[WARNING] Failed to import product_cat Forklift
+[WARNING] Failed to import product_cat Home Stay
+[WARNING] Failed to import product_cat Hotel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_weight 0.5 Ton
+[WARNING] Failed to import brw_weight 1 - 3 Ton
+[WARNING] Failed to import brw_bed 1 bed
+[WARNING] Failed to import brw_bed 2 bed
+[WARNING] Failed to import brw_model 2.0 AT
+[WARNING] Failed to import brw_model 2.4 MT
+[WARNING] Failed to import brw_area 20 m2
+[WARNING] Failed to import brw_year 2017
+[WARNING] Failed to import brw_year 2018
+[WARNING] Failed to import brw_year 2019
+[WARNING] Failed to import brw_year 2020
+[WARNING] Failed to import brw_year 2021
+[WARNING] Failed to import brw_bed 3 bed
+[WARNING] Failed to import brw_engine_size 3.0L
+[WARNING] Failed to import brw_area 30 m2
+[WARNING] Failed to import brw_bed 4 bed
+[WARNING] Failed to import brw_doors 4 door
+[WARNING] Failed to import brw_weight 4 Ton
+[WARNING] Failed to import brw_engine_size 4.0L
+[WARNING] Failed to import brw_area 40 m2
+[WARNING] Failed to import brw_cylinders 5
+[WARNING] Failed to import brw_doors 5 door
+[WARNING] Failed to import brw_weight 5 Ton
+[WARNING] Failed to import brw_cylinders 6
+[WARNING] Failed to import brw_color Black
+[WARNING] Failed to import brw_view City
+[WARNING] Failed to import brw_type Coupe
+[WARNING] Failed to import brw_machines_model EZ17
+[WARNING] Failed to import brw_size Large
+[WARNING] Failed to import brw_location Los Angeles
+[WARNING] Failed to import brw_brand Manitex Inc.
+[WARNING] Failed to import brw_size Medium
+[WARNING] Failed to import brw_machines_model Mid DF87
+[WARNING] Failed to import brw_machines_model Mini MD45
+[WARNING] Failed to import brw_view Mountain
+[WARNING] Failed to import brw_location New York
+[WARNING] Failed to import brw_fuel_type Oil
+[WARNING] Failed to import brw_fuel_type Petrol
+[WARNING] Failed to import brw_view River
+[WARNING] Failed to import brw_location San Diego
+[WARNING] Failed to import brw_type Sedan
+[WARNING] Failed to import brw_color Silver
+[WARNING] Failed to import brw_size Small
+[WARNING] Failed to import brw_type SUV
+[WARNING] Failed to import brw_brand Wacker Neuson
+[WARNING] Failed to import brw_color Yellow
+[WARNING] Failed to import "Elementor Landing Page #120": Invalid post type e-landing-page
+[ERROR] Failed to import "excavator-2" (Mídia)
+[ERROR] Failed to import "Concrete-Pump-5" (Mídia)
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Pesquisar - No Title - Imported
+Categorias - Categories - Imported
+Arquivos - Archives - Imported
+Nuvem de tags - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

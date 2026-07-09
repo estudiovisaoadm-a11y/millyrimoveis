@@ -1,0 +1,1417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Listihub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-13 17:31+0000\n"
+"PO-Revision-Date: 2026-02-28 20:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.1; wp-6.9.1; php-8.0.30\n"
+"X-Domain: listihub"
+
+#: inc/template-functions.php:247
+#, php-format
+msgid " %1$s"
+msgstr " %1$s"
+
+#. 1: list of categories.
+#: inc/template-functions.php:270
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:17
+msgid "&copy; Listihub 2024 | All Right Reserved"
+msgstr "© Listihub 2024 | Todos os direitos reservados"
+
+#. used between list items, there is a space after the comma
+#: inc/template-functions.php:267
+msgid ", "
+msgstr ", "
+
+#: inc/template-functions.php:303
+msgid "1"
+msgstr "1"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:115
+msgid "1 Column"
+msgstr "1 coluna"
+
+#. 1: title.
+#: comments.php:38
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:116
+msgid "2 Column"
+msgstr "2 Coluna"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:117
+msgid "3 Column"
+msgstr "3 coluna"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:118
+msgid "4 Column"
+msgstr "4 coluna"
+
+#: 404.php:52
+msgid "404"
+msgstr "404"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:27
+msgid ""
+"<h2>Oops!</h2><p>Sorry, The page you are looking for no longer exists.</p>"
+msgstr "<h2>Ops!</h2><p>Desculpe, a página que você procura não existe mais.</p>"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:9
+msgid "<h4>Ready to Start your business?</h4>"
+msgstr "<h4>Pronto para iniciar seu negócio?</h4>"
+
+#: inc/widget-area-init.php:19
+msgid "Add footer widgets here."
+msgstr "Adicione widgets de rodapé aqui."
+
+#: inc/widget-area-init.php:8
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui."
+
+#: inc/comment-template.php:58
+msgid "All fields marked with an asterisk (*) are required"
+msgstr "Todos os campos marcados com asterisco (*) são obrigatórios"
+
+#: inc/metabox-and-options/theme-options/archive-page-options.php:12
+msgid "Archive Layout"
+msgstr "Layout Do Arquivo"
+
+#: inc/metabox-and-options/theme-options/archive-page-options.php:5
+msgid "Archive Page"
+msgstr "Página De Arquivo"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:43
+msgid "Audio Embed Code"
+msgstr "Código De Incorporação De Áudio"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:28
+msgid "Audio Post Format Options"
+msgstr "Opções De Formato De Postagem De Áudio"
+
+#: inc/metabox-and-options/theme-options/theme-options.php:117
+msgid "Backup"
+msgstr "Backup"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:103
+#: inc/metabox-and-options/theme-options/search-page-options.php:39
+#: inc/metabox-and-options/theme-options/error-page-options.php:21
+#: inc/metabox-and-options/theme-options/archive-page-options.php:38
+#: inc/metabox-and-options/theme-options/blog-page-options.php:39
+#: inc/metabox-and-options/theme-options/banner-options.php:13
+msgid "Banner Background"
+msgstr "Fundo Do Banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:134
+msgid "Banner Custom Title"
+msgstr "Título Personalizado Do Banner"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:60
+msgid "Banner Default Title"
+msgstr "Título Padrão Do Banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:172
+#: inc/metabox-and-options/theme-options/banner-options.php:66
+msgid "Banner Height"
+msgstr "Altura Do Banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:5
+msgid "Banner Options"
+msgstr "Opções De Banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:87
+msgid "Banner Settings"
+msgstr "Configurações De Banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:157
+#: inc/metabox-and-options/theme-options/banner-options.php:29
+msgid "Banner Text Align"
+msgstr "Alinhamento Do Texto Do Banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:67
+msgid "Banner Title"
+msgstr "Título Do Banner"
+
+#: inc/demo-content/import-demo-content.php:133
+#: inc/metabox-and-options/theme-options/theme-options-default.php:30
+#: inc/metabox-and-options/theme-options/theme-options-default.php:31
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:13
+msgid "Blog Layout"
+msgstr "Layout Do Blog"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:5
+msgid "Blog Page"
+msgstr "Página Do Blog"
+
+#: inc/metabox-and-options/theme-options/typography-options.php:12
+msgid "Body Font"
+msgstr "Fonte Do Corpo"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:143
+msgid "Bottom Area Background"
+msgstr "Fundo Da Área Inferior"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:161
+#: inc/metabox-and-options/theme-options/banner-options.php:32
+msgid "Center"
+msgstr "Centro"
+
+#: inc/template-functions.php:303
+msgid "Comment"
+msgstr "Comentário"
+
+#: inc/template-functions.php:303
+msgid "Comments"
+msgstr "Comentários"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+#. 1: comment count number, 2: title.
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Comentários"
+msgstr[1] "%1$s Comentários"
+
+#: inc/admin/page-tgmpa.php:8
+msgid "Contact Form 7"
+msgstr "Formulário De Contato 7"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:35
+msgid "Contact Us"
+msgstr "Fale Conosco"
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:66
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:170
+msgid "Copyright Text"
+msgstr "Texto Autoral"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:95
+msgid "CTA Area Background"
+msgstr "Fundo da área de CTA"
+
+#: inc/metabox-and-options/theme-options/header-options.php:92
+#: inc/metabox-and-options/theme-options/footer-options.php:65
+msgid "CTA Button Text"
+msgstr "Texto do botão CTA"
+
+#: inc/metabox-and-options/theme-options/header-options.php:94
+#: inc/metabox-and-options/theme-options/footer-options.php:67
+msgid "CTA button text here."
+msgstr "Texto do botão CTA aqui."
+
+#: inc/metabox-and-options/theme-options/header-options.php:101
+#: inc/metabox-and-options/theme-options/footer-options.php:74
+msgid "CTA Button URL"
+msgstr "URL do botão CTA"
+
+#: inc/metabox-and-options/theme-options/header-options.php:103
+#: inc/metabox-and-options/theme-options/footer-options.php:76
+msgid "CTA button URL here."
+msgstr "URL do botão CTA aqui."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:83
+msgid "CTA Image"
+msgstr "Imagem CTA"
+
+#: inc/metabox-and-options/theme-options/theme-options.php:94
+#: inc/metabox-and-options/theme-options/theme-options.php:102
+msgid "Custom Css"
+msgstr "Css Personalizado"
+
+#: inc/theme-setup.php:91
+msgid "Deep Green"
+msgstr "Verde Profundo"
+
+#: inc/template-functions.php:86
+#: inc/metabox-and-options/metabox/common-metaboxes.php:22
+#: inc/metabox-and-options/metabox/common-metaboxes.php:53
+#: inc/metabox-and-options/metabox/common-metaboxes.php:79
+#: inc/metabox-and-options/metabox/common-metaboxes.php:122
+#: inc/metabox-and-options/metabox/common-metaboxes.php:145
+#: inc/metabox-and-options/metabox/common-metaboxes.php:159
+#: inc/metabox-and-options/metabox/common-metaboxes.php:193
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:61
+msgid "Default banner title for all post."
+msgstr "Título do banner padrão para todas as postagens."
+
+#: inc/metabox-and-options/theme-options/theme-options.php:27
+msgid "Developed by: <a target=\"_blank\" href=\"#\">e-plugins</a>"
+msgstr "Desenvolvido por: <a target=\"_blank\" href=\"#\">e-plugins</a>"
+
+#: inc/admin/page-dashboard.php:43
+msgid "Do you need help? Feel to free ask any question."
+msgstr "Precisa de Ajuda? Sinta-se livre para fazer qualquer pergunta."
+
+#. Author of the theme
+msgid "e-plugins"
+msgstr "e-plugins"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:68
+msgid "Edit Gallery Images"
+msgstr "Editar Imagens Da Galeria"
+
+#: inc/admin/page-tgmpa.php:17
+msgid "Elementor Page Builder"
+msgstr "Elementor Page Builder"
+
+#: inc/comment-template.php:18
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/metabox-and-options/theme-options/header-options.php:85
+msgid "Enable / Disable header CTA button."
+msgstr "Ativar / desativar o botão CTA do cabeçalho."
+
+#: inc/metabox-and-options/theme-options/header-options.php:114
+msgid "Enable / Disable header login button."
+msgstr "Ativar / desativar o botão de login do cabeçalho."
+
+#: inc/metabox-and-options/theme-options/header-options.php:58
+msgid "Enable / Disable sticky header."
+msgstr "Ativar / desativar cabeçalho fixo."
+
+#: inc/metabox-and-options/theme-options/archive-page-options.php:28
+msgid "Enable Archive Banner"
+msgstr "Ativar Banner De Arquivo"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:93
+msgid "Enable Banner"
+msgstr "Ativar Banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:75
+msgid "Enable Banner Breadcrumb"
+msgstr "Ativar Breadcrumb Do Banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:56
+msgid "Enable Banner Title"
+msgstr "Ativar Título Do Banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:29
+msgid "Enable Blog Banner"
+msgstr "Ativar Banner Do Blog"
+
+#: inc/metabox-and-options/theme-options/header-options.php:81
+msgid "Enable CTA Button"
+msgstr "Ativar botão CTA"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:11
+msgid "Enable Error Banner"
+msgstr "Ativar Banner De Erro"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:31
+msgid "Enable Footer CTA"
+msgstr "Habilitar CTA de rodapé"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:68
+msgid "Enable Go Back Home Button"
+msgstr "Ativar O Botão Voltar Para Casa"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:181
+msgid "Enable Go Top Button"
+msgstr "Ativar O Botão Go Top"
+
+#: inc/metabox-and-options/theme-options/header-options.php:110
+msgid "Enable Login Button"
+msgstr "Botão Ativar Login"
+
+#: inc/metabox-and-options/theme-options/archive-page-options.php:32
+msgid "Enable or disable archive page banner."
+msgstr "Ative ou desative o banner da página de arquivamento."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:97
+msgid "Enable or disable banner."
+msgstr "Ativar ou desativar banner."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:33
+msgid "Enable or disable blog page banner."
+msgstr "Ative ou desative o banner da página do blog."
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:15
+msgid "Enable or disable error / not found page banner."
+msgstr "Ativar ou desativar banner da página erro / não encontrado."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:34
+msgid "Enable or disable footer CTA."
+msgstr "Ative ou desative o CTA do rodapé."
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:71
+msgid "Enable or disable go back home button."
+msgstr "Ative ou desative o botão voltar para casa."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:185
+msgid "Enable or disable go to top button."
+msgstr "Ative ou desative o botão Ir para o topo."
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:33
+msgid "Enable or disable search page banner."
+msgstr "Ative ou desative o banner da página de pesquisa."
+
+#: inc/metabox-and-options/theme-options/general-options.php:34
+msgid "Enable or disable Site Preloader."
+msgstr "Habilite ou desabilite o pré-carregador de sites."
+
+#: inc/metabox-and-options/theme-options/general-options.php:31
+msgid "Enable Pre Loader"
+msgstr "Habilitar Pré Carregador"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:29
+msgid "Enable Search Banner"
+msgstr "Ativar Banner De Pesquisa"
+
+#: inc/metabox-and-options/theme-options/header-options.php:54
+msgid "Enable Sticky Header"
+msgstr "Ativar Cabeçalho Fixo"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:4
+#: inc/metabox-and-options/theme-options/theme-options-default.php:33
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:38
+msgid "Error Banner Title"
+msgstr "Título Do Banner De Erro"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:46
+msgid "Error Image"
+msgstr "Imagem De Erro"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:53
+msgid "Footer CTA Description"
+msgstr "Descrição do CTA do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:41
+msgid "Footer CTA Title"
+msgstr "Título do CTA do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:159
+msgid "Footer Info Left Text"
+msgstr "Informações Do Rodapé Texto Esquerdo"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:12
+msgid "Footer Options"
+msgstr "Opções De Rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:5
+msgid "Footer Settings"
+msgstr "Configurações Do Rodapé"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:184
+msgid "Footer Settings "
+msgstr "Configurações do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:19
+msgid "Footer Style"
+msgstr "Estilo Rodapé"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:194
+msgid "Footer Style One"
+msgstr "Rodapé Estilo Um"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:195
+msgid "Footer Style Two"
+msgstr "Rodapé Estilo Dois"
+
+#: inc/widget-area-init.php:17
+msgid "Footer Widget"
+msgstr "Widget De Rodapé"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:24
+#: inc/metabox-and-options/theme-options/search-page-options.php:15
+#: inc/metabox-and-options/theme-options/archive-page-options.php:14
+#: inc/metabox-and-options/theme-options/single-post-options.php:16
+#: inc/metabox-and-options/theme-options/blog-page-options.php:15
+#: inc/metabox-and-options/theme-options/page-options.php:14
+msgid "Full Width"
+msgstr "Largura Total"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:66
+msgid "Gallery Images"
+msgstr "Galeria De Imagens"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:55
+msgid "Gallery Post Format Options"
+msgstr "Opções De Formato De Postagem Da Galeria"
+
+#: inc/metabox-and-options/theme-options/general-options.php:5
+msgid "General Options"
+msgstr "Opções Gerais"
+
+#: 404.php:64
+msgid "Go Back Home"
+msgstr "Voltar para a página inicial"
+
+#: inc/admin/page-dashboard.php:31
+msgid "Go to Documentation"
+msgstr "Ir para documentação"
+
+#: inc/admin/page-dashboard.php:45
+msgid "Go to Support Forum"
+msgstr "Ir para o Fórum de suporte"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:18
+#: inc/metabox-and-options/theme-options/archive-page-options.php:17
+#: inc/metabox-and-options/theme-options/blog-page-options.php:18
+msgid "Grid Full"
+msgstr "Grade Cheia"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:19
+#: inc/metabox-and-options/theme-options/archive-page-options.php:18
+#: inc/metabox-and-options/theme-options/blog-page-options.php:19
+msgid "Grid With Left Sidebar"
+msgstr "Grade Com Barra Lateral Esquerda"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:20
+#: inc/metabox-and-options/theme-options/archive-page-options.php:19
+#: inc/metabox-and-options/theme-options/blog-page-options.php:20
+msgid "Grid With Right Sidebar"
+msgstr "Grade Com Barra Lateral Direita"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:13
+msgid ""
+"Haven't had a chance to explore the latest real estate offerings for a whole "
+"5 minutes! We should catch up on the market trends and see what exciting "
+"properties are available in this listihib."
+msgstr ""
+"Não tive a chance de explorar as últimas ofertas imobiliárias por 5 minutos "
+"inteiros! Devemos acompanhar as tendências do mercado e ver quais "
+"propriedades interessantes estão disponíveis neste listihib."
+
+#: inc/metabox-and-options/theme-options/header-options.php:67
+msgid "Header Buttons"
+msgstr "Botões De Cabeçalho"
+
+#: inc/metabox-and-options/theme-options/header-options.php:74
+msgid "Header buttons are not available with selected header style."
+msgstr ""
+"Os botões de cabeçalho não estão disponíveis com o estilo de cabeçalho "
+"selecionado."
+
+#: inc/metabox-and-options/theme-options/header-options.php:12
+msgid "Header General"
+msgstr "Cabeçalho Geral"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:66
+#: inc/metabox-and-options/theme-options/header-options.php:33
+msgid "Header Logo"
+msgstr "Logo Do Cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:77
+msgid "Header Menu"
+msgstr "Menu De Cabeçalho"
+
+#: inc/metabox-and-options/theme-options/header-options.php:4
+msgid "Header Settings"
+msgstr "Configurações Do Cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:44
+msgid "Header Settings "
+msgstr "Configurações do cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:51
+#: inc/metabox-and-options/theme-options/header-options.php:19
+msgid "Header Style"
+msgstr "Estilo Do Cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:57
+msgid "Header Style Four"
+msgstr "Estilo De Cabeçalho Quatro"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:54
+msgid "Header Style One"
+msgstr "Estilo De Cabeçalho Um"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:56
+msgid "Header Style Three"
+msgstr "Estilo De Cabeçalho Três"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:55
+msgid "Header Style Two"
+msgstr "Estilo De Cabeçalho Dois"
+
+#: inc/metabox-and-options/theme-options/typography-options.php:32
+msgid "Heading Font"
+msgstr "Fonte Do Cabeçalho"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:60
+#: inc/metabox-and-options/theme-options/blog-page-options.php:79
+msgid "Hide / Show blog banner title."
+msgstr "Ocultar / mostrar título do banner do blog."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:90
+msgid "Hide / Show post author name."
+msgstr "Ocultar / mostrar nome do autor da postagem."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:121
+msgid "Hide / Show post category name."
+msgstr "Ocultar / mostrar o nome da categoria da postagem."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:110
+msgid "Hide / Show post comment number."
+msgstr "Ocultar / mostrar o número do comentário da postagem."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:100
+msgid "Hide / Show post date."
+msgstr "Ocultar / Mostrar data de postagem."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:132
+msgid "Hide / Show post read more button."
+msgstr "Botão Ocultar / Mostrar post leia mais."
+
+#: inc/metabox-and-options/theme-options/banner-options.php:54
+msgid "Hide Banner Breadcrumb"
+msgstr "Ocultar breadcrumb do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:60
+msgid ""
+"Hide banner breadcrumb. You can change this settings on individual page / "
+"post."
+msgstr "Ocultar breadcrumb do banner. Você pode alterar essas configurações na página / postagem individual."
+
+#: inc/metabox-and-options/theme-options/banner-options.php:42
+msgid "Hide Banner Title"
+msgstr "Ocultar Título Do Banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:48
+msgid ""
+"Hide banner title. You can change this settings on individual page / post."
+msgstr ""
+"Ocultar título do banner. Você pode alterar essas configurações na página / "
+"postagem individual."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:43
+msgid "Hide banner title. You can change this settings on individual post."
+msgstr ""
+"Ocultar título do banner. Você pode alterar essas configurações na postagem "
+"individual."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:143
+msgid "Hide Breadcrumb"
+msgstr "Ocultar Breadcrumb"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:83
+msgid "Hide or show author name on post details page."
+msgstr "Ocultar ou mostrar o nome do autor na página de detalhes da postagem."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:150
+msgid "Hide or show banner breadcrumb."
+msgstr "Ocultar ou mostrar breadcrumb do banner."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:127
+msgid "Hide or show banner title."
+msgstr "Ocultar ou mostrar título do banner."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:113
+msgid "Hide or show categories on post details page."
+msgstr "Ocultar ou mostrar categorias na página de detalhes do post."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:103
+msgid "Hide or show comments number on post details page."
+msgstr ""
+"Ocultar ou mostrar o número de comentários na página de detalhes do post."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:93
+msgid "Hide or show date on post details page."
+msgstr "Ocultar ou mostrar data na página de detalhes do post."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:133
+msgid "Hide or show social share icons on post details page."
+msgstr ""
+"Ocultar ou mostrar ícones de compartilhamento social na página de detalhes "
+"do post."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:123
+msgid "Hide or show tags on post details page."
+msgstr "Ocultar ou mostrar tags na página de detalhes da postagem."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:37
+msgid "Hide Post Banner Title"
+msgstr "Ocultar Título Do Banner Da Postagem"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:68
+msgid "Hide Post Breadcrumb"
+msgstr "Ocultar breadcrumb da postagem"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:120
+msgid "Hide Title"
+msgstr "Ocultar Título"
+
+#: inc/demo-content/import-demo-content.php:25
+#: inc/demo-content/import-demo-content.php:120
+#: inc/demo-content/import-demo-content.php:121
+msgid "Home One"
+msgstr "Página inicial 1"
+
+#: inc/demo-content/import-demo-content.php:48
+#: inc/demo-content/import-demo-content.php:123
+msgid "Home Two"
+msgstr "Casa Dois"
+
+#. URI of the theme
+msgid "http://listihub.e-plugins.com/"
+msgstr "http://listihub.e-plugins.com/"
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/e-plugins/portfolio"
+msgstr "https://themeforest.net/user/e-plugins/portfolio"
+
+#: inc/metabox-and-options/theme-options/archive-page-options.php:49
+msgid ""
+"If you want different banner background settings for archive page then "
+"select archive page banner background Options from here."
+msgstr ""
+"Se você quiser configurações de fundo de banner diferentes para a página de "
+"arquivo, selecione Opções de fundo de banner da página de arquivo a partir "
+"daqui."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:50
+msgid ""
+"If you want different banner background settings for blog page then select "
+"blog page banner background Options from here."
+msgstr ""
+"Se você quiser configurações de fundo de banner diferentes para a página do "
+"blog, selecione Opções de fundo de banner da página do blog a partir daqui."
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:32
+msgid ""
+"If you want different banner background settings for error / not found page "
+"then select error / not found page banner background options from here."
+msgstr ""
+"Se você quiser configurações de fundo de banner diferentes para a página "
+"erro / não encontrado, selecione Opções de fundo de banner da página erro / "
+"não encontrado a partir daqui."
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:50
+msgid ""
+"If you want different banner background settings for search page then select "
+"search page banner background options from here."
+msgstr ""
+"Se você quiser configurações de fundo de banner diferentes para a página de "
+"pesquisa, selecione Opções de fundo de banner da página de pesquisa a partir "
+"daqui."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:136
+msgid ""
+"If you want to use custom title write title here.If you don't, leave it "
+"empty."
+msgstr ""
+"Se você quiser usar o título personalizado, escreva o título aqui.Caso "
+"contrário, deixe-o vazio."
+
+#: inc/admin/pages.php:51
+msgid "Import Demo"
+msgstr "Importar Demo"
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não conseguimos encontrar o que você está procurando. Talvez a "
+"busca possa ajudar."
+
+#: searchform.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:20
+#: inc/metabox-and-options/theme-options/single-post-options.php:13
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:13
+msgid "Layout Settings "
+msgstr "Configurações de layout"
+
+#: inc/comment-template.php:59
+msgid "Leave A Comment"
+msgstr "Deixe Um Comentário"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:160
+#: inc/metabox-and-options/theme-options/banner-options.php:31
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:23
+#: inc/metabox-and-options/theme-options/search-page-options.php:16
+#: inc/metabox-and-options/theme-options/archive-page-options.php:15
+#: inc/metabox-and-options/theme-options/single-post-options.php:15
+#: inc/metabox-and-options/theme-options/blog-page-options.php:16
+#: inc/metabox-and-options/theme-options/page-options.php:15
+msgid "Left Sidebar"
+msgstr "Barra Lateral Esquerda"
+
+#: inc/theme-setup.php:101
+msgid "Light Green"
+msgstr "Luz Verde"
+
+#. used between list items, there is a space after the comma
+#: inc/template-functions.php:244
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+
+#: inc/admin/page-tgmpa.php:46
+msgid "ListFolioPro"
+msgstr "ListFolioPro"
+
+#. Name of the theme
+msgid "Listihub"
+msgstr "Listihub"
+
+#: inc/admin/pages.php:30
+msgid "listihub"
+msgstr "listihub"
+
+#: inc/admin/page-tgmpa.php:38
+msgid "Listihub Core"
+msgstr "Listihub Core"
+
+#: inc/admin/page-dashboard.php:11
+msgid "listihub is a directory listing WordPress theme"
+msgstr "listihub é um tema WordPress de Listagem de diretórios"
+
+#. Description of the theme
+msgid "Listihub is a listing management WordPress theme"
+msgstr "Listihub é um tema WordPress de gerenciamento de listagem"
+
+#: inc/demo-content/import-demo-content.php:112
+msgid "Listihub Main Menu"
+msgstr "Listihub Menu Principal"
+
+#: inc/metabox-and-options/theme-options/theme-options.php:18
+#, php-format
+msgid "listihub Options <small>V %s</small>"
+msgstr "Opções do listihub <small>V %s</small>"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:22
+msgid ""
+"Listihub | Developed by: <a target=\"_blank\" href=\"http://e-plugins.com/\">"
+"e-plugins</a>"
+msgstr "Listihub | Desenvolvido por: <a target=\"_blank\" href=\"http://e-plugins.com/\">e-plugins</a>"
+
+#: inc/metabox-and-options/theme-options/header-options.php:121
+msgid "Login Button URL"
+msgstr "URL do botão de Login"
+
+#: inc/metabox-and-options/theme-options/header-options.php:123
+msgid "Login button URL here."
+msgstr "URL do botão de Login aqui."
+
+#: inc/metabox-and-options/theme-options/header-options.php:44
+msgid "Logo Image Size"
+msgstr "Tamanho Da Imagem Do Logotipo"
+
+#: inc/theme-setup.php:47
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: inc/admin/page-tgmpa.php:24
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr "MC4WP: Mailchimp para WordPress"
+
+#: inc/theme-setup.php:96
+msgid "Medium Greeen"
+msgstr "Greeen Médio"
+
+#: inc/comment-template.php:9
+msgid "Name*"
+msgstr "Nome*"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:96
+#: inc/metabox-and-options/metabox/common-metaboxes.php:124
+#: inc/metabox-and-options/metabox/common-metaboxes.php:147
+#: inc/metabox-and-options/theme-options/search-page-options.php:32
+#: inc/metabox-and-options/theme-options/error-page-options.php:14
+#: inc/metabox-and-options/theme-options/error-page-options.php:70
+#: inc/metabox-and-options/theme-options/archive-page-options.php:31
+#: inc/metabox-and-options/theme-options/header-options.php:57
+#: inc/metabox-and-options/theme-options/header-options.php:84
+#: inc/metabox-and-options/theme-options/header-options.php:113
+#: inc/metabox-and-options/theme-options/general-options.php:33
+#: inc/metabox-and-options/theme-options/single-post-options.php:40
+#: inc/metabox-and-options/theme-options/single-post-options.php:51
+#: inc/metabox-and-options/theme-options/single-post-options.php:71
+#: inc/metabox-and-options/theme-options/single-post-options.php:82
+#: inc/metabox-and-options/theme-options/single-post-options.php:92
+#: inc/metabox-and-options/theme-options/single-post-options.php:102
+#: inc/metabox-and-options/theme-options/single-post-options.php:112
+#: inc/metabox-and-options/theme-options/single-post-options.php:122
+#: inc/metabox-and-options/theme-options/single-post-options.php:132
+#: inc/metabox-and-options/theme-options/blog-page-options.php:32
+#: inc/metabox-and-options/theme-options/blog-page-options.php:59
+#: inc/metabox-and-options/theme-options/blog-page-options.php:78
+#: inc/metabox-and-options/theme-options/blog-page-options.php:89
+#: inc/metabox-and-options/theme-options/blog-page-options.php:99
+#: inc/metabox-and-options/theme-options/blog-page-options.php:109
+#: inc/metabox-and-options/theme-options/blog-page-options.php:120
+#: inc/metabox-and-options/theme-options/blog-page-options.php:131
+#: inc/metabox-and-options/theme-options/footer-options.php:33
+#: inc/metabox-and-options/theme-options/footer-options.php:184
+#: inc/metabox-and-options/theme-options/banner-options.php:45
+#: inc/metabox-and-options/theme-options/banner-options.php:57
+msgid "No"
+msgstr "Não"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:57
+msgid "Not Found Text"
+msgstr "Texto Não Encontrado"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: inc/admin/page-tgmpa.php:31
+msgid "One Click Demo Import"
+msgstr "Importação De Demonstração Com Um Clique"
+
+#: inc/metabox-and-options/theme-options/page-options.php:12
+msgid "Page Layout"
+msgstr "Layout Da Página"
+
+#: inc/metabox-and-options/theme-options/page-options.php:5
+msgid "Page Options"
+msgstr "Opções De Página"
+
+#: template-parts/content.php:77 template-parts/content-page.php:19
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:44
+msgid "Paste sound cloud audio embed code here"
+msgstr "Cole o código de incorporação de áudio do sound cloud aqui"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:18
+msgid "Paste video URL here"
+msgstr "Cole o URL do vídeo aqui"
+
+#: inc/demo-content/import-demo-content.php:42
+#: inc/demo-content/import-demo-content.php:65
+msgid ""
+"Please click on the Import button only once and wait, it can take a couple "
+"of minutes."
+msgstr ""
+"Clique no botão Importar apenas uma vez e aguarde, pode demorar alguns "
+"minutos."
+
+#. %s: post author.
+#: inc/template-functions.php:225
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr " %s"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:80
+msgid "Post Author Name"
+msgstr "Nome Do Autor Da Postagem"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:110
+msgid "Post Categories"
+msgstr "Categorias da postagem"
+
+#: inc/comment-template.php:53
+msgid "Post Comment"
+msgstr "Postar Comentário"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:100
+msgid "Post Comments Number"
+msgstr "Número de comentários da postagem"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:90
+msgid "Post Date"
+msgstr "Data De Postagem"
+
+#. %s: post date.
+#: inc/template-functions.php:207
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr " %s"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:130
+msgid "Post Share icons"
+msgstr "Ícones de compartilhamento de postagem"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:120
+msgid "Post Tags"
+msgstr "Tags da postagem"
+
+#: inc/metabox-and-options/theme-options/header-options.php:93
+msgid "Post Your Ad"
+msgstr "Publique seu anúncio"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:66
+msgid "Post Your Ad Now"
+msgstr "Publique Seu Anúncio Agora"
+
+#: inc/metabox-and-options/theme-options/general-options.php:42
+msgid "Preloader Background Color"
+msgstr "Cor De Fundo Do Pré-Carregador"
+
+#: inc/metabox-and-options/theme-options/general-options.php:12
+msgid "Primary Color"
+msgstr "Cor Primária"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:32
+msgid "Read More"
+msgstr "Leia Mais"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:138
+msgid "Read More Button Text"
+msgstr "Leia Mais Texto Do Botão"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece por aqui</a>."
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:69
+msgid "Remove Gallery Images"
+msgstr "Remover Imagens Da Galeria"
+
+#: comments.php:61
+msgid "Reply"
+msgstr "Responder"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:162
+#: inc/metabox-and-options/theme-options/banner-options.php:33
+msgid "Right"
+msgstr "Direita"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:25
+#: inc/metabox-and-options/theme-options/search-page-options.php:17
+#: inc/metabox-and-options/theme-options/archive-page-options.php:16
+#: inc/metabox-and-options/theme-options/single-post-options.php:17
+#: inc/metabox-and-options/theme-options/blog-page-options.php:17
+#: inc/metabox-and-options/theme-options/page-options.php:16
+msgid "Right Sidebar"
+msgstr "Barra Lateral Direita"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:56
+msgid "Search Field Placeholder"
+msgstr "Espaço Reservado Do Campo De Pesquisa"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:13
+msgid "Search Layout"
+msgstr "Layout De Pesquisa"
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:5
+msgid "Search Page"
+msgstr "Página De Busca"
+
+#. %s: search query.
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:34
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#: inc/metabox-and-options/theme-options/archive-page-options.php:22
+msgid "Select archive page layout."
+msgstr "Selecione arquivar layout da página."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:114
+msgid "Select banner background color and image"
+msgstr "Selecione a cor de fundo e a imagem do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:23
+msgid ""
+"Select banner background color and image. You can change this settings on "
+"individual page / post."
+msgstr ""
+"Selecione a cor de fundo e a imagem do banner. Você pode alterar essas "
+"configurações na página / postagem individual."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:176
+msgid "Select banner height."
+msgstr "Selecione altura do banner."
+
+#: inc/metabox-and-options/theme-options/banner-options.php:70
+msgid ""
+"Select banner height. You can change this settings on individual page / post."
+msgstr ""
+"Selecione altura do banner. Você pode alterar essas configurações na página "
+"/ postagem individual."
+
+#: inc/metabox-and-options/theme-options/banner-options.php:36
+msgid ""
+"Select banner text align. You can change this settings on individual page / "
+"post."
+msgstr ""
+"Selecione alinhar texto do banner. Você pode alterar essas configurações na "
+"página / postagem individual."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:23
+msgid "Select blog page layout."
+msgstr "Selecione layout da página do blog."
+
+#: inc/metabox-and-options/theme-options/page-options.php:29
+msgid ""
+"Select default sidebar for all pages. You can override this settings on "
+"individual page."
+msgstr ""
+"Selecione barra lateral padrão para todas as páginas. Você pode substituir "
+"essas configurações na página individual."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:31
+msgid ""
+"Select default sidebar for all posts. You can override this settings on "
+"individual post."
+msgstr ""
+"Selecione barra lateral padrão para todas as postagens. Você pode substituir "
+"essas configurações na postagem individual."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:153
+msgid "Select footer bottom area background color and image."
+msgstr "Selecione rodapé área inferior cor de fundo e imagem."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:105
+msgid "Select footer CTA area background color and image."
+msgstr "Selecione rodapé CTA área cor de fundo e imagem."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:191
+#: inc/metabox-and-options/metabox/common-metaboxes.php:198
+msgid "Select Footer Style"
+msgstr "Selecione O Estilo Do Rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:136
+msgid "Select footer widget area background color and image."
+msgstr "Selecione a cor e a imagem de fundo da área do widget de rodapé."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:60
+msgid "Select header style"
+msgstr "Selecione o estilo do cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:28
+msgid "Select layout"
+msgstr "Selecionar layout"
+
+#: inc/metabox-and-options/theme-options/header-options.php:48
+msgid "Select logo image size."
+msgstr "Selecione o tamanho da imagem do logotipo."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:166
+msgid "Select page banner text align."
+msgstr "Selecione alinhar texto do banner da página."
+
+#: inc/metabox-and-options/theme-options/page-options.php:19
+msgid "Select page layout."
+msgstr "Selecione layout da página."
+
+#: inc/metabox-and-options/theme-options/general-options.php:43
+msgid "Select preloader background color."
+msgstr "Selecione a cor de fundo do pré-carregador."
+
+#: inc/metabox-and-options/theme-options/typography-options.php:13
+msgid "Select primary ( body ) typography."
+msgstr "Selecione tipografia primária ( corpo)."
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:23
+msgid "Select search page layout."
+msgstr "Selecione Pesquisar layout da página."
+
+#: inc/metabox-and-options/theme-options/typography-options.php:33
+msgid "Select Secondary ( heading & bold ) typography."
+msgstr "Selecione a tipografia Secundária ( título e negrito)."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:37
+msgid "Select sidebar you want to show with this page."
+msgstr "Selecione a barra lateral que deseja mostrar com esta página."
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:20
+msgid "Select single post layout"
+msgstr "Selecionar layout de postagem única"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:25
+msgid ""
+"Select site default footer style. You can override this settings on "
+"individual page / Posts."
+msgstr ""
+"Selecione Estilo de rodapé padrão do site. Você pode substituir essas "
+"configurações em páginas / postagens individuais."
+
+#: inc/metabox-and-options/theme-options/header-options.php:27
+msgid ""
+"Select site default header style. You can override this settings on "
+"individual page / Posts."
+msgstr ""
+"Selecione Estilo de cabeçalho padrão do site. Você pode substituir essas "
+"configurações em páginas / postagens individuais."
+
+#: inc/metabox-and-options/theme-options/general-options.php:13
+msgid ""
+"Select theme primary color. Few colors not change from here. You can change "
+"them from individual Elementor widget."
+msgstr ""
+"Selecione a cor primária do tema. Poucas cores não mudam daqui. Você pode "
+"alterá-los a partir do widget Elementor individual."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:113
+msgid "Select widget area column number."
+msgstr "Selecione o número de colunas da área de widgets."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:6
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:74
+msgid ""
+"Show / Hide Post breadcrumb. You can change this settings on individual post."
+msgstr ""
+"Mostrar / Ocultar breadcrumb do Post. Você pode alterar essas configurações "
+"na postagem individual."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:86
+msgid "Show Author Name"
+msgstr "Mostrar Nome Do Autor"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:117
+msgid "Show Category Name"
+msgstr "Mostrar Nome Da Categoria"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:106
+msgid "Show Comment Number"
+msgstr "Mostrar Número Do Comentário"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:96
+msgid "Show Post Date"
+msgstr "Mostrar Data Do Post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:49
+msgid "Show Post Title On Banner?"
+msgstr "Mostrar Título Do Post No Banner?"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:52
+msgid ""
+"Show post title on single post banner area. Default title is \"Blog\" for "
+"all single post."
+msgstr ""
+"Mostrar título da postagem na área de banner de postagem única. O título "
+"padrão é \"Blog\" para todas as postagens individuais."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:128
+msgid "Show Read More Button"
+msgstr "Botão Mostrar Leia Mais"
+
+#: inc/widget-area-init.php:6
+#: inc/metabox-and-options/metabox/common-metaboxes.php:34
+#: inc/metabox-and-options/theme-options/single-post-options.php:27
+#: inc/metabox-and-options/theme-options/page-options.php:25
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:5
+msgid "Single Post / Post Details"
+msgstr "Postagem Única / Detalhes Da Postagem"
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada corresponde aos seus termos de pesquisa. Por favor, tente "
+"novamente com algumas palavras-chave diferentes."
+
+#. 1: list of tags.
+#: inc/template-functions.php:247
+msgid "Tags:"
+msgstr "Tags:"
+
+#: inc/admin/page-dashboard.php:25
+msgid "Theme Documentation"
+msgstr "Documentação Do Tema"
+
+#: inc/metabox-and-options/theme-options/theme-options.php:21
+msgid "Theme Options"
+msgstr "Opções De Tema"
+
+#: inc/admin/page-dashboard.php:39
+msgid "Theme Support"
+msgstr "Suporte Ao Tema"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:68
+msgid "Type blog banner title here."
+msgstr "Digite o título do banner do blog aqui."
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:139
+msgid "Type blog read more button here."
+msgstr "Digite o botão blog Leia mais aqui."
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:39
+msgid "Type error banner title here."
+msgstr "Digite o título do banner de erro aqui."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:54
+msgid "Type footer CTA description text here."
+msgstr "Digite o texto de descrição do CTA do rodapé aqui."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:42
+msgid "Type footer CTA title text here."
+msgstr "Digite o texto do título do CTA do rodapé aqui."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:160
+msgid "Type footer info left text here."
+msgstr "Digite footer info texto à esquerda aqui."
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:62
+msgid "Type not found text here."
+msgstr "Digite texto não encontrado aqui."
+
+#: inc/metabox-and-options/theme-options/search-page-options.php:57
+msgid "Type search placeholder here."
+msgstr "Digite search placeholder aqui."
+
+#: inc/metabox-and-options/theme-options/footer-options.php:171
+msgid "Type site copyright text here."
+msgstr "Digite o texto dos direitos autorais do site aqui."
+
+#: inc/metabox-and-options/theme-options/typography-options.php:4
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:50
+msgid "Upload error image"
+msgstr "Carregar imagem de erro"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:87
+msgid "Upload footer CTA image"
+msgstr "Carregar imagem CTA do rodapé"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:67
+msgid "Upload Gallery Images"
+msgstr "Carregar Imagens Da Galeria"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:70
+msgid "Upload gallery images from here"
+msgstr "Carregue imagens da galeria daqui"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:49
+#: inc/metabox-and-options/theme-options/footer-options.php:86
+msgid "Upload Image"
+msgstr "Carregar Imagem"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:69
+#: inc/metabox-and-options/theme-options/header-options.php:36
+msgid "Upload Logo"
+msgstr "Carregar Logo"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:70
+#: inc/metabox-and-options/theme-options/header-options.php:37
+msgid "Upload logo image"
+msgstr "Enviar imagem do logotipo"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:6
+msgid "Video Post Format Options"
+msgstr "Opções De Formato De Postagem De Vídeo"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:17
+msgid "Video URL"
+msgstr "URL do vídeo"
+
+#: inc/comment-template.php:27
+msgid "Website"
+msgstr "Site"
+
+#: inc/admin/pages.php:31
+msgid "Welcome"
+msgstr "Bem vindo"
+
+#: inc/admin/pages.php:31
+msgid "Welcome & Support"
+msgstr "Bem-Vindo E Suporte"
+
+#: inc/admin/page-dashboard.php:10
+msgid "Welcome to listihub!"
+msgstr "Bem-vindo ao listihub!"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:126
+msgid "Widget Area Background"
+msgstr "Fundo Da Área Do Widget"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:112
+msgid "Widget Column"
+msgstr "Coluna do widget"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:95
+#: inc/metabox-and-options/metabox/common-metaboxes.php:123
+#: inc/metabox-and-options/metabox/common-metaboxes.php:146
+#: inc/metabox-and-options/theme-options/search-page-options.php:31
+#: inc/metabox-and-options/theme-options/error-page-options.php:13
+#: inc/metabox-and-options/theme-options/error-page-options.php:69
+#: inc/metabox-and-options/theme-options/archive-page-options.php:30
+#: inc/metabox-and-options/theme-options/header-options.php:56
+#: inc/metabox-and-options/theme-options/header-options.php:83
+#: inc/metabox-and-options/theme-options/header-options.php:112
+#: inc/metabox-and-options/theme-options/general-options.php:32
+#: inc/metabox-and-options/theme-options/single-post-options.php:39
+#: inc/metabox-and-options/theme-options/single-post-options.php:50
+#: inc/metabox-and-options/theme-options/single-post-options.php:70
+#: inc/metabox-and-options/theme-options/single-post-options.php:81
+#: inc/metabox-and-options/theme-options/single-post-options.php:91
+#: inc/metabox-and-options/theme-options/single-post-options.php:101
+#: inc/metabox-and-options/theme-options/single-post-options.php:111
+#: inc/metabox-and-options/theme-options/single-post-options.php:121
+#: inc/metabox-and-options/theme-options/single-post-options.php:131
+#: inc/metabox-and-options/theme-options/blog-page-options.php:31
+#: inc/metabox-and-options/theme-options/blog-page-options.php:58
+#: inc/metabox-and-options/theme-options/blog-page-options.php:77
+#: inc/metabox-and-options/theme-options/blog-page-options.php:88
+#: inc/metabox-and-options/theme-options/blog-page-options.php:98
+#: inc/metabox-and-options/theme-options/blog-page-options.php:108
+#: inc/metabox-and-options/theme-options/blog-page-options.php:119
+#: inc/metabox-and-options/theme-options/blog-page-options.php:130
+#: inc/metabox-and-options/theme-options/footer-options.php:32
+#: inc/metabox-and-options/theme-options/footer-options.php:183
+#: inc/metabox-and-options/theme-options/banner-options.php:44
+#: inc/metabox-and-options/theme-options/banner-options.php:56
+msgid "Yes"
+msgstr "Sim"
+
+#: inc/admin/page-dashboard.php:29
+msgid ""
+"You can find everything about theme settings. See our online documentation."
+msgstr ""
+"Você pode encontrar tudo sobre as configurações do tema. Veja nossa "
+"documentação online."
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:80
+msgid "You can select a different menu for this page from here."
+msgstr ""
+"Você pode selecionar um menu diferente para esta página a partir daqui."
+
+#: inc/comment-template.php:45
+msgid "Your Comment*"
+msgstr "Seu Comentário*"

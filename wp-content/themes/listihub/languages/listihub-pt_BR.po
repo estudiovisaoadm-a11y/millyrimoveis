@@ -1,0 +1,895 @@
+# Copyright (C) 2024 Listihub
+# This file is distributed under the same license as the Listihub theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Listihub 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/listihub\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-01 17:00:00-03:00\n"
+"Last-Translator: Listihub Team\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: listihub\n"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenhum resultado encontrado"
+
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? Get started here."
+msgstr "Pronto para publicar sua primeira postagem? Comece aqui."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus termos de busca. Tente novamente com palavras-chave diferentes."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você procura. Talvez a busca possa ajudar."
+
+#: template-parts/content.php:66
+msgid "Continue reading "%s""
+msgstr "Continuar lendo \"%s\""
+
+#: template-parts/content.php:77 template-parts/content-page.php:19
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: 404.php:64
+msgid "Go Back Home"
+msgstr "Voltar para Home"
+
+#: comments.php:38
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: comments.php:44
+msgid "%s Comments"
+msgstr "%s Comentários"
+
+#: comments.php:61
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: inc/comment-template.php:9
+msgid "Name*"
+msgstr "Nome*"
+
+#: inc/comment-template.php:18
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/comment-template.php:27
+msgid "Website"
+msgstr "Website"
+
+#: inc/comment-template.php:45
+msgid "Your Comment*"
+msgstr "Seu comentário*"
+
+#: inc/comment-template.php:53
+msgid "Post Comment"
+msgstr "Enviar comentário"
+
+#: inc/comment-template.php:58
+msgid "All fields marked with an asterisk (*) are required"
+msgstr "Todos os campos marcados com asterisco (*) são obrigatórios"
+
+#: inc/comment-template.php:59
+msgid "Leave A Comment"
+msgstr "Deixe um comentário"
+
+#: inc/template-functions.php:86
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/template-functions.php:247
+msgid "Tags:"
+msgstr "Tags:"
+
+#: inc/template-functions.php:267
+msgid ", "
+msgstr ", "
+
+#: inc/template-functions.php:303
+msgid "Comment"
+msgstr "Comentário"
+
+#: inc/template-functions.php:303
+msgid "Comments"
+msgstr "Comentários"
+
+#: inc/widget-area-init.php:6
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/widget-area-init.php:8
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui."
+
+#: inc/widget-area-init.php:17
+msgid "Footer Widget"
+msgstr "Widget do Rodapé"
+
+#: inc/widget-area-init.php:19
+msgid "Add footer widgets here."
+msgstr "Adicione widgets de rodapé aqui."
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:9
+msgid "Ready to Start your business?"
+msgstr "Pronto para começar seu negócio?"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:13
+msgid "Haven't had a chance to explore the latest real estate offers?"
+msgstr "Não teve chance de explorar as últimas ofertas de imóveis?"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:17
+msgid "&copy; Listihub 2024 | All Right Reserved"
+msgstr "&copy; Listihub 2024 | Todos os direitos reservados"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:22
+msgid "Listihub | Developed by: e-plugins"
+msgstr "Listihub | Desenvolvido por: e-plugins"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:27
+msgid "Oops! Sorry, The page you are looking for no longer exists."
+msgstr "Oops! Desculpe, a página que você procura não existe mais."
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:30
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:32
+msgid "Read More"
+msgstr "Ler mais"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:33
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:34
+msgid "Search..."
+msgstr "Buscar..."
+
+#: inc/metabox-and-options/theme-options/theme-options-default.php:35
+msgid "Contact Us"
+msgstr "Fale Conosco"
+
+#: inc/admin/class-tgm-plugin-activation.php:230
+msgid "Install Required Plugins"
+msgstr "Instalar plugins necessários"
+
+#: inc/admin/class-tgm-plugin-activation.php:231
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/admin/class-tgm-plugin-activation.php:232
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: inc/admin/class-tgm-plugin-activation.php:233
+msgid "Updating Plugin: %s"
+msgstr "Atualizando plugin: %s"
+
+#: inc/admin/class-tgm-plugin-activation.php:234
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: inc/admin/class-tgm-plugin-activation.php:235
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para o instalador de plugins"
+
+#: inc/admin/class-tgm-plugin-activation.php:236
+msgid "Return to the Dashboard"
+msgstr "Voltar para o painel"
+
+#: inc/admin/class-tgm-plugin-activation.php:237
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: inc/admin/class-tgm-plugin-activation.php:238
+msgid "Dismiss this notice"
+msgstr "Dispensar este aviso"
+
+#: inc/admin/class-tgm-plugin-activation.php:239
+msgid "There are one or more required or recommended plugins to install or activate."
+msgstr "Há um ou mais plugins necessários ou recomendados para instalar ou ativar."
+
+#: inc/admin/class-tgm-plugin-activation.php:240
+msgid "Required"
+msgstr "Necessário"
+
+#: inc/admin/class-tgm-plugin-activation.php:241
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/admin/class-tgm-plugin-activation.php:242
+msgid "WordPress Repository"
+msgstr "Repositório WordPress"
+
+#: inc/admin/class-tgm-plugin-activation.php:243
+msgid "External Source"
+msgstr "Fonte externa"
+
+#: inc/admin/class-tgm-plugin-activation.php:244
+msgid "Pre-Packaged"
+msgstr "Pré-embalado"
+
+#: inc/admin/class-tgm-plugin-activation.php:245
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: inc/admin/class-tgm-plugin-activation.php:246
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: inc/admin/class-tgm-plugin-activation.php:247
+msgid "Active"
+msgstr "Ativo"
+
+#: inc/admin/class-tgm-plugin-activation.php:248
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#: inc/admin/pages.php:30
+msgid "listihub"
+msgstr "Listihub"
+
+#: inc/admin/pages.php:31
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: inc/admin/pages.php:31
+msgid "Welcome & Support"
+msgstr "Bem-vindo e Suporte"
+
+#: inc/admin/pages.php:51
+msgid "Import Demo"
+msgstr "Importar Demo"
+
+#: inc/admin/page-dashboard.php:10
+msgid "Welcome to listihub!"
+msgstr "Bem-vindo ao Listihub!"
+
+#: inc/admin/page-dashboard.php:11
+msgid "listihub is a directory listing WordPress theme"
+msgstr "Listihub é um tema WordPress de diretório"
+
+#: inc/admin/page-dashboard.php:25
+msgid "Theme Documentation"
+msgstr "Documentação do Tema"
+
+#: inc/admin/page-dashboard.php:29
+msgid "You can find everything about theme settings in our documentation."
+msgstr "Você pode encontrar tudo sobre configurações do tema em nossa documentação."
+
+#: inc/admin/page-dashboard.php:31
+msgid "Go to Documentation"
+msgstr "Ir para Documentação"
+
+#: inc/admin/page-dashboard.php:39
+msgid "Theme Support"
+msgstr "Suporte do Tema"
+
+#: inc/admin/page-dashboard.php:43
+msgid "Do you need help? Feel to free ask any question."
+msgstr "Precisa de ajuda? Sinta-se livre para perguntar."
+
+#: inc/admin/page-dashboard.php:45
+msgid "Go to Support Forum"
+msgstr "Ir para Fórum de Suporte"
+
+#: inc/admin/page-tgmpa.php:8
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/page-tgmpa.php:15
+msgid "Elementor Page Builder"
+msgstr "Elementor Page Builder"
+
+#: inc/admin/page-tgmpa.php:23
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr "MC4WP: Mailchimp para WordPress"
+
+#: inc/admin/page-tgmpa.php:31
+msgid "One Click Demo Import"
+msgstr "Importação de Demo em um Clique"
+
+#: inc/admin/page-tgmpa.php:38
+msgid "Listihub Core"
+msgstr "Listihub Core"
+
+#: inc/admin/page-tgmpa.php:46
+msgid "ListFolioPro"
+msgstr "ListFolioPro"
+
+#: inc/demo-content/import-demo-content.php:25
+msgid "Home One"
+msgstr "Home Um"
+
+#: inc/demo-content/import-demo-content.php:48
+msgid "Home Two"
+msgstr "Home Dois"
+
+#: inc/demo-content/import-demo-content.php:42
+msgid "Please click on the Import button only once and wait for the process to complete."
+msgstr "Por favor, clique no botão Importar apenas uma vez e aguarde a conclusão do processo."
+
+#: inc/demo-content/import-demo-content.php:112
+msgid "Listihub Main Menu"
+msgstr "Menu Principal Listihub"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:5
+msgid "Single Post / Post Details"
+msgstr "Post Individual / Detalhes do Post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:13
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:15
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:16
+msgid "Full Width"
+msgstr "Largura total"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:17
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:27
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:37
+msgid "Hide Post Banner Title"
+msgstr "Ocultar título do banner do post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:39
+msgid "Yes"
+msgstr "Sim"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:40
+msgid "No"
+msgstr "Não"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:49
+msgid "Show Post Title On Banner?"
+msgstr "Mostrar título do post no banner?"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:60
+msgid "Banner Default Title"
+msgstr "Título padrão do banner"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:68
+msgid "Hide Post Breadcrumb"
+msgstr "Ocultar breadcrumb do post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:80
+msgid "Post Author Name"
+msgstr "Nome do autor do post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:90
+msgid "Post Date"
+msgstr "Data do post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:100
+msgid "Post Comments Number"
+msgstr "Número de comentários"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:110
+msgid "Post Categories"
+msgstr "Categorias do post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:120
+msgid "Post Tags"
+msgstr "Tags do post"
+
+#: inc/metabox-and-options/theme-options/single-post-options.php:130
+msgid "Post Share icons"
+msgstr "Ícones de compartilhamento"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:5
+msgid "Blog Page"
+msgstr "Página do Blog"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:13
+msgid "Blog Layout"
+msgstr "Layout do Blog"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:18
+msgid "Grid Full"
+msgstr "Grade completa"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:19
+msgid "Grid With Left Sidebar"
+msgstr "Grade com barra lateral esquerda"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:20
+msgid "Grid With Right Sidebar"
+msgstr "Grade com barra lateral direita"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:29
+msgid "Enable Blog Banner"
+msgstr "Ativar banner do blog"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:39
+msgid "Banner Background"
+msgstr "Fundo do banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:56
+msgid "Enable Banner Title"
+msgstr "Ativar título do banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:67
+msgid "Banner Title"
+msgstr "Título do banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:75
+msgid "Enable Banner Breadcrumb"
+msgstr "Ativar breadcrumb do banner"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:86
+msgid "Show Author Name"
+msgstr "Mostrar nome do autor"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:96
+msgid "Show Post Date"
+msgstr "Mostrar data do post"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:106
+msgid "Show Comment Number"
+msgstr "Mostrar número de comentários"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:116
+msgid "Show Category Name"
+msgstr "Mostrar nome da categoria"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:128
+msgid "Show Read More Button"
+msgstr "Mostrar botão Ler mais"
+
+#: inc/metabox-and-options/theme-options/blog-page-options.php:138
+msgid "Read More Button Text"
+msgstr "Texto do botão Ler mais"
+
+#: inc/metabox-and-options/theme-options/header-options.php:4
+msgid "Header Settings"
+msgstr "Configurações do cabeçalho"
+
+#: inc/metabox-and-options/theme-options/header-options.php:12
+msgid "Header General"
+msgstr "Cabeçalho geral"
+
+#: inc/metabox-and-options/theme-options/header-options.php:19
+msgid "Header Style"
+msgstr "Estilo do cabeçalho"
+
+#: inc/metabox-and-options/theme-options/header-options.php:33
+msgid "Header Logo"
+msgstr "Logo do cabeçalho"
+
+#: inc/metabox-and-options/theme-options/header-options.php:44
+msgid "Logo Image Size"
+msgstr "Tamanho da imagem do logo"
+
+#: inc/metabox-and-options/theme-options/header-options.php:54
+msgid "Enable Sticky Header"
+msgstr "Ativar cabeçalho fixo"
+
+#: inc/metabox-and-options/theme-options/header-options.php:67
+msgid "Header Buttons"
+msgstr "Botões do cabeçalho"
+
+#: inc/metabox-and-options/theme-options/header-options.php:81
+msgid "Enable CTA Button"
+msgstr "Ativar botão CTA"
+
+#: inc/metabox-and-options/theme-options/header-options.php:92
+msgid "CTA Button Text"
+msgstr "Texto do botão CTA"
+
+#: inc/metabox-and-options/theme-options/header-options.php:93
+msgid "Post Your Ad"
+msgstr "Anuncie aqui"
+
+#: inc/metabox-and-options/theme-options/header-options.php:101
+msgid "CTA Button URL"
+msgstr "URL do botão CTA"
+
+#: inc/metabox-and-options/theme-options/header-options.php:110
+msgid "Enable Login Button"
+msgstr "Ativar botão de login"
+
+#: inc/metabox-and-options/theme-options/header-options.php:121
+msgid "Login Button URL"
+msgstr "URL do botão de login"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:5
+msgid "Footer Settings"
+msgstr "Configurações do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:12
+msgid "Footer Options"
+msgstr "Opções do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:19
+msgid "Footer Style"
+msgstr "Estilo do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:31
+msgid "Enable Footer CTA"
+msgstr "Ativar CTA do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:42
+msgid "Footer CTA Title"
+msgstr "Título do CTA do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:54
+msgid "Footer CTA Description"
+msgstr "Descrição do CTA do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:66
+msgid "CTA Button Text"
+msgstr "Texto do botão CTA"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:67
+msgid "Post Your Ad Now"
+msgstr "Anuncie agora"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:74
+msgid "CTA Button URL"
+msgstr "URL do botão CTA"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:83
+msgid "CTA Image"
+msgstr "Imagem do CTA"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:96
+msgid "CTA Area Background"
+msgstr "Fundo da área CTA"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:113
+msgid "Widget Column"
+msgstr "Coluna de widget"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:115
+msgid "1 Column"
+msgstr "1 coluna"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:116
+msgid "2 Column"
+msgstr "2 colunas"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:117
+msgid "3 Column"
+msgstr "3 colunas"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:118
+msgid "4 Column"
+msgstr "4 colunas"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:127
+msgid "Widget Area Background"
+msgstr "Fundo da área de widget"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:143
+msgid "Bottom Area Background"
+msgstr "Fundo da área inferior"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:159
+msgid "Footer Info Left Text"
+msgstr "Texto esquerdo de info do rodapé"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:170
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/metabox-and-options/theme-options/footer-options.php:181
+msgid "Enable Go Top Button"
+msgstr "Ativar botão voltar ao topo"
+
+#: inc/metabox-and-options/theme-options/general-options.php:5
+msgid "General Options"
+msgstr "Opções gerais"
+
+#: inc/metabox-and-options/theme-options/general-options.php:12
+msgid "Primary Color"
+msgstr "Cor primária"
+
+#: inc/metabox-and-options/theme-options/general-options.php:24
+msgid "Second Color"
+msgstr "Cor secundária"
+
+#: inc/metabox-and-options/theme-options/general-options.php:34
+msgid "Content Background Color"
+msgstr "Cor de fundo do conteúdo"
+
+#: inc/metabox-and-options/theme-options/general-options.php:45
+msgid "Enable Pre Loader"
+msgstr "Ativar pré-carregador"
+
+#: inc/metabox-and-options/theme-options/general-options.php:56
+msgid "Preloader Background Color"
+msgstr "Cor de fundo do pré-carregador"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:5
+msgid "Banner Options"
+msgstr "Opções do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:13
+msgid "Banner Background"
+msgstr "Fundo do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:29
+msgid "Banner Text Align"
+msgstr "Alinhamento do texto do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:31
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:32
+msgid "Center"
+msgstr "Centro"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:33
+msgid "Right"
+msgstr "Direita"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:42
+msgid "Hide Banner Title"
+msgstr "Ocultar título do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:54
+msgid "Hide Banner Breadcrumb"
+msgstr "Ocultar breadcrumb do banner"
+
+#: inc/metabox-and-options/theme-options/banner-options.php:66
+msgid "Banner Height"
+msgstr "Altura do banner"
+
+#: inc/metabox-and-options/theme-options/typography-options.php:4
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/metabox-and-options/theme-options/typography-options.php:12
+msgid "Body Font"
+msgstr "Fonte do corpo"
+
+#: inc/metabox-and-options/theme-options/typography-options.php:32
+msgid "Heading Font"
+msgstr "Fonte dos títulos"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:4
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:11
+msgid "Enable Error Banner"
+msgstr "Ativar banner de erro"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:38
+msgid "Error Banner Title"
+msgstr "Título do banner de erro"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:46
+msgid "Error Image"
+msgstr "Imagem de erro"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:57
+msgid "Not Found Text"
+msgstr "Texto de não encontrado"
+
+#: inc/metabox-and-options/theme-options/error-page-options.php:68
+msgid "Enable Go Back Home Button"
+msgstr "Ativar botão voltar para home"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:6
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:13
+msgid "Layout Settings"
+msgstr "Configurações de layout"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:22
+msgctxt "Default layout"
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:23
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:24
+msgid "Full Width"
+msgstr "Largura total"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:25
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:34
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:44
+msgid "Header Settings"
+msgstr "Configurações do cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:51
+msgid "Header Style One"
+msgstr "Estilo de cabeçalho 1"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:52
+msgid "Header Style Two"
+msgstr "Estilo de cabeçalho 2"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:53
+msgid "Header Style Three"
+msgstr "Estilo de cabeçalho 3"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:54
+msgid "Header Style Four"
+msgstr "Estilo de cabeçalho 4"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:66
+msgid "Header Logo"
+msgstr "Logo do cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:77
+msgid "Header Menu"
+msgstr "Menu do cabeçalho"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:87
+msgid "Banner Settings"
+msgstr "Configurações do banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:93
+msgid "Enable Banner"
+msgstr "Ativar banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:103
+msgid "Banner Background"
+msgstr "Fundo do banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:120
+msgid "Hide Title"
+msgstr "Ocultar título"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:143
+msgid "Hide Breadcrumb"
+msgstr "Ocultar breadcrumb"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:157
+msgid "Banner Text Align"
+msgstr "Alinhamento do texto"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:172
+msgid "Banner Height"
+msgstr "Altura do banner"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:184
+msgid "Footer Settings"
+msgstr "Configurações do rodapé"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:191
+msgid "Footer Style One"
+msgstr "Estilo de rodapé 1"
+
+#: inc/metabox-and-options/metabox/common-metaboxes.php:192
+msgid "Footer Style Two"
+msgstr "Estilo de rodapé 2"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:6
+msgid "Video Post Format Options"
+msgstr "Opções de formato de post de vídeo"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:17
+msgid "Video URL"
+msgstr "URL do vídeo"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:28
+msgid "Audio Post Format Options"
+msgstr "Opções de formato de post de áudio"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:43
+msgid "Audio Embed Code"
+msgstr "Código de incorporação de áudio"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:55
+msgid "Gallery Post Format Options"
+msgstr "Opções de formato de post de galeria"
+
+#: inc/metabox-and-options/metabox/post-format-metaboxes.php:66
+msgid "Gallery Images"
+msgstr "Imagens da galeria"
+
+#: Navigation
+msgid "Previous"
+msgstr "Anterior"
+
+#: Navigation
+msgid "Next"
+msgstr "Próximo"
+
+#: Archive
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: Archive
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j \"de\" F \"de\" Y"
+
+#: Archive
+msgid "Asides"
+msgstr "Asides"
+
+#: Archive
+msgid "Galleries"
+msgstr "Galerias"
+
+#: Archive
+msgid "Images"
+msgstr "Imagens"
+
+#: Archive
+msgid "Videos"
+msgstr "Vídeos"
+
+#: Archive
+msgid "Quotes"
+msgstr "Citações"
+
+#: Archive
+msgid "Links"
+msgstr "Links"
+
+#: Archive
+msgid "Statuses"
+msgstr "Status"
+
+#: Archive
+msgid "Audio"
+msgstr "Áudio"
+
+#: Archive
+msgid "Chats"
+msgstr "Chats"
+
+#: Search
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: Search
+msgctxt "placeholder"
+msgid "Search …"
+msgstr "Buscar …"
+
+#: Search
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"

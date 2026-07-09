@@ -1,0 +1,1613 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HiJobs Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-18 06:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: hijobs-core"
+
+#: elementor-widgets/job-category-widget.php:87
+msgid " Jobs Open"
+msgstr ""
+
+#: elementor-widgets/jobs-by-location-widget.php:159
+msgid " Listing"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:105
+#: elementor-widgets/icon-box-one-widget.php:120
+#: elementor-widgets/icon-box-one-widget.php:135
+#: elementor-widgets/brand-image-widget.php:180
+#: elementor-widgets/brand-image-widget.php:203
+#: elementor-widgets/brand-image-widget.php:226
+#: elementor-widgets/brand-image-widget.php:249
+#: elementor-widgets/testimonials-widgets.php:148
+#: elementor-widgets/testimonials-widgets.php:165
+#: elementor-widgets/testimonials-widgets.php:182
+#: elementor-widgets/job-photo-gallery-widget.php:90
+#: elementor-widgets/job-photo-gallery-widget.php:107
+#: elementor-widgets/job-photo-gallery-widget.php:124
+#: elementor-widgets/job-photo-gallery-widget.php:141
+#: elementor-widgets/job-grid-wiew-widget.php:135
+#: elementor-widgets/job-grid-wiew-widget.php:150
+#: elementor-widgets/job-grid-wiew-widget.php:165
+#: elementor-widgets/how-it-works-widget.php:143
+#: elementor-widgets/how-it-works-widget.php:158
+#: elementor-widgets/how-it-works-widget.php:173
+#: elementor-widgets/how-it-works-widget.php:188
+#: elementor-widgets/recent-posts-widget.php:96
+#: elementor-widgets/recent-posts-widget.php:111
+#: elementor-widgets/counter-up-widget.php:105
+#: elementor-widgets/counter-up-widget.php:120
+#: elementor-widgets/counter-up-widget.php:135
+#: elementor-widgets/counter-up-widget.php:150
+#: elementor-widgets/jobs-by-location-widget.php:74
+#: elementor-widgets/jobs-by-location-widget.php:89
+#: elementor-widgets/jobs-by-location-widget.php:104
+#: elementor-widgets/jobs-by-location-widget.php:119
+#: elementor-widgets/recent-job-widget.php:86
+#: elementor-widgets/recent-job-widget.php:101
+#: elementor-widgets/recent-job-widget.php:116
+msgid "1 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:189
+#: elementor-widgets/brand-image-widget.php:212
+#: elementor-widgets/brand-image-widget.php:235
+msgid "10 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:153
+msgid "10 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:190
+#: elementor-widgets/brand-image-widget.php:213
+#: elementor-widgets/brand-image-widget.php:236
+msgid "11 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:191
+#: elementor-widgets/brand-image-widget.php:214
+#: elementor-widgets/brand-image-widget.php:237
+msgid "12 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:106
+#: elementor-widgets/icon-box-one-widget.php:121
+#: elementor-widgets/icon-box-one-widget.php:136
+#: elementor-widgets/brand-image-widget.php:181
+#: elementor-widgets/brand-image-widget.php:204
+#: elementor-widgets/brand-image-widget.php:227
+#: elementor-widgets/brand-image-widget.php:250
+#: elementor-widgets/testimonials-widgets.php:149
+#: elementor-widgets/testimonials-widgets.php:166
+#: elementor-widgets/testimonials-widgets.php:183
+#: elementor-widgets/job-photo-gallery-widget.php:91
+#: elementor-widgets/job-photo-gallery-widget.php:108
+#: elementor-widgets/job-photo-gallery-widget.php:125
+#: elementor-widgets/job-photo-gallery-widget.php:142
+#: elementor-widgets/job-grid-wiew-widget.php:136
+#: elementor-widgets/job-grid-wiew-widget.php:151
+#: elementor-widgets/job-grid-wiew-widget.php:166
+#: elementor-widgets/how-it-works-widget.php:144
+#: elementor-widgets/how-it-works-widget.php:159
+#: elementor-widgets/how-it-works-widget.php:174
+#: elementor-widgets/how-it-works-widget.php:189
+#: elementor-widgets/recent-posts-widget.php:97
+#: elementor-widgets/recent-posts-widget.php:112
+#: elementor-widgets/counter-up-widget.php:106
+#: elementor-widgets/counter-up-widget.php:121
+#: elementor-widgets/counter-up-widget.php:136
+#: elementor-widgets/counter-up-widget.php:151
+#: elementor-widgets/jobs-by-location-widget.php:75
+#: elementor-widgets/jobs-by-location-widget.php:90
+#: elementor-widgets/jobs-by-location-widget.php:105
+#: elementor-widgets/jobs-by-location-widget.php:120
+#: elementor-widgets/recent-job-widget.php:87
+#: elementor-widgets/recent-job-widget.php:102
+#: elementor-widgets/recent-job-widget.php:117
+msgid "2 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:145
+msgid "2 seconds"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:107
+#: elementor-widgets/icon-box-one-widget.php:122
+#: elementor-widgets/icon-box-one-widget.php:137
+#: elementor-widgets/brand-image-widget.php:182
+#: elementor-widgets/brand-image-widget.php:205
+#: elementor-widgets/brand-image-widget.php:228
+#: elementor-widgets/brand-image-widget.php:251
+#: elementor-widgets/testimonials-widgets.php:150
+#: elementor-widgets/testimonials-widgets.php:167
+#: elementor-widgets/testimonials-widgets.php:184
+#: elementor-widgets/job-photo-gallery-widget.php:92
+#: elementor-widgets/job-photo-gallery-widget.php:109
+#: elementor-widgets/job-photo-gallery-widget.php:126
+#: elementor-widgets/job-photo-gallery-widget.php:143
+#: elementor-widgets/job-grid-wiew-widget.php:137
+#: elementor-widgets/job-grid-wiew-widget.php:152
+#: elementor-widgets/job-grid-wiew-widget.php:167
+#: elementor-widgets/how-it-works-widget.php:145
+#: elementor-widgets/how-it-works-widget.php:160
+#: elementor-widgets/how-it-works-widget.php:175
+#: elementor-widgets/how-it-works-widget.php:190
+#: elementor-widgets/recent-posts-widget.php:98
+#: elementor-widgets/recent-posts-widget.php:113
+#: elementor-widgets/counter-up-widget.php:107
+#: elementor-widgets/counter-up-widget.php:122
+#: elementor-widgets/counter-up-widget.php:137
+#: elementor-widgets/counter-up-widget.php:152
+#: elementor-widgets/jobs-by-location-widget.php:76
+#: elementor-widgets/jobs-by-location-widget.php:91
+#: elementor-widgets/jobs-by-location-widget.php:106
+#: elementor-widgets/jobs-by-location-widget.php:121
+#: elementor-widgets/recent-job-widget.php:88
+#: elementor-widgets/recent-job-widget.php:103
+#: elementor-widgets/recent-job-widget.php:118
+msgid "3 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:146
+msgid "3 seconds"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:108
+#: elementor-widgets/icon-box-one-widget.php:123
+#: elementor-widgets/icon-box-one-widget.php:138
+#: elementor-widgets/brand-image-widget.php:183
+#: elementor-widgets/brand-image-widget.php:206
+#: elementor-widgets/brand-image-widget.php:229
+#: elementor-widgets/brand-image-widget.php:252
+#: elementor-widgets/testimonials-widgets.php:151
+#: elementor-widgets/testimonials-widgets.php:168
+#: elementor-widgets/testimonials-widgets.php:185
+#: elementor-widgets/job-photo-gallery-widget.php:93
+#: elementor-widgets/job-photo-gallery-widget.php:110
+#: elementor-widgets/job-photo-gallery-widget.php:127
+#: elementor-widgets/job-photo-gallery-widget.php:144
+#: elementor-widgets/job-grid-wiew-widget.php:138
+#: elementor-widgets/job-grid-wiew-widget.php:153
+#: elementor-widgets/job-grid-wiew-widget.php:168
+#: elementor-widgets/how-it-works-widget.php:146
+#: elementor-widgets/how-it-works-widget.php:161
+#: elementor-widgets/how-it-works-widget.php:176
+#: elementor-widgets/recent-posts-widget.php:99
+#: elementor-widgets/recent-posts-widget.php:114
+#: elementor-widgets/counter-up-widget.php:108
+#: elementor-widgets/counter-up-widget.php:123
+#: elementor-widgets/counter-up-widget.php:138
+#: elementor-widgets/jobs-by-location-widget.php:77
+#: elementor-widgets/jobs-by-location-widget.php:92
+#: elementor-widgets/jobs-by-location-widget.php:107
+#: elementor-widgets/recent-job-widget.php:89
+#: elementor-widgets/recent-job-widget.php:104
+#: elementor-widgets/recent-job-widget.php:119
+msgid "4 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:147
+msgid "4 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:184
+#: elementor-widgets/brand-image-widget.php:207
+#: elementor-widgets/brand-image-widget.php:230
+msgid "5 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:148
+msgid "5 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:185
+#: elementor-widgets/brand-image-widget.php:208
+#: elementor-widgets/brand-image-widget.php:231
+msgid "6 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:149
+msgid "6 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:186
+#: elementor-widgets/brand-image-widget.php:209
+#: elementor-widgets/brand-image-widget.php:232
+msgid "7 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:150
+msgid "7 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:187
+#: elementor-widgets/brand-image-widget.php:210
+#: elementor-widgets/brand-image-widget.php:233
+msgid "8 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:151
+msgid "8 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:188
+#: elementor-widgets/brand-image-widget.php:211
+#: elementor-widgets/brand-image-widget.php:234
+msgid "9 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:152
+msgid "9 seconds"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:25
+#: elementor-widgets/accordion-two-widget.php:86
+#: elementor-widgets/accordion-widget.php:11
+#: elementor-widgets/accordion-widget.php:25
+#: elementor-widgets/accordion-widget.php:86
+msgid "Accordion"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:45
+#: elementor-widgets/accordion-widget.php:45
+msgid "Accordion Content"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:55
+#: elementor-widgets/accordion-widget.php:55
+msgid "Accordion Lists"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:35
+#: elementor-widgets/accordion-widget.php:35
+msgid "Accordion Title"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:11
+msgid "Accordion Two"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:29
+msgid "Add / edit info text from here."
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:105
+msgid "Add Images"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:31
+msgid "Add Info"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:54
+msgid "Add New Profile"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:64
+#: elementor-widgets/home-banner-two-widget.php:84
+#: elementor-widgets/home-banner-one-widget.php:84
+#: elementor-widgets/job-post-filter-widget.php:63
+msgid "Age Range"
+msgstr ""
+
+#: elementor-widgets/text-button-widget.php:126
+#: elementor-widgets/button-widget.php:324
+msgid "Alignment"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:129
+#: elementor-widgets/testimonials-widgets.php:121
+#: elementor-widgets/job-photo-gallery-widget.php:55
+msgid "Autoplay"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:140
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:170
+#: elementor-widgets/contact-form-7-widget.php:326
+#: elementor-widgets/contact-form-7-widget.php:360
+#: elementor-widgets/cta-widget.php:204 elementor-widgets/cta-widget.php:247
+#: elementor-widgets/cta-widget.php:302 elementor-widgets/cta-widget.php:345
+#: elementor-widgets/cta-three-widget.php:216
+#: elementor-widgets/cta-three-widget.php:259
+#: elementor-widgets/cta-three-widget.php:314
+#: elementor-widgets/cta-three-widget.php:357
+#: elementor-widgets/button-widget.php:83
+#: elementor-widgets/button-widget.php:126
+#: elementor-widgets/button-widget.php:221
+#: elementor-widgets/button-widget.php:264
+msgid "Background Color"
+msgstr ""
+
+#: elementor-widgets/home-banner-one-widget.php:28
+msgid "Banner Left Options"
+msgstr ""
+
+#: elementor-widgets/home-banner-two-widget.php:28
+msgid "Banner Options"
+msgstr ""
+
+#: elementor-widgets/home-banner-one-widget.php:177
+msgid "Banner Right Options"
+msgstr ""
+
+#: elementor-widgets/home-banner-one-widget.php:235
+msgid "Banner Wrapper Options"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:215 elementor-widgets/cta-widget.php:258
+#: elementor-widgets/cta-widget.php:313 elementor-widgets/cta-widget.php:356
+#: elementor-widgets/cta-three-widget.php:227
+#: elementor-widgets/cta-three-widget.php:270
+#: elementor-widgets/cta-three-widget.php:325
+#: elementor-widgets/cta-three-widget.php:368
+#: elementor-widgets/button-widget.php:94
+#: elementor-widgets/button-widget.php:137
+#: elementor-widgets/button-widget.php:232
+#: elementor-widgets/button-widget.php:275
+msgid "Border Color"
+msgstr ""
+
+#: elementor-widgets/how-it-works-widget.php:113
+msgid "Box List"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:13
+msgid "Brand Image Slider"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:54
+msgid "Brand Name"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:12
+msgid "Button"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:122
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:133
+msgid "Button Color"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:84
+msgid "Button Link"
+msgstr ""
+
+#: elementor-widgets/text-button-widget.php:30
+#: elementor-widgets/text-button-widget.php:65
+#: elementor-widgets/button-widget.php:30
+#: elementor-widgets/button-widget.php:65
+msgid "Button One"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:102
+msgid "Button Size"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:56
+#: elementor-widgets/pricing-table-widget.php:74
+#: elementor-widgets/cta-three-widget.php:68
+#: elementor-widgets/recent-posts-widget.php:72
+msgid "Button Text"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:165
+#: elementor-widgets/button-widget.php:200
+msgid "Button Two"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:81
+#: elementor-widgets/cta-three-widget.php:93
+msgid "Button Two Text"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:91
+#: elementor-widgets/cta-three-widget.php:103
+msgid "Button Two URL"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:66
+#: elementor-widgets/cta-three-widget.php:78
+msgid "Button URL"
+msgstr ""
+
+#: elementor-widgets/candidate-directory-widget.php:10
+msgid "Candidate Directory"
+msgstr ""
+
+#: elementor-widgets/candidate-directory-widget.php:27
+msgid "Candidate Options"
+msgstr ""
+
+#: elementor-widgets/job-of-the-day-widget.php:38
+#: elementor-widgets/recent-posts-widget.php:50
+#: elementor-widgets/job-category-widget.php:36
+#: elementor-widgets/recent-job-widget.php:50
+msgid "Categories"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:244
+#: elementor-widgets/text-button-widget.php:137
+#: elementor-widgets/button-widget.php:335
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:30
+msgid "Click \"Add Info\" button to add new Information."
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:91
+#: elementor-widgets/contact-form-7-widget.php:136
+#: elementor-widgets/section-title-widget.php:91
+#: elementor-widgets/section-title-widget.php:136
+#: elementor-widgets/section-title-widget.php:181
+msgid "Color"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:93
+msgid "Column"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:143
+#: elementor-widgets/job-photo-gallery-widget.php:85
+msgid "Column On Desktop"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:160
+#: elementor-widgets/job-photo-gallery-widget.php:102
+msgid "Column On iPad Pro"
+msgstr ""
+
+#: elementor-widgets/job-photo-gallery-widget.php:136
+msgid "Column On Mobile"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:177
+#: elementor-widgets/job-photo-gallery-widget.php:119
+msgid "Column On Tablet"
+msgstr ""
+
+#: elementor-widgets/how-it-works-widget.php:131
+#: elementor-widgets/counter-up-widget.php:93
+#: elementor-widgets/jobs-by-location-widget.php:62
+#: elementor-widgets/recent-job-widget.php:74
+msgid "Column Settings"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:92
+msgid "Columns On Desktop"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:107
+msgid "Columns On Tablet"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:29
+msgid "Contact Form"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:13
+msgid "Contact Form7"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:12
+#: elementor-widgets/contact-info-widget.php:31
+msgid "Contact Info"
+msgstr ""
+
+#: elementor-widgets/job-description-tab.php:48
+msgid "Content Text"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:74
+msgid "Count Box List"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:54
+msgid "Count Number"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:44
+msgid "Count Title"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:12
+#: elementor-widgets/counter-up-widget.php:34
+msgid "Counter Up"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:111
+#: elementor-widgets/cta-three-widget.php:123
+msgid "CTA"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:11
+msgid "CTA One"
+msgstr ""
+
+#: elementor-widgets/cta-two-widget.php:27 elementor-widgets/cta-widget.php:28
+#: elementor-widgets/cta-three-widget.php:28
+msgid "CTA Options"
+msgstr ""
+
+#: elementor-widgets/cta-three-widget.php:11
+msgid "CTA Three"
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:31
+msgid "CTA Title"
+msgstr ""
+
+#: elementor-widgets/cta-two-widget.php:11
+msgid "CTA Two"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:67
+#: elementor-widgets/home-banner-two-widget.php:87
+#: elementor-widgets/home-banner-one-widget.php:87
+#: elementor-widgets/job-post-filter-widget.php:66
+msgid "Dadeline"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:83
+#: elementor-widgets/home-banner-two-widget.php:103
+#: elementor-widgets/home-banner-one-widget.php:103
+msgid "Date"
+msgstr ""
+
+#: elementor-widgets/job-of-the-day-widget.php:215
+#: elementor-widgets/related-jobs-widget.php:244
+#: elementor-widgets/job-grid-wiew-widget.php:378
+#: elementor-widgets/job-short-details-widget.php:222
+#: elementor-widgets/job-post-filter-widget.php:379
+#: elementor-widgets/recent-job-widget.php:249
+msgid "Deadline:"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:307
+#: elementor-widgets/cta-widget.php:197 elementor-widgets/cta-widget.php:295
+#: elementor-widgets/text-button-widget.php:76
+#: elementor-widgets/cta-three-widget.php:209
+#: elementor-widgets/cta-three-widget.php:307
+msgid "Default"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:62
+#: elementor-widgets/testimonials-widgets.php:60
+#: elementor-widgets/section-title-widget.php:59
+#: elementor-widgets/section-title-widget.php:161
+#: elementor-widgets/cta-widget.php:46
+#: elementor-widgets/contact-info-widget.php:52
+#: elementor-widgets/how-it-works-widget.php:48
+#: elementor-widgets/pricing-table-widget.php:44
+#: elementor-widgets/cta-three-widget.php:58
+#: inc/widgets/about-company-widget.php:40
+msgid "Description"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:130
+#: elementor-widgets/cta-three-widget.php:142
+msgid "Description Color"
+msgstr ""
+
+#: inc/widgets/subscribe-form-widget.php:21
+msgid "Description Text"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:50
+msgid "Designation"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:101
+#: elementor-widgets/job-grid-wiew-widget.php:131
+#: elementor-widgets/how-it-works-widget.php:139
+#: elementor-widgets/counter-up-widget.php:101
+#: elementor-widgets/jobs-by-location-widget.php:70
+#: elementor-widgets/recent-job-widget.php:82
+msgid "Desktop"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:176
+msgid "Desktop Column"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:80
+#: elementor-widgets/home-banner-two-widget.php:100
+#: elementor-widgets/home-banner-one-widget.php:100
+#: elementor-widgets/job-post-filter-widget.php:78
+msgid "DropDown"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:64
+msgid "Duration"
+msgstr ""
+
+#. Author of the plugin
+msgid "e-plugins"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:60
+#: elementor-widgets/home-banner-two-widget.php:80
+#: elementor-widgets/home-banner-one-widget.php:80
+#: elementor-widgets/job-post-filter-widget.php:59
+msgid "Educational Requirement"
+msgstr ""
+
+#: elementor-widgets/employer-profile-widget.php:10
+msgid "Employer Directory One"
+msgstr ""
+
+#: elementor-widgets/employer-directory-widget.php:10
+msgid "Employer Directory Two"
+msgstr ""
+
+#: elementor-widgets/employer-profile-widget.php:27
+#: elementor-widgets/employer-directory-widget.php:27
+msgid "Employer Options"
+msgstr ""
+
+#: elementor-widgets/related-jobs-widget.php:91
+#: elementor-widgets/job-short-details-widget.php:69
+msgid "Enable Deadline"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:290
+msgid "Enable Grayscale"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:40
+msgid "Enable Image Link"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:27
+msgid "Enable Lightbox Slider"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:60
+msgid "Enable Overlay"
+msgstr ""
+
+#: elementor-widgets/related-jobs-widget.php:80
+#: elementor-widgets/job-short-details-widget.php:58
+msgid "Enable Review"
+msgstr ""
+
+#: elementor-widgets/related-jobs-widget.php:58
+#: elementor-widgets/job-short-details-widget.php:36
+msgid "Enable Save Button"
+msgstr ""
+
+#: elementor-widgets/related-jobs-widget.php:69
+#: elementor-widgets/job-short-details-widget.php:47
+msgid "Enable Tags"
+msgstr ""
+
+#: elementor-widgets/recent-job-widget.php:61
+msgid "Exclude Job"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:61
+msgid "Exclude Posts"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:61
+#: elementor-widgets/home-banner-two-widget.php:81
+#: elementor-widgets/home-banner-one-widget.php:81
+#: elementor-widgets/job-post-filter-widget.php:60
+msgid "Experience"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:58
+#: elementor-widgets/home-banner-two-widget.php:78
+#: elementor-widgets/home-banner-one-widget.php:78
+#: elementor-widgets/job-post-filter-widget.php:57
+msgid "Experience Range"
+msgstr ""
+
+#: inc/post-share.php:18
+msgid "Facebook"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:215
+msgid "Field Background Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:228
+msgid "Field Border Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:241
+msgid "Field Border Color On Focus"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:207
+msgid "Field Style"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:256
+msgid "Field Text Color"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:75
+#: elementor-widgets/home-banner-two-widget.php:95
+#: elementor-widgets/home-banner-one-widget.php:95
+#: elementor-widgets/job-post-filter-widget.php:74
+msgid "Form Field Type"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:92
+#: elementor-widgets/home-banner-two-widget.php:112
+#: elementor-widgets/home-banner-one-widget.php:112
+#: elementor-widgets/job-post-filter-widget.php:88
+msgid "Form Fields"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:21
+msgid "Gallery"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:56
+#: elementor-widgets/home-banner-two-widget.php:76
+#: elementor-widgets/home-banner-one-widget.php:76
+#: elementor-widgets/job-post-filter-widget.php:55
+msgid "Gender"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:81
+msgid "Height"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:7
+msgid "HiJobs : About Company Widget "
+msgstr ""
+
+#: inc/widgets/contact-form-widget.php:5
+msgid "hijobs : Contact Form Widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:7
+msgid "hijobs : Contact Info Widget "
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:7
+msgid "hijobs : CTA Button"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:7
+msgid "hijobs : Gallery Widget "
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:7
+msgid "HiJobs : Navigation Menu"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:8
+msgid "hijobs : Recent Posts"
+msgstr ""
+
+#: inc/widgets/subscribe-form-widget.php:5
+msgid "HiJobs : Subscribe Form"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:9
+msgid "HiJobs about company widget."
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:9
+msgid "hijobs call to action widget."
+msgstr ""
+
+#: inc/widgets/contact-form-widget.php:6
+msgid "hijobs contact form widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:9
+msgid "hijobs contact info widget."
+msgstr ""
+
+#. Name of the plugin
+msgid "HiJobs Core"
+msgstr ""
+
+#: elementor-widgets/custom-elementor-widgets.php:114
+msgid "HiJobs Elements"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:9
+msgid "hijobs navigation menu."
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:9
+msgid "hijobs photo gallery widget."
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:9
+msgid "hijobs recent posts widget"
+msgstr ""
+
+#: inc/widgets/subscribe-form-widget.php:7
+msgid "HiJobs Subscribe Form widget."
+msgstr ""
+
+#: elementor-widgets/home-banner-one-widget.php:11
+msgid "Home Banner One"
+msgstr ""
+
+#: elementor-widgets/home-banner-two-widget.php:11
+msgid "Home Banner Two"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:341
+#: elementor-widgets/cta-widget.php:240 elementor-widgets/cta-widget.php:338
+#: elementor-widgets/text-button-widget.php:97
+#: elementor-widgets/cta-three-widget.php:252
+#: elementor-widgets/cta-three-widget.php:350
+#: elementor-widgets/button-widget.php:119
+#: elementor-widgets/button-widget.php:257
+msgid "Hover"
+msgstr ""
+
+#: elementor-widgets/how-it-works-widget.php:11
+#: elementor-widgets/how-it-works-widget.php:28
+msgid "How It Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://e-plugins.com/"
+msgstr ""
+
+#: elementor-widgets/cta-widget.php:68 elementor-widgets/cta-widget.php:93
+#: elementor-widgets/pricing-table-widget.php:86
+#: elementor-widgets/pricing-table-widget.php:137
+#: elementor-widgets/text-button-widget.php:50
+#: elementor-widgets/cta-three-widget.php:80
+#: elementor-widgets/cta-three-widget.php:105
+#: elementor-widgets/button-widget.php:50
+#: elementor-widgets/button-widget.php:185
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:67
+#: elementor-widgets/how-it-works-widget.php:63
+#: elementor-widgets/pricing-table-widget.php:121
+#: inc/widgets/about-company-widget.php:66
+#: inc/widgets/contact-info-widget.php:46
+msgid "Icon"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:28
+msgid "Icon Box"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:11
+msgid "Icon Box One"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:62
+#: elementor-widgets/how-it-works-widget.php:58
+msgid "Icon Type"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:64
+#: elementor-widgets/contact-info-widget.php:71
+#: elementor-widgets/contact-info-widget.php:100
+#: elementor-widgets/how-it-works-widget.php:67
+#: elementor-widgets/how-it-works-widget.php:96
+#: elementor-widgets/video-popup-widget.php:38
+#: inc/widgets/about-company-widget.php:21 inc/widgets/cta-button-widget.php:21
+msgid "Image"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:76
+msgid "Image Link"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:31
+msgid "Image Url"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:32
+#: elementor-widgets/brand-image-widget.php:91
+#: elementor-widgets/hijobs-images-one-widget.php:28
+#: elementor-widgets/hijobs-image-two-widget.php:28
+msgid "Images"
+msgstr ""
+
+#: elementor-widgets/hijobs-images-one-widget.php:11
+msgid "Images One"
+msgstr ""
+
+#: elementor-widgets/hijobs-image-two-widget.php:11
+msgid "Images Two"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:118
+msgid "Info List"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:28
+#: inc/widgets/contact-info-widget.php:39
+msgid "Info Text"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:131
+#: elementor-widgets/job-grid-wiew-widget.php:161
+#: elementor-widgets/how-it-works-widget.php:169
+#: elementor-widgets/counter-up-widget.php:131
+#: elementor-widgets/jobs-by-location-widget.php:100
+#: elementor-widgets/recent-job-widget.php:112
+msgid "iPad"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:116
+#: elementor-widgets/job-grid-wiew-widget.php:146
+#: elementor-widgets/how-it-works-widget.php:154
+#: elementor-widgets/counter-up-widget.php:116
+#: elementor-widgets/jobs-by-location-widget.php:85
+#: elementor-widgets/recent-job-widget.php:97
+msgid "iPad Pro"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:199
+msgid "iPad Pro Column"
+msgstr ""
+
+#: elementor-widgets/job-banner-image.php:11
+#: elementor-widgets/job-banner-image.php:28
+msgid "Job Banner"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:53
+#: elementor-widgets/home-banner-two-widget.php:73
+#: elementor-widgets/home-banner-one-widget.php:73
+#: elementor-widgets/job-post-filter-widget.php:52
+msgid "Job Categories"
+msgstr ""
+
+#: elementor-widgets/job-description-tab.php:11
+msgid "Job Description"
+msgstr ""
+
+#: elementor-widgets/job-description-tab.php:28
+msgid "Job Description Tabs"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:65
+#: elementor-widgets/home-banner-two-widget.php:85
+#: elementor-widgets/home-banner-one-widget.php:85
+#: elementor-widgets/job-post-filter-widget.php:64
+msgid "Job Level"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:55
+#: elementor-widgets/home-banner-two-widget.php:75
+#: elementor-widgets/home-banner-one-widget.php:75
+#: elementor-widgets/job-post-filter-widget.php:54
+#: elementor-widgets/jobs-by-location-widget.php:11
+msgid "Job Locations"
+msgstr ""
+
+#: elementor-widgets/job-of-the-day-widget.php:13
+msgid "Job Of The Day"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:119
+#: elementor-widgets/job-post-filter-widget.php:115
+msgid "Job Per PAge"
+msgstr ""
+
+#: elementor-widgets/job-photo-gallery-widget.php:11
+msgid "Job Photo Gallery"
+msgstr ""
+
+#: elementor-widgets/job-short-details-widget.php:11
+#: elementor-widgets/job-short-details-widget.php:28
+msgid "Job Short Details"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:54
+#: elementor-widgets/home-banner-two-widget.php:74
+#: elementor-widgets/home-banner-one-widget.php:74
+#: elementor-widgets/job-post-filter-widget.php:53
+msgid "Job Tags"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:66
+#: elementor-widgets/home-banner-two-widget.php:86
+#: elementor-widgets/home-banner-one-widget.php:86
+#: elementor-widgets/job-post-filter-widget.php:65
+msgid "Job Type"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:11
+msgid "Jobs Grid View"
+msgstr ""
+
+#: elementor-widgets/job-post-filter-widget.php:11
+msgid "Jobs With Filter"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:239
+#: elementor-widgets/text-button-widget.php:132
+#: elementor-widgets/button-widget.php:330
+msgid "Left"
+msgstr ""
+
+#: elementor-widgets/why-choose-us-widget.php:28
+msgid "Left Content"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:28
+#: elementor-widgets/job-post-filter-widget.php:28
+msgid "Left Filter Options"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:135
+msgid "Link"
+msgstr ""
+
+#: inc/post-share.php:30
+msgid "Linkedin"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:150
+msgid "List"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:113
+#: elementor-widgets/pricing-table-widget.php:155
+msgid "List Item Text"
+msgstr ""
+
+#: elementor-widgets/jobs-by-location-widget.php:36
+msgid "Locations"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:81
+msgid "Logo Image"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:165
+msgid "Loop"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:102
+#: elementor-widgets/contact-form-7-widget.php:147
+#: elementor-widgets/section-title-widget.php:102
+#: elementor-widgets/section-title-widget.php:147
+#: elementor-widgets/section-title-widget.php:192
+#: elementor-widgets/section-title-widget.php:266
+#: elementor-widgets/video-popup-widget.php:158
+#: elementor-widgets/button-widget.php:299
+msgid "Margin"
+msgstr ""
+
+#: elementor-widgets/job-description-tab.php:38
+msgid "Menu Text"
+msgstr ""
+
+#: elementor-widgets/how-it-works-widget.php:184
+#: elementor-widgets/counter-up-widget.php:146
+#: elementor-widgets/jobs-by-location-widget.php:115
+msgid "Mobile"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:245
+msgid "Mobile Column"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:81
+#: elementor-widgets/home-banner-two-widget.php:101
+#: elementor-widgets/home-banner-one-widget.php:101
+#: elementor-widgets/job-post-filter-widget.php:79
+msgid "Multi Checkbox"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:82
+#: elementor-widgets/home-banner-two-widget.php:102
+#: elementor-widgets/home-banner-one-widget.php:102
+msgid "Multi Checkbox Group"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:40
+msgid "Name"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:132
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:59
+#: elementor-widgets/home-banner-two-widget.php:79
+#: elementor-widgets/home-banner-one-widget.php:79
+#: elementor-widgets/job-post-filter-widget.php:58
+msgid "Near To Me"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:43
+#: elementor-widgets/brand-image-widget.php:293
+#: elementor-widgets/related-jobs-widget.php:61
+#: elementor-widgets/related-jobs-widget.php:72
+#: elementor-widgets/related-jobs-widget.php:83
+#: elementor-widgets/related-jobs-widget.php:94
+#: elementor-widgets/job-short-details-widget.php:39
+#: elementor-widgets/job-short-details-widget.php:50
+#: elementor-widgets/job-short-details-widget.php:61
+#: elementor-widgets/job-short-details-widget.php:72
+#: elementor-widgets/video-popup-widget.php:63
+#: inc/widgets/gallery-widget.php:30
+msgid "No"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:76
+#: elementor-widgets/button-widget.php:214
+msgid "Normal"
+msgstr ""
+
+#: elementor-widgets/recent-job-widget.php:38
+msgid "Number Of Job To Show"
+msgstr ""
+
+#: elementor-widgets/job-of-the-day-widget.php:62
+#: elementor-widgets/related-jobs-widget.php:46
+#: elementor-widgets/recent-posts-widget.php:38
+msgid "Number Of Post To Show"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:70
+#: elementor-widgets/job-of-the-day-widget.php:49
+#: elementor-widgets/accordion-widget.php:70
+#: elementor-widgets/job-description-tab.php:73
+msgid "Open By Default"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:144
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:69
+msgid "Person Image"
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:37
+msgid "Phone Number"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:84
+msgid "Post Column & Layout"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:75
+msgid "Post Count:"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:63
+#: elementor-widgets/home-banner-two-widget.php:83
+#: elementor-widgets/home-banner-one-widget.php:83
+#: elementor-widgets/job-post-filter-widget.php:62
+msgid "Post Date"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:30
+msgid "Post Settings"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:54
+msgid "Price"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:101
+msgid "Pricing Features"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:26
+msgid "Pricing Options"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:11
+msgid "Pricing Table"
+msgstr ""
+
+#: elementor-widgets/recent-job-widget.php:13
+msgid "Recent Job"
+msgstr ""
+
+#: elementor-widgets/recent-job-widget.php:30
+msgid "Recent Jobs"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:12
+msgid "Recent Posts"
+msgstr ""
+
+#: elementor-widgets/related-jobs-widget.php:28
+msgid "Related Job"
+msgstr ""
+
+#: elementor-widgets/related-jobs-widget.php:11
+msgid "Related Jobs"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:249
+#: elementor-widgets/text-button-widget.php:142
+#: elementor-widgets/button-widget.php:340
+msgid "Right"
+msgstr ""
+
+#: elementor-widgets/cta-two-widget.php:47
+msgid "Right Content"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:62
+#: elementor-widgets/home-banner-two-widget.php:82
+#: elementor-widgets/home-banner-one-widget.php:82
+#: elementor-widgets/job-post-filter-widget.php:61
+msgid "Salary"
+msgstr ""
+
+#: elementor-widgets/job-post-filter-widget.php:48
+msgid "Search By"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:12
+#: elementor-widgets/section-title-widget.php:30
+msgid "Section Title"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:58
+msgid "Select Contact Form"
+msgstr ""
+
+#: inc/widgets/contact-form-widget.php:45
+#: inc/widgets/contact-form-widget.php:49
+msgid "Select Form"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:48
+#: elementor-widgets/home-banner-two-widget.php:68
+#: elementor-widgets/home-banner-one-widget.php:68
+msgid "Select Form Field"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:38
+#: elementor-widgets/why-choose-us-widget.php:136
+#: elementor-widgets/contact-info-widget.php:83
+#: elementor-widgets/how-it-works-widget.php:79
+msgid "Select Icon"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:67
+#: inc/widgets/contact-info-widget.php:47
+msgid "Select icon"
+msgstr ""
+
+#: elementor-widgets/jobs-by-location-widget.php:28
+msgid "Select Locations"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:21
+msgid "Short Description"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:57
+#: elementor-widgets/home-banner-two-widget.php:77
+#: elementor-widgets/home-banner-one-widget.php:77
+#: elementor-widgets/job-post-filter-widget.php:56
+msgid "Short Listing"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:152
+msgid "Show Comment Count"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:134
+msgid "Show Date"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:121
+#: elementor-widgets/testimonials-widgets.php:113
+#: elementor-widgets/job-photo-gallery-widget.php:47
+msgid "Slider Options"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:303
+msgid "Slider Style"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:73
+msgid "Social Profile URL"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:53
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:60
+msgid "Social Site Name"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:295
+msgid "Submit Button"
+msgstr ""
+
+#: inc/widgets/subscribe-form-widget.php:29
+msgid "Subscribe Form Shortcode"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:37
+#: elementor-widgets/contact-form-7-widget.php:71
+#: elementor-widgets/why-choose-us-widget.php:93
+#: elementor-widgets/section-title-widget.php:38
+#: elementor-widgets/section-title-widget.php:71
+msgid "Subtitle"
+msgstr ""
+
+#: elementor-widgets/job-description-tab.php:57
+msgid "Tab List"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:222
+msgid "Tablet Column"
+msgstr ""
+
+#: elementor-widgets/job-of-the-day-widget.php:30
+msgid "Tabs"
+msgstr ""
+
+#: elementor-widgets/team-member-widget.php:11
+msgid "Team Member"
+msgstr ""
+
+#: elementor-widgets/team-member-widget.php:28
+msgid "Team Member Options"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:12
+#: elementor-widgets/testimonials-widgets.php:30
+msgid "Testimonials"
+msgstr ""
+
+#: elementor-widgets/testimonials-widgets.php:93
+msgid "Testimonials List"
+msgstr ""
+
+#: elementor-widgets/job-grid-wiew-widget.php:79
+#: elementor-widgets/pricing-table-widget.php:111
+#: elementor-widgets/home-banner-two-widget.php:99
+#: elementor-widgets/home-banner-one-widget.php:99
+#: elementor-widgets/text-button-widget.php:38
+#: elementor-widgets/button-widget.php:38
+#: elementor-widgets/button-widget.php:173
+msgid "Text"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:233
+msgid "Text Align"
+msgstr ""
+
+#: elementor-widgets/text-button-widget.php:12
+msgid "Text Button"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:314
+#: elementor-widgets/contact-form-7-widget.php:348
+#: elementor-widgets/cta-widget.php:226 elementor-widgets/cta-widget.php:269
+#: elementor-widgets/cta-widget.php:324 elementor-widgets/cta-widget.php:367
+#: elementor-widgets/text-button-widget.php:83
+#: elementor-widgets/text-button-widget.php:104
+#: elementor-widgets/cta-three-widget.php:238
+#: elementor-widgets/cta-three-widget.php:281
+#: elementor-widgets/cta-three-widget.php:336
+#: elementor-widgets/cta-three-widget.php:379
+#: elementor-widgets/button-widget.php:105
+#: elementor-widgets/button-widget.php:148
+#: elementor-widgets/button-widget.php:243
+#: elementor-widgets/button-widget.php:286
+msgid "Text Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:273
+msgid "Textarea Height"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:57
+msgid "This field is optional."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is required for HiJobs WordPress theme"
+msgstr ""
+
+#: elementor-widgets/icon-box-one-widget.php:52
+#: elementor-widgets/contact-form-7-widget.php:47
+#: elementor-widgets/contact-form-7-widget.php:116
+#: elementor-widgets/why-choose-us-widget.php:103
+#: elementor-widgets/job-grid-wiew-widget.php:52
+#: elementor-widgets/section-title-widget.php:48
+#: elementor-widgets/section-title-widget.php:116
+#: elementor-widgets/cta-widget.php:36
+#: elementor-widgets/contact-info-widget.php:41
+#: elementor-widgets/how-it-works-widget.php:38
+#: elementor-widgets/pricing-table-widget.php:34
+#: elementor-widgets/home-banner-two-widget.php:72
+#: elementor-widgets/home-banner-one-widget.php:72
+#: elementor-widgets/cta-three-widget.php:48
+#: inc/widgets/contact-form-widget.php:38
+#: inc/widgets/custom-navigation-widget.php:15
+#: inc/widgets/about-company-widget.php:15
+#: inc/widgets/about-company-widget.php:47 inc/widgets/gallery-widget.php:15
+#: inc/widgets/contact-info-widget.php:15
+#: inc/widgets/subscribe-form-widget.php:13
+#: inc/widgets/cta-button-widget.php:15
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:62
+msgid "Title :"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:115
+#: elementor-widgets/accordion-widget.php:115
+msgid "Title Active Color"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:104
+#: elementor-widgets/brand-image-widget.php:311
+#: elementor-widgets/accordion-widget.php:104
+#: elementor-widgets/cta-widget.php:119
+#: elementor-widgets/cta-three-widget.php:131
+msgid "Title Color"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:96
+#: elementor-widgets/accordion-widget.php:96
+msgid "Title Typography"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:122
+msgid "Title Word Count"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:69
+msgid "Title Word Count :"
+msgstr ""
+
+#: elementor-widgets/job-category-widget.php:87
+msgid "Total "
+msgstr ""
+
+#: inc/post-share.php:24
+msgid "Twitter"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:39
+#: elementor-widgets/accordion-widget.php:39
+msgid "Type Accordion Title Here"
+msgstr ""
+
+#: inc/widgets/subscribe-form-widget.php:22
+msgid "Type description text here."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:40
+msgid "Type info text here."
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:83
+#: elementor-widgets/contact-form-7-widget.php:128
+#: elementor-widgets/section-title-widget.php:83
+#: elementor-widgets/section-title-widget.php:128
+#: elementor-widgets/section-title-widget.php:173
+msgid "Typography"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:24 inc/widgets/cta-button-widget.php:24
+msgid "Upload Image"
+msgstr ""
+
+#: elementor-widgets/text-button-widget.php:48
+#: elementor-widgets/button-widget.php:48
+#: elementor-widgets/button-widget.php:183
+msgid "URL"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:51
+#: elementor-widgets/why-choose-us-widget.php:107
+#: elementor-widgets/section-title-widget.php:52
+msgid "Use H1 - H6 for title."
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:279
+msgid "Useful for different height's image."
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:12
+#: elementor-widgets/video-popup-widget.php:30
+#: elementor-widgets/video-popup-widget.php:73
+msgid "Video Popup"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:50
+msgid "Video URL"
+msgstr ""
+
+#: elementor-widgets/employer-directory-widget.php:150
+msgid "View Company Profile"
+msgstr ""
+
+#: elementor-widgets/accordion-two-widget.php:77
+#: elementor-widgets/accordion-widget.php:77
+msgid "Which accordion you want to open by default."
+msgstr ""
+
+#: elementor-widgets/job-of-the-day-widget.php:55
+#: elementor-widgets/job-description-tab.php:79
+msgid "Which tab you want to open by default."
+msgstr ""
+
+#: elementor-widgets/why-choose-us-widget.php:11
+msgid "Why Choose Us"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:214
+msgid "Width (%)"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:262
+#: elementor-widgets/contact-form-7-widget.php:162
+#: elementor-widgets/section-title-widget.php:206
+#: elementor-widgets/text-button-widget.php:118
+#: elementor-widgets/button-widget.php:316
+msgid "Wrapper"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:270
+msgid "Wrapper Height"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:181
+#: elementor-widgets/text-button-widget.php:159
+#: elementor-widgets/button-widget.php:357
+msgid "Wrapper Margin"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-widget.php:193
+msgid "Wrapper Padding"
+msgstr ""
+
+#: elementor-widgets/brand-image-widget.php:42
+#: elementor-widgets/brand-image-widget.php:292
+#: elementor-widgets/related-jobs-widget.php:60
+#: elementor-widgets/related-jobs-widget.php:71
+#: elementor-widgets/related-jobs-widget.php:82
+#: elementor-widgets/related-jobs-widget.php:93
+#: elementor-widgets/job-short-details-widget.php:38
+#: elementor-widgets/job-short-details-widget.php:49
+#: elementor-widgets/job-short-details-widget.php:60
+#: elementor-widgets/job-short-details-widget.php:71
+#: elementor-widgets/video-popup-widget.php:62
+#: inc/widgets/gallery-widget.php:29
+msgid "Yes"
+msgstr ""
+
+#: inc/post-share.php:14
+msgid "You can share this post!"
+msgstr ""
