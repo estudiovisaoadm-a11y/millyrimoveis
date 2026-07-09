@@ -1,0 +1,133 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum PropertyType {
+  BUY
+  RENT
+}
+
+enum PropertyCategory {
+  HOUSE
+  APARTMENT
+  LAND
+  COMMERCIAL
+}
+
+enum PropertyStatus {
+  AVAILABLE
+  SOLD
+  RENTED
+}
+
+model User {
+  id        String   @id @default(cuid())
+  name      String?
+  email     String   @unique
+  password  String?
+  image     String?
+  role      String   @default("CLIENT")
+  favorites Favorite[]
+  history   ViewHistory[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Property {
+  id            String         @id @default(cuid())
+  title         String
+  slug          String         @unique
+  description   String
+  price         Int
+  type          PropertyType
+  category      PropertyCategory
+  bedrooms      Int
+  bathrooms     Int
+  area          Float
+  parking       Int
+  address       String
+  city          String
+  region        String
+  neighborhood  String
+  latitude      Float?
+  longitude     Float?
+  images        String[]
+  featured      Boolean        @default(false)
+  status        PropertyStatus @default(AVAILABLE)
+  amenities     String[]
+  condominiumId String?
+  condominium   Condominium?   @relation(fields: [condominiumId], references: [id])
+  favorites     Favorite[]
+  history       ViewHistory[]
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+}
+
+model Condominium {
+  id            String     @id @default(cuid())
+  name          String
+  slug          String     @unique
+  description   String
+  history       String?
+  infrastructure String[]
+  security      String[]
+  distances     Json?
+  averagePrice  Int?
+  priceHistory  Json?
+  images        String[]
+  video         String?
+  mapUrl        String?
+  amenities     String[]
+  properties    Property[]
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+}
+
+model BlogPost {
+  id        String   @id @default(cuid())
+  title     String
+  slug      String   @unique
+  excerpt   String
+  content   String
+  category  String
+  image     String
+  author    String
+  publishedAt DateTime @default(now())
+  readTime  Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Contact {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  phone     String?
+  message   String
+  propertyId String?
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Favorite {
+  id         String   @id @default(cuid())
+  userId     String
+  propertyId String
+  user       User     @relation(fields: [userId], references: [id])
+  property   Property @relation(fields: [propertyId], references: [id])
+  createdAt  DateTime @default(now())
+}
+
+model ViewHistory {
+  id         String   @id @default(cuid())
+  userId     String
+  propertyId String
+  user       User     @relation(fields: [userId], references: [id])
+  property   Property @relation(fields: [propertyId], references: [id])
+  createdAt  DateTime @default(now())
+}
