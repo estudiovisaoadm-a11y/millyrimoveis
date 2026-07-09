@@ -160,6 +160,95 @@ function millyr_option($key, $default = '') {
     return function_exists('listihub_option') ? listihub_option($key, $default) : $default;
 }
 
+add_action('after_switch_theme', 'millyr_create_pages');
+add_action('admin_init', 'millyr_create_pages');
+
+function millyr_create_pages() {
+    if (get_option('millyr_pages_created')) return;
+
+    $pages = [
+        'quem-somos'  => ['title' => 'Quem Somos',  'template' => 'page-templates/quem-somos.php',  'content' => ''],
+        'comprar'     => ['title' => 'Comprar',     'template' => 'page-templates/imoveis.php',     'content' => 'Encontre o imóvel perfeito para comprar em Brasília.'],
+        'alugar'      => ['title' => 'Alugar',      'template' => 'page-templates/imoveis.php',     'content' => 'As melhores opções de aluguel em Brasília.'],
+        'lancamentos' => ['title' => 'Lançamentos', 'template' => 'page-templates/lancamentos.php', 'content' => ''],
+        'condominios' => ['title' => 'Condomínios', 'template' => 'page-templates/condominios.php', 'content' => ''],
+        'regioes'     => ['title' => 'Regiões',     'template' => 'page-templates/regioes.php',     'content' => ''],
+        'revista'     => ['title' => 'Revista',     'template' => 'page-templates/revista.php',     'content' => ''],
+        'investidores'=> ['title' => 'Investidores','template' => 'page-templates/investidores.php','content' => ''],
+        'servicos'    => ['title' => 'Serviços',    'template' => 'page-templates/servicos.php',   'content' => ''],
+        'contato'     => ['title' => 'Contato',     'template' => 'page-templates/contato.php',    'content' => ''],
+    ];
+
+    $page_ids = [];
+    foreach ($pages as $slug => $data) {
+        $existing = get_page_by_path($slug);
+        if ($existing) {
+            $page_ids[$slug] = $existing->ID;
+            continue;
+        }
+        $id = wp_insert_post([
+            'post_title'   => $data['title'],
+            'post_name'    => $slug,
+            'post_content' => $data['content'],
+            'post_status'  => 'publish',
+            'post_type'    => 'page',
+            'page_template'=> $data['template'],
+        ]);
+        if ($id && !is_wp_error($id)) $page_ids[$slug] = $id;
+    }
+
+    $menu_name = 'Main Menu';
+    $locations = get_nav_menu_locations();
+    if (!has_nav_menu('primary')) {
+        $menu_id = wp_create_nav_menu($menu_name);
+        if (!is_wp_error($menu_id)) {
+            $menu_order = 1;
+            $menu_items = [
+                'Home'     => home_url('/'),
+                'Comprar'  => $page_ids['comprar'] ?? 0,
+                'Alugar'   => $page_ids['alugar'] ?? 0,
+                'Lançamentos' => $page_ids['lancamentos'] ?? 0,
+                'Regiões'  => $page_ids['regioes'] ?? 0,
+                'Revista'  => $page_ids['revista'] ?? 0,
+                'Serviços' => $page_ids['servicos'] ?? 0,
+                'Contato'  => $page_ids['contato'] ?? 0,
+            ];
+            foreach ($menu_items as $label => $target) {
+                if (is_numeric($target) && $target > 0) {
+                    wp_update_nav_menu_item($menu_id, 0, [
+                        'menu-item-title'     => $label,
+                        'menu-item-object-id' => $target,
+                        'menu-item-object'    => 'page',
+                        'menu-item-type'      => 'post_type',
+                        'menu-item-status'    => 'publish',
+                        'menu-item-position'  => $menu_order++,
+                    ]);
+                } else {
+                    wp_update_nav_menu_item($menu_id, 0, [
+                        'menu-item-title'     => $label,
+                        'menu-item-url'       => $target,
+                        'menu-item-type'      => 'custom',
+                        'menu-item-status'    => 'publish',
+                        'menu-item-position'  => $menu_order++,
+                    ]);
+                }
+            }
+            set_theme_mod('nav_menu_locations', ['primary' => $menu_id, 'footer' => $menu_id]);
+        }
+    }
+
+    update_option('millyr_pages_created', true);
+}
+
+add_action('init', 'millyr_rewrite_flush_check');
+
+function millyr_rewrite_flush_check() {
+    if (!get_option('millyr_rewrite_flushed')) {
+        flush_rewrite_rules();
+        update_option('millyr_rewrite_flushed', true);
+    }
+}
+
 add_action('admin_post_nopriv_millyr_contact', 'millyr_handle_contact');
 add_action('admin_post_millyr_contact', 'millyr_handle_contact');
 
