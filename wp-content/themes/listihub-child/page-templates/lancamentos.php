@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Lançamentos <span class="text-gold">Exclusivos</span></h1>
+        <h1>Lançamentos <span class="text-accent">Exclusivos</span></h1>
         <p>Os mais novos empreendimentos de alto padrão em Brasília.</p>
     </div>
 </section>

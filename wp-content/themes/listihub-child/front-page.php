@@ -64,7 +64,7 @@
 <section class="section">
     <div class="container">
         <div class="text-center" style="margin-bottom:48px;">
-            <h2 class="section-title">Imóveis em <span class="text-gold">Destaque</span></h2>
+            <h2 class="section-title">Imóveis em <span class="text-accent">Destaque</span></h2>
             <p class="section-subtitle">Selecionamos as melhores propriedades para você</p>
         </div>
 
@@ -132,7 +132,7 @@
 <section class="section section-light">
     <div class="container">
         <div class="text-center" style="margin-bottom:48px;">
-            <h2 class="section-title">Regiões <span class="text-gold">Exclusivas</span></h2>
+            <h2 class="section-title">Regiões <span class="text-accent">Exclusivas</span></h2>
             <p class="section-subtitle">As regiões mais valorizadas de Brasília</p>
         </div>
 
@@ -166,7 +166,7 @@
 <section class="section">
     <div class="container">
         <div class="text-center" style="margin-bottom:48px;">
-            <h2 class="section-title">Qualidade de <span class="text-gold">Vida</span></h2>
+            <h2 class="section-title">Qualidade de <span class="text-accent">Vida</span></h2>
             <p class="section-subtitle">Por que escolher Brasília para viver?</p>
         </div>
 

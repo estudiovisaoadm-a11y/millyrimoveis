@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Revista <span class="text-gold">MillyR</span></h1>
+        <h1>Revista <span class="text-accent">MillyR</span></h1>
         <p>Conteúdo exclusivo sobre mercado imobiliário, tendências e lifestyle em Brasília.</p>
     </div>
 </section>

@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Nossos <span class="text-gold">Serviços</span></h1>
+        <h1>Nossos <span class="text-accent">Serviços</span></h1>
         <p>Soluções completas em consultoria imobiliária de alto padrão.</p>
     </div>
 </section>

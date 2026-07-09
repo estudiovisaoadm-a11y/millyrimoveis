@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Condomínios de <span class="text-gold">Alto Padrão</span></h1>
+        <h1>Condomínios de <span class="text-accent">Alto Padrão</span></h1>
         <p>Os melhores condomínios fechados de Brasília.</p>
     </div>
 </section>

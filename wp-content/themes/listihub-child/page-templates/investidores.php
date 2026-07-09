@@ -3,14 +3,14 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Para <span class="text-gold">Investidores</span></h1>
+        <h1>Para <span class="text-accent">Investidores</span></h1>
         <p>Oportunidades de investimento imobiliário em Brasília com retorno garantido.</p>
     </div>
 </section>
 <section class="section page-content">
     <div class="container">
         <div style="max-width:800px;margin:0 auto;">
-            <h2>Por que investir em <span class="text-gold">Brasília</span>?</h2>
+            <h2>Por que investir em <span class="text-accent">Brasília</span>?</h2>
             <p>Brasília é a terceira cidade mais rica do Brasil e oferece um mercado imobiliário estável e em constante valorização. Com a maior renda per capita do país, a capital federal atrai investidores de todo o mundo.</p>
 
             <div class="about-stats">
@@ -32,7 +32,7 @@ get_header(); ?>
                 </div>
             </div>
 
-            <h2>Nossos <span class="text-gold">Serviços</span> para Investidores</h2>
+            <h2>Nossos <span class="text-accent">Serviços</span> para Investidores</h2>
             <ul>
                 <li>Análise de viabilidade de investimento</li>
                 <li>Gestão de carteira imobiliária</li>

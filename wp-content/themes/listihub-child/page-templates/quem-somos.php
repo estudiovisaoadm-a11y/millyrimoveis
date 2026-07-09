@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Quem <span class="text-gold">Somos</span></h1>
+        <h1>Quem <span class="text-accent">Somos</span></h1>
         <p>Consultoria imobiliária de alto padrão — há mais de 15 anos realizando sonhos em Brasília.</p>
     </div>
 </section>
@@ -14,7 +14,7 @@ get_header(); ?>
                 <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c" alt="MillyR Imóveis">
             </div>
             <div class="about-text">
-                <h2>Nossa <span class="text-gold">História</span></h2>
+                <h2>Nossa <span class="text-accent">História</span></h2>
                 <p>Fundada há mais de 15 anos, a MillyR Imóveis nasceu da paixão por conectar pessoas ao lar dos seus sonhos. Desde o início, nosso propósito foi oferecer uma experiência diferenciada no mercado imobiliário de Brasília.</p>
                 <p>Com sede no coração do Lago Sul, nos tornamos referência em imóveis de alto padrão nas regiões mais nobres do Distrito Federal. Nossa equipe de consultores altamente especializados oferece atendimento personalizado e assessoria completa em cada etapa do processo.</p>
                 <p>Hoje, somos mais de 50 profissionais dedicados a transformar o sonho da casa própria em realidade, com transparência, ética e excelência.</p>
@@ -45,7 +45,7 @@ get_header(); ?>
 </section>
 <section class="section section-light">
     <div class="container">
-        <h2 class="section-title text-center">Nossa <span class="text-gold">Equipe</span></h2>
+        <h2 class="section-title text-center">Nossa <span class="text-accent">Equipe</span></h2>
         <p class="section-subtitle">Profissionais dedicados a realizar seus sonhos</p>
         <div class="team-grid">
             <div class="team-card">

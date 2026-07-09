@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Fale <span class="text-gold">Conosco</span></h1>
+        <h1>Fale <span class="text-accent">Conosco</span></h1>
         <p>Estamos prontos para atender você. Entre em contato conosco.</p>
     </div>
 </section>
@@ -11,7 +11,7 @@ get_header(); ?>
     <div class="container">
         <div class="contact-grid">
             <div>
-                <h2 style="margin-top:0;">Envie sua <span class="text-gold">Mensagem</span></h2>
+                <h2 style="margin-top:0;">Envie sua <span class="text-accent">Mensagem</span></h2>
                 <p style="margin-bottom:32px;">Preencha o formulário abaixo e nossa equipe entrará em contato em até 24 horas.</p>
                 <form method="post" action="<?php echo esc_url(admin_url('admin-post.php')); ?>">
                     <input type="hidden" name="action" value="millyr_contact">
@@ -45,7 +45,7 @@ get_header(); ?>
                 </form>
             </div>
             <div>
-                <h2 style="margin-top:0;">Nossas <span class="text-gold">Informações</span></h2>
+                <h2 style="margin-top:0;">Nossas <span class="text-accent">Informações</span></h2>
                 <div class="contact-info-card">
                     <h3>📍 Endereço</h3>
                     <p>SHIS QI 9, Bloco A, Loja 101<br>Lago Sul, Brasília - DF<br>CEP: 71625-200</p>

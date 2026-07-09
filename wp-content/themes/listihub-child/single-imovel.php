@@ -32,7 +32,7 @@
                 <?php endif; ?>
                 <h1 style="font-family:var(--font-heading);font-size:2.5rem;color:var(--white);margin:16px 0;"><?php the_title(); ?></h1>
                 <?php if ($preco): ?>
-                    <div style="font-family:var(--font-heading);font-size:2.2rem;color:var(--gold);font-weight:700;margin:16px 0;">R$ <?php echo number_format((float)$preco, 0, ',', '.'); ?></div>
+                    <div style="font-family:var(--font-heading);font-size:2.2rem;color:var(--primary);font-weight:700;margin:16px 0;">R$ <?php echo number_format((float)$preco, 0, ',', '.'); ?></div>
                 <?php endif; ?>
                 <?php if ($bairro): ?>
                     <p style="color:var(--gray-300);font-size:1.05rem;"><?php echo esc_html($bairro); ?>, Brasília - DF</p>
@@ -48,13 +48,13 @@
             <div>
                 <h2 style="font-family:var(--font-heading);margin-top:0;">Detalhes do Imóvel</h2>
                 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:32px;">
-                    <?php if ($area): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--gold);"><?php echo esc_html($area); ?></strong>m²</div><?php endif; ?>
-                    <?php if ($quartos): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--gold);"><?php echo esc_html($quartos); ?></strong>Quartos</div><?php endif; ?>
-                    <?php if ($suites): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--gold);"><?php echo esc_html($suites); ?></strong>Suítes</div><?php endif; ?>
-                    <?php if ($vagas): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--gold);"><?php echo esc_html($vagas); ?></strong>Vagas</div><?php endif; ?>
-                    <?php if ($banheiros): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--gold);"><?php echo esc_html($banheiros); ?></strong>Banheiros</div><?php endif; ?>
-                    <?php if ($condominio): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.1rem;color:var(--gold);">R$ <?php echo number_format((float)$condominio, 0, ',', '.'); ?></strong>Condomínio</div><?php endif; ?>
-                    <?php if ($iptu): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.1rem;color:var(--gold);">R$ <?php echo number_format((float)$iptu, 0, ',', '.'); ?></strong>IPTU</div><?php endif; ?>
+                    <?php if ($area): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--primary);"><?php echo esc_html($area); ?></strong>m²</div><?php endif; ?>
+                    <?php if ($quartos): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--primary);"><?php echo esc_html($quartos); ?></strong>Quartos</div><?php endif; ?>
+                    <?php if ($suites): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--primary);"><?php echo esc_html($suites); ?></strong>Suítes</div><?php endif; ?>
+                    <?php if ($vagas): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--primary);"><?php echo esc_html($vagas); ?></strong>Vagas</div><?php endif; ?>
+                    <?php if ($banheiros): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.3rem;color:var(--primary);"><?php echo esc_html($banheiros); ?></strong>Banheiros</div><?php endif; ?>
+                    <?php if ($condominio): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.1rem;color:var(--primary);">R$ <?php echo number_format((float)$condominio, 0, ',', '.'); ?></strong>Condomínio</div><?php endif; ?>
+                    <?php if ($iptu): ?><div class="qualidade-card" style="padding:20px;"><strong style="display:block;font-size:1.1rem;color:var(--primary);">R$ <?php echo number_format((float)$iptu, 0, ',', '.'); ?></strong>IPTU</div><?php endif; ?>
                 </div>
 
                 <div style="background:var(--off-white);padding:32px;border-radius:var(--radius);margin-bottom:32px;">
@@ -68,7 +68,7 @@
                         <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
                             <?php foreach (explode(',', $caracteristicas) as $carac): ?>
                                 <div style="display:flex;align-items:center;gap:8px;padding:8px 0;">
-                                    <span style="color:var(--gold);">✓</span>
+                                    <span style="color:var(--primary);">✓</span>
                                     <span><?php echo esc_html(trim($carac)); ?></span>
                                 </div>
                             <?php endforeach; ?>

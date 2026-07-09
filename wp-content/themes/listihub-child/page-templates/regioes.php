@@ -3,7 +3,7 @@
 get_header(); ?>
 <section class="page-banner">
     <div class="container">
-        <h1>Regiões <span class="text-gold">Exclusivas</span></h1>
+        <h1>Regiões <span class="text-accent">Exclusivas</span></h1>
         <p>Conheça as regiões mais valorizadas de Brasília.</p>
     </div>
 </section>
